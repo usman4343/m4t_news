@@ -1,0 +1,27 @@
+/*
+// #Widgets
+// --------------------------------------------------
+*/
+
+/* Base Widget */
+.widget {
+
+}
+
+  /* Sidebar Widget */
+  .widget--sidebar {
+
+    .widget__content {
+      font-size: $sidebar-content-font-size;
+      line-height: $sidebar-content-line-height;
+    }
+  }
+
+  /* Footer Widget */
+  .widget--footer {
+
+    .widget__title {
+      color: $footer-widget-title;
+      font-size: $footer-widget-title-font-size;
+    }
+  }

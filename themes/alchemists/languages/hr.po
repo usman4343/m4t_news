@@ -1,0 +1,5741 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Alchemists\n"
+"POT-Creation-Date: 2017-09-01 16:22+0000\n"
+"PO-Revision-Date: 2017-09-17 17:28+0000\n"
+"Language-Team: Croatian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2\n"
+"Last-Translator: Zdenko <zdenkoskiljan@gmail.com>\n"
+"Language: hr\n"
+"X-Poedit-SearchPath-0: .\n"
+"Report-Msgid-Bugs-To: "
+
+#: 404.php:45
+msgid "404 Error"
+msgstr ""
+
+#: admin/menu-item-custom-fields/fields.php:39
+msgid "Mega Menu?"
+msgstr ""
+
+#: admin/menu-item-custom-fields/fields.php:45
+msgid "Mega Menu Widget Area"
+msgstr ""
+
+#: admin/menu-item-custom-fields/fields.php:168
+msgid "Select Widget Area"
+msgstr ""
+
+#: admin/options-init.php:32 admin/options-init.php:35
+msgid "Theme Options"
+msgstr ""
+
+#: admin/options-init.php:103 admin/options-init.php:407 
+#: admin/options-init.php:723 admin/options-init.php:1000 
+#: admin/options-init.php:1882
+msgid "Upload your image or specify the image URL."
+msgstr ""
+
+#: admin/options-init.php:112 admin/options-init.php:417 
+#: admin/options-init.php:1009
+msgid ""
+"Upload your image for retina displays or specify the image URL. It should be "
+"x2 time bigger than standard logo image."
+msgstr ""
+
+#: admin/options-init.php:121
+msgid ""
+"Logo width can be set in px. Height will automatically calculated. Default "
+"is 148px"
+msgstr ""
+
+#: admin/options-init.php:134
+msgid ""
+"Logo width can be set in px. Height will automatically calculated. Default "
+"is 97px"
+msgstr ""
+
+#: admin/options-init.php:146 admin/options-init.php:1624
+msgid "Header"
+msgstr ""
+
+#: admin/options-init.php:155 admin/options-init.php:1180
+msgid "Top Bar"
+msgstr ""
+
+#: admin/options-init.php:162
+msgid "Show Top Bar?"
+msgstr ""
+
+#: admin/options-init.php:170
+msgid "Show Top Bar Links?"
+msgstr ""
+
+#: admin/options-init.php:181 inc/vc-functions.php:1241 
+#: inc/vc-functions.php:1515
+msgid "Primary"
+msgstr ""
+
+#: admin/options-init.php:189
+msgid "Nav Height"
+msgstr ""
+
+#: admin/options-init.php:190
+msgid "Set Header Primary/Navigation height in px"
+msgstr ""
+
+#: admin/options-init.php:208
+msgid "Social Media Links"
+msgstr ""
+
+#: admin/options-init.php:209
+msgid "Define and reorder these links however you want."
+msgstr ""
+
+#: admin/options-init.php:210
+msgid ""
+"Leave empty a field if you don't want to display particular social media "
+"link."
+msgstr ""
+
+#: admin/options-init.php:222 admin/options-init.php:238 
+#: template-parts/header-primary.php:97 template-parts/header-primary.php:98
+msgid "Pinterest URL"
+msgstr ""
+
+#: admin/options-init.php:223 admin/options-init.php:239 
+#: template-parts/header-primary.php:101 template-parts/header-primary.php:102
+msgid "Tumblr URL"
+msgstr ""
+
+#: admin/options-init.php:224 admin/options-init.php:240 
+#: template-parts/header-primary.php:105 template-parts/header-primary.php:106
+msgid "Dribbble URL"
+msgstr ""
+
+#: admin/options-init.php:225 admin/options-init.php:241 
+#: template-parts/header-primary.php:109 template-parts/header-primary.php:110
+msgid "Vimeo URL"
+msgstr ""
+
+#: admin/options-init.php:226 admin/options-init.php:242 
+#: template-parts/header-primary.php:113 template-parts/header-primary.php:114
+msgid "Flickr URL"
+msgstr ""
+
+#: admin/options-init.php:227 admin/options-init.php:243 
+#: template-parts/header-primary.php:117 template-parts/header-primary.php:118
+msgid "Yelp URL"
+msgstr ""
+
+#: admin/options-init.php:265
+msgid "Secondary"
+msgstr ""
+
+#: admin/options-init.php:307 admin/options-init.php:339 
+#: admin/options-init.php:367
+msgid ""
+"Add your custom icon, e.g. <code>&lt;i class=\"fa fa-user\"&gt;&lt;/i&gt;"
+"</code> or <code>&lt;img src=\"PATH_TO_IMAGE\" /&gt;</code>"
+msgstr ""
+
+#: admin/options-init.php:316
+msgid "Show Secondary Email?"
+msgstr ""
+
+#: admin/options-init.php:324
+msgid "Label for Secondary Email address"
+msgstr ""
+
+#: admin/options-init.php:331
+msgid "Secondary Email address"
+msgstr ""
+
+#: admin/options-init.php:338
+msgid "Secondary Email Custom Icon"
+msgstr ""
+
+#: admin/options-init.php:353
+msgid "The following options are available if WooCommerce installed."
+msgstr ""
+
+#: admin/options-init.php:366
+msgid "Shopping Cart Custom Icon"
+msgstr ""
+
+#: admin/options-init.php:379 functions.php:215
+msgid "Pushy Panel"
+msgstr ""
+
+#: admin/options-init.php:448
+msgid "Title & Breadcrumbs"
+msgstr ""
+
+#: admin/options-init.php:462
+msgid "Turn on to add color overlay."
+msgstr ""
+
+#: admin/options-init.php:487
+msgid "The last word highlighted by default."
+msgstr ""
+
+#: admin/options-init.php:549
+msgid "Show Breadcrumbs?"
+msgstr ""
+
+#: admin/options-init.php:550
+msgid "Turn on to show Breadcrumbs"
+msgstr ""
+
+#: admin/options-init.php:558
+msgid "Customize Breadcrumbs Colors?"
+msgstr ""
+
+#: admin/options-init.php:559
+msgid "Turn on to change colors for Breadcrumbs."
+msgstr ""
+
+#: admin/options-init.php:568
+msgid "Breadcrumbs Link Color"
+msgstr ""
+
+#: admin/options-init.php:569
+msgid "Color for Breadcrumbs links."
+msgstr ""
+
+#: admin/options-init.php:585
+msgid "Breadcrumbs Current Crumb Color"
+msgstr ""
+
+#: admin/options-init.php:586
+msgid "Color for Breadcrumbs Current text."
+msgstr ""
+
+#: admin/options-init.php:596
+msgid "Breadcrumbs Separator Color"
+msgstr ""
+
+#: admin/options-init.php:597
+msgid "Color for Breadcrumbs Separator."
+msgstr ""
+
+#: admin/options-init.php:609 inc/acf-fields.php:79
+msgid "Hero Unit"
+msgstr ""
+
+#: admin/options-init.php:619
+msgid "The <span class=\"text-primary\">Alchemists</span>"
+msgstr ""
+
+#: admin/options-init.php:626
+msgid "Elric Bros School"
+msgstr ""
+
+#: admin/options-init.php:633
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisi nel elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore."
+msgstr ""
+
+#: admin/options-init.php:673
+msgid "Hero Unit Background"
+msgstr ""
+
+#: admin/options-init.php:689
+msgid "Hero Unit Height"
+msgstr ""
+
+#: admin/options-init.php:701
+msgid "Hero Unit Height (Mobile)"
+msgstr ""
+
+#: admin/options-init.php:711
+msgid "Show Hero Image?"
+msgstr ""
+
+#: admin/options-init.php:712
+msgid "Turn on to display Hero Image."
+msgstr ""
+
+#: admin/options-init.php:721
+msgid "Custom Hero Image"
+msgstr ""
+
+#: admin/options-init.php:752
+msgid "Turn on to show Posts Filter."
+msgstr ""
+
+#: admin/options-init.php:753
+msgid "Posts Filter displayed by default."
+msgstr ""
+
+#: admin/options-init.php:763
+msgid "Posts style displayed on Blog page."
+msgstr ""
+
+#: admin/options-init.php:767
+msgid "Cards (fitrows)"
+msgstr ""
+
+#: admin/options-init.php:779
+msgid "Masonry"
+msgstr ""
+
+#: admin/options-init.php:812
+msgid "Turn on to add Social Counter."
+msgstr ""
+
+#: admin/options-init.php:813
+msgid "Social Counters displayed for Masontry Blog Style."
+msgstr ""
+
+#: admin/options-init.php:824
+msgid ""
+"Number of post where Facebook Counter will be displayed. Enter 0 to not "
+"display counter."
+msgstr ""
+
+#: admin/options-init.php:832
+msgid "Twitter Counter Position"
+msgstr ""
+
+#: admin/options-init.php:833
+msgid ""
+"Number of post where Twitter Counter will be displayed. Enter 0 to not "
+"display counter."
+msgstr ""
+
+#: admin/options-init.php:841
+msgid "Google+ Counter Position"
+msgstr ""
+
+#: admin/options-init.php:842
+msgid ""
+"Number of post where Google+ Counter will be displayed. Enter 0 to not "
+"display counter."
+msgstr ""
+
+#: admin/options-init.php:850
+msgid "Instagram Counter Position"
+msgstr ""
+
+#: admin/options-init.php:851
+msgid ""
+"Number of post where Instagram Counter will be displayed. Enter 0 to not "
+"display counter."
+msgstr ""
+
+#: admin/options-init.php:928
+msgid "Turn on to show social sharing buttons."
+msgstr ""
+
+#: admin/options-init.php:929
+msgid "Social sharing buttons displayed by default."
+msgstr ""
+
+#: admin/options-init.php:939
+msgid ""
+"Drag and drop social sharing links from \"Disabled\" to \"Enabled\" group to "
+"display them on Single Post Page."
+msgstr ""
+
+#: admin/options-init.php:943 admin/options-init.php:1770 
+#: inc/vc-functions.php:604 inc/widgets/widget-contact-info.php:105 
+#: inc/widgets/widget-social-counters.php:247 
+#: template-parts/social-counters/social-fb.php:16
+msgid "Facebook"
+msgstr ""
+
+#: admin/options-init.php:944 admin/options-init.php:1790 
+#: inc/vc-functions.php:605 inc/widgets/widget-contact-info.php:111 
+#: inc/widgets/widget-social-counters.php:252 
+#: template-parts/social-counters/social-twitter.php:19
+msgid "Twitter"
+msgstr ""
+
+#: admin/options-init.php:945 admin/options-init.php:1829 
+#: inc/vc-functions.php:606 inc/widgets/widget-contact-info.php:117 
+#: inc/widgets/widget-social-counters.php:257 
+#: template-parts/social-counters/social-gplus.php:16
+msgid "Google+"
+msgstr ""
+
+#: admin/options-init.php:948
+msgid "Linkedin"
+msgstr ""
+
+#: admin/options-init.php:949
+msgid "VK"
+msgstr ""
+
+#: admin/options-init.php:950
+msgid "Odnoklassniki"
+msgstr ""
+
+#: admin/options-init.php:958
+msgid "Show Post Author Box on Single Post?"
+msgstr ""
+
+#: admin/options-init.php:959
+msgid "Turn on to show post author box."
+msgstr ""
+
+#: admin/options-init.php:960
+msgid "Post Author Box contains name, email, avatar and description."
+msgstr ""
+
+#: admin/options-init.php:971 admin/options-init.php:1435
+msgid "Footer"
+msgstr ""
+
+#: admin/options-init.php:981
+msgid "Footer Logo"
+msgstr ""
+
+#: admin/options-init.php:988
+msgid "Display Footer Logo?"
+msgstr ""
+
+#: admin/options-init.php:989
+msgid "Turn on to show the Footer Logo."
+msgstr ""
+
+#: admin/options-init.php:998
+msgid "Footer Custom Logo"
+msgstr ""
+
+#: admin/options-init.php:1007
+msgid "Footer Custom Logo @2x"
+msgstr ""
+
+#: admin/options-init.php:1018 admin/options-init.php:1025
+msgid "Footer Widgets"
+msgstr ""
+
+#: admin/options-init.php:1026
+msgid "Footer Widgets are displayed by default."
+msgstr ""
+
+#: admin/options-init.php:1035
+msgid "Footer Widgets Layout"
+msgstr ""
+
+#: admin/options-init.php:1036
+msgid "Select footer widgets layout (not equal or equal)."
+msgstr ""
+
+#: admin/options-init.php:1055
+msgid "Secondary Footer"
+msgstr ""
+
+#: admin/options-init.php:1062
+msgid "Show Secondary Footer?"
+msgstr ""
+
+#: admin/options-init.php:1063
+msgid "Turn on to show Footer Secondary Area"
+msgstr ""
+
+#: admin/options-init.php:1089
+msgid "Primary Color - Alt"
+msgstr ""
+
+#: admin/options-init.php:1090
+msgid "Pick a primary alt color."
+msgstr ""
+
+#: admin/options-init.php:1107
+msgid "Dark Color - Lighten"
+msgstr ""
+
+#: admin/options-init.php:1108
+msgid "Pick a dark lighten color."
+msgstr ""
+
+#: admin/options-init.php:1117
+msgid "Pick a gray color."
+msgstr ""
+
+#: admin/options-init.php:1125
+msgid "Secondary Color"
+msgstr ""
+
+#: admin/options-init.php:1126
+msgid "Pick a secondary color."
+msgstr ""
+
+#: admin/options-init.php:1135
+msgid "Pick a tertiary color."
+msgstr ""
+
+#: admin/options-init.php:1144
+msgid "Pick a quaternary color."
+msgstr ""
+
+#: admin/options-init.php:1156
+msgid "Base"
+msgstr ""
+
+#: admin/options-init.php:1163
+msgid "Body Background"
+msgstr ""
+
+#: admin/options-init.php:1164
+msgid "Body styling options"
+msgstr ""
+
+#: admin/options-init.php:1165
+msgid ""
+"Customize Body Background with color, background image, background position "
+"etc."
+msgstr ""
+
+#: admin/options-init.php:1171 admin/options-init.php:1374
+msgid "Link Color"
+msgstr ""
+
+#: admin/options-init.php:1172
+msgid "Color for links."
+msgstr ""
+
+#: admin/options-init.php:1187
+msgid "Top Bar Background"
+msgstr ""
+
+#: admin/options-init.php:1188
+msgid "Customize Top Bar Background Color."
+msgstr ""
+
+#: admin/options-init.php:1194
+msgid "Hover & Highlight Color"
+msgstr ""
+
+#: admin/options-init.php:1195
+msgid "Header Top Bar hover & highlight color."
+msgstr ""
+
+#: admin/options-init.php:1201
+msgid "Base & Text Color"
+msgstr ""
+
+#: admin/options-init.php:1202
+msgid "Header Top Bar base & text color."
+msgstr ""
+
+#: admin/options-init.php:1208
+msgid "Text Divider Color"
+msgstr ""
+
+#: admin/options-init.php:1209
+msgid "Header Top Bar text divider color."
+msgstr ""
+
+#: admin/options-init.php:1218
+msgid "Header Primary"
+msgstr ""
+
+#: admin/options-init.php:1225 admin/options-init.php:1352
+msgid "Background"
+msgstr ""
+
+#: admin/options-init.php:1226
+msgid "Customize Header Primary Background Color."
+msgstr ""
+
+#: admin/options-init.php:1233
+msgid "Links Color"
+msgstr ""
+
+#: admin/options-init.php:1234
+msgid "Customize Header Primary Links Color."
+msgstr ""
+
+#: admin/options-init.php:1242
+msgid "Link Border Height"
+msgstr ""
+
+#: admin/options-init.php:1243
+msgid ""
+"Set Border Height for hovered and activate Navigation items in px (2px by "
+"default)."
+msgstr ""
+
+#: admin/options-init.php:1250
+msgid "Link Border Color"
+msgstr ""
+
+#: admin/options-init.php:1251
+msgid "Appeared on hover and active Navigation items."
+msgstr ""
+
+#: admin/options-init.php:1257
+msgid "Submenu & Megamenu Background"
+msgstr ""
+
+#: admin/options-init.php:1258
+msgid "Customize Dropdown Menu Background Color."
+msgstr ""
+
+#: admin/options-init.php:1264
+msgid "Submenu Border Color"
+msgstr ""
+
+#: admin/options-init.php:1265
+msgid "Border color for Submenu."
+msgstr ""
+
+#: admin/options-init.php:1272
+msgid "Submenu Links Color"
+msgstr ""
+
+#: admin/options-init.php:1273
+msgid "Customize Submenu Links Color."
+msgstr ""
+
+#: admin/options-init.php:1280
+msgid "Megamenu Links Color"
+msgstr ""
+
+#: admin/options-init.php:1281
+msgid "Customize Megamenu Links Color."
+msgstr ""
+
+#: admin/options-init.php:1288
+msgid "Megamenu Column Title Color"
+msgstr ""
+
+#: admin/options-init.php:1289
+msgid "Title displayed for each column in Megamenu."
+msgstr ""
+
+#: admin/options-init.php:1296
+msgid "Megamenu Post Title Color"
+msgstr ""
+
+#: admin/options-init.php:1297
+msgid "Title displayed for posts in Megamenu."
+msgstr ""
+
+#: admin/options-init.php:1304
+msgid "Mobile Nav Background Color"
+msgstr ""
+
+#: admin/options-init.php:1305
+msgid "Background color for Navigation on mobile devices."
+msgstr ""
+
+#: admin/options-init.php:1312
+msgid "Mobile Nav Link Color"
+msgstr ""
+
+#: admin/options-init.php:1313
+msgid "Links color in Navigation on mobile devices."
+msgstr ""
+
+#: admin/options-init.php:1320
+msgid "Mobile Nav Border Color"
+msgstr ""
+
+#: admin/options-init.php:1321
+msgid "Border color for Navigation on mobile devices."
+msgstr ""
+
+#: admin/options-init.php:1328
+msgid "Mobile Nav Submenu Background"
+msgstr ""
+
+#: admin/options-init.php:1329
+msgid "Backgroud color for Navigation Submenu on mobile devices."
+msgstr ""
+
+#: admin/options-init.php:1336
+msgid "Mobile Nav Submenu Links Color"
+msgstr ""
+
+#: admin/options-init.php:1337
+msgid "Links color for Navigation Submenu on mobile devices."
+msgstr ""
+
+#: admin/options-init.php:1345
+msgid "Header Secondary"
+msgstr ""
+
+#: admin/options-init.php:1353
+msgid "Customize Header Secondary Background Color."
+msgstr ""
+
+#: admin/options-init.php:1359 inc/vc-functions.php:1532
+msgid "Icon Color"
+msgstr ""
+
+#: admin/options-init.php:1360
+msgid "Used to change color for icon color in Header Secondary."
+msgstr ""
+
+#: admin/options-init.php:1366
+msgid "Title Color"
+msgstr ""
+
+#: admin/options-init.php:1367
+msgid "Used to change color for title color in Header Secondary."
+msgstr ""
+
+#: admin/options-init.php:1375
+msgid "Color for links in the Header Secondary."
+msgstr ""
+
+#: admin/options-init.php:1382
+msgid "Link Color - Mobile"
+msgstr ""
+
+#: admin/options-init.php:1383
+msgid "Color for links in the Header Secondary on mobile devices."
+msgstr ""
+
+#: admin/options-init.php:1389
+msgid "Cart Summary Color"
+msgstr ""
+
+#: admin/options-init.php:1390
+msgid "Changes cart summary color in the Header Secondary."
+msgstr ""
+
+#: admin/options-init.php:1396
+msgid "Cart Summary Color - Mobile"
+msgstr ""
+
+#: admin/options-init.php:1397
+msgid "Changes cart summary color in the Header Secondary on mobile devices."
+msgstr ""
+
+#: admin/options-init.php:1405
+msgid "Blog"
+msgstr ""
+
+#: admin/options-init.php:1412
+msgid "Categories Group 1 - Color"
+msgstr ""
+
+#: admin/options-init.php:1413
+msgid ""
+"Customize color for Categories Group 1 (post category label and floating "
+"action button)"
+msgstr ""
+
+#: admin/options-init.php:1419
+msgid "Categories Group 2 - Color"
+msgstr ""
+
+#: admin/options-init.php:1420
+msgid ""
+"Customize color for Categories Group 2 (post category label and floating "
+"action button)"
+msgstr ""
+
+#: admin/options-init.php:1426
+msgid "Categories Group 3 - Color"
+msgstr ""
+
+#: admin/options-init.php:1427
+msgid ""
+"Customize color for Categories Group 3 (post category label and floating "
+"action button)"
+msgstr ""
+
+#: admin/options-init.php:1443
+msgid "Footer Widgets Background"
+msgstr ""
+
+#: admin/options-init.php:1444
+msgid "Customize Footer Widgets Background."
+msgstr ""
+
+#: admin/options-init.php:1450
+msgid "Footer Secondary Background Color"
+msgstr ""
+
+#: admin/options-init.php:1451 admin/options-init.php:1458
+msgid "Customize Footer Secondary Background Color."
+msgstr ""
+
+#: admin/options-init.php:1457
+msgid "Footer Side Decoration Color"
+msgstr ""
+
+#: admin/options-init.php:1474
+msgid "General"
+msgstr ""
+
+#: admin/options-init.php:1481
+msgid "Customize Body font?"
+msgstr ""
+
+#: admin/options-init.php:1482
+msgid "Turn on to use custom fonts for the theme main text."
+msgstr ""
+
+#: admin/options-init.php:1488
+msgid "Body Font"
+msgstr ""
+
+#: admin/options-init.php:1489
+msgid "Specify the body font properties."
+msgstr ""
+
+#: admin/options-init.php:1498
+msgid "Customize Headings?"
+msgstr ""
+
+#: admin/options-init.php:1499
+msgid "Turn on to use custom fonts, change color etc. for the theme Headings."
+msgstr ""
+
+#: admin/options-init.php:1505
+msgid "Font Family Accent"
+msgstr ""
+
+#: admin/options-init.php:1506
+msgid "Used for headings, titles, tabs, labels etc."
+msgstr ""
+
+#: admin/options-init.php:1523
+msgid "Headings"
+msgstr ""
+
+#: admin/options-init.php:1524
+msgid "Specify H1-H6 headings font properties."
+msgstr ""
+
+#: admin/options-init.php:1541
+msgid "Customize Headings separately?"
+msgstr ""
+
+#: admin/options-init.php:1542
+msgid "Turn on to customze each Heading separately."
+msgstr ""
+
+#: admin/options-init.php:1549
+msgid "H1 Heading"
+msgstr ""
+
+#: admin/options-init.php:1550
+msgid "Specify the H1 heading font properties."
+msgstr ""
+
+#: admin/options-init.php:1561
+msgid "H2 Heading"
+msgstr ""
+
+#: admin/options-init.php:1562
+msgid "Specify the H2 heading font properties."
+msgstr ""
+
+#: admin/options-init.php:1573
+msgid "H3 Heading"
+msgstr ""
+
+#: admin/options-init.php:1574
+msgid "Specify the H3 heading font properties."
+msgstr ""
+
+#: admin/options-init.php:1585
+msgid "H4 Heading"
+msgstr ""
+
+#: admin/options-init.php:1586
+msgid "Specify the H4 heading font properties."
+msgstr ""
+
+#: admin/options-init.php:1597
+msgid "H5 Heading"
+msgstr ""
+
+#: admin/options-init.php:1598
+msgid "Specify the H5 heading font properties."
+msgstr ""
+
+#: admin/options-init.php:1609
+msgid "H6 Heading"
+msgstr ""
+
+#: admin/options-init.php:1610
+msgid "Specify the H6 heading font properties."
+msgstr ""
+
+#: admin/options-init.php:1631
+msgid "Customize Navigation?"
+msgstr ""
+
+#: admin/options-init.php:1632
+msgid "Turn on to use custom fonts for Navigation."
+msgstr ""
+
+#: admin/options-init.php:1638
+msgid "Navigation Typography"
+msgstr ""
+
+#: admin/options-init.php:1639 admin/options-init.php:1652
+msgid "Used for the main navigation."
+msgstr ""
+
+#: admin/options-init.php:1651
+msgid "Navigation Dropdown Typography"
+msgstr ""
+
+#: admin/options-init.php:1666
+msgid "Preloader"
+msgstr ""
+
+#: admin/options-init.php:1673
+msgid "Use Preloader?"
+msgstr ""
+
+#: admin/options-init.php:1674
+msgid "Turn on to use page pre-loader."
+msgstr ""
+
+#: admin/options-init.php:1675
+msgid "If turned on you will see spinner before content will be shown."
+msgstr ""
+
+#: admin/options-init.php:1683
+msgid "Customize Preloader?"
+msgstr ""
+
+#: admin/options-init.php:1684
+msgid "Turn on to change colors, size, speen of preloader."
+msgstr ""
+
+#: admin/options-init.php:1693
+msgid "Preloader Background Color"
+msgstr ""
+
+#: admin/options-init.php:1694
+msgid "Choose background color your pre-loader screen."
+msgstr ""
+
+#: admin/options-init.php:1706
+msgid "Spinner Size"
+msgstr ""
+
+#: admin/options-init.php:1707
+msgid "Set up the spinner size."
+msgstr ""
+
+#: admin/options-init.php:1708
+msgid "Spinner size can be set in px."
+msgstr ""
+
+#: admin/options-init.php:1718
+msgid "Spinning Part Color"
+msgstr ""
+
+#: admin/options-init.php:1719
+msgid "Choose color for spinning part."
+msgstr ""
+
+#: admin/options-init.php:1729
+msgid "Spinner Bar Color"
+msgstr ""
+
+#: admin/options-init.php:1730
+msgid "Choose color for spinning bar."
+msgstr ""
+
+#: admin/options-init.php:1740
+msgid "Spinner Animation Duration"
+msgstr ""
+
+#: admin/options-init.php:1741
+msgid "Duration in seconds, Min: 0, max: 2, step: .1, default value: .8."
+msgstr ""
+
+#: admin/options-init.php:1759
+msgid "Social"
+msgstr ""
+
+#: admin/options-init.php:1776
+msgid "Facebook User"
+msgstr ""
+
+#: admin/options-init.php:1777
+msgid "Enter Facebook User Name."
+msgstr ""
+
+#: admin/options-init.php:1782
+msgid "Facebook Token"
+msgstr ""
+
+#: admin/options-init.php:1783
+msgid "Enter Facebook Token."
+msgstr ""
+
+#: admin/options-init.php:1796
+msgid "Twitter User"
+msgstr ""
+
+#: admin/options-init.php:1797
+msgid "Enter Twitter Username."
+msgstr ""
+
+#: admin/options-init.php:1802
+msgid "Twitter Consumer Key"
+msgstr ""
+
+#: admin/options-init.php:1803
+msgid "Enter Twitter Consumer Key."
+msgstr ""
+
+#: admin/options-init.php:1808
+msgid "Twitter Consumer Secret"
+msgstr ""
+
+#: admin/options-init.php:1809
+msgid "Enter Twitter Consumer Secret."
+msgstr ""
+
+#: admin/options-init.php:1814
+msgid "Twitter Access Token"
+msgstr ""
+
+#: admin/options-init.php:1815
+msgid "Enter Twitter Access Token."
+msgstr ""
+
+#: admin/options-init.php:1820
+msgid "Twitter Access Token Secret"
+msgstr ""
+
+#: admin/options-init.php:1821
+msgid "Enter Access Token Secret."
+msgstr ""
+
+#: admin/options-init.php:1835
+msgid "Google+ Username"
+msgstr ""
+
+#: admin/options-init.php:1836
+msgid "Enter Google+ Username."
+msgstr ""
+
+#: admin/options-init.php:1841
+msgid "Google+ Key"
+msgstr ""
+
+#: admin/options-init.php:1842
+msgid "Enter Google+ Key."
+msgstr ""
+
+#: admin/options-init.php:1850 inc/vc-functions.php:607 
+#: inc/widgets/widget-social-counters.php:262 
+#: template-parts/social-counters/social-instagram.php:16
+msgid "Instagram"
+msgstr ""
+
+#: admin/options-init.php:1856
+msgid "Instagram Username"
+msgstr ""
+
+#: admin/options-init.php:1857
+msgid "Enter Instagram Username."
+msgstr ""
+
+#: admin/options-init.php:1862
+msgid "Instagram Token"
+msgstr ""
+
+#: admin/options-init.php:1863
+msgid "Enter Instagram Token."
+msgstr ""
+
+#: admin/options-init.php:1871
+msgid "404 Page"
+msgstr ""
+
+#: admin/options-init.php:1879
+msgid "Page 404 Image"
+msgstr ""
+
+#: admin/options-init.php:1880
+msgid "This image displayed only on Page 404."
+msgstr ""
+
+#: admin/options-init.php:1887
+msgid "Page Header Title"
+msgstr ""
+
+#: admin/options-init.php:1888
+msgid "Change 404 Page Header Title."
+msgstr ""
+
+#: admin/options-init.php:1889
+msgid "This text appears below the Header."
+msgstr ""
+
+#: admin/options-init.php:1895
+msgid "Change Page 404 Title."
+msgstr ""
+
+#: admin/options-init.php:1896
+msgid "This text appears above 404 image."
+msgstr ""
+
+#: admin/options-init.php:1902
+msgid "Change Page 404 Subtitle."
+msgstr ""
+
+#: admin/options-init.php:1903
+msgid "This text appears above 404 Title."
+msgstr ""
+
+#: admin/options-init.php:1913
+msgid "Show Primary Button?"
+msgstr ""
+
+#: admin/options-init.php:1914
+msgid "Turn on to display primary button."
+msgstr ""
+
+#: admin/options-init.php:1915
+msgid "This button linked to main page."
+msgstr ""
+
+#: admin/options-init.php:1923
+msgid "Primary Button Text"
+msgstr ""
+
+#: admin/options-init.php:1924
+msgid "Change Primary Button text."
+msgstr ""
+
+#: admin/options-init.php:1925
+msgid "Primary button linked to the Home page."
+msgstr ""
+
+#: admin/options-init.php:1931
+msgid "Primary Button URL"
+msgstr ""
+
+#: admin/options-init.php:1932
+msgid "Change Primary Button URL."
+msgstr ""
+
+#: admin/options-init.php:1938
+msgid "Show Secondary Button?"
+msgstr ""
+
+#: admin/options-init.php:1939
+msgid "Turn on to display secondary button."
+msgstr ""
+
+#: admin/options-init.php:1940
+msgid "You can link this button any page."
+msgstr ""
+
+#: admin/options-init.php:1948
+msgid "Secondary Button Text"
+msgstr ""
+
+#: admin/options-init.php:1949
+msgid "Change Secondary Button text."
+msgstr ""
+
+#: admin/options-init.php:1950
+msgid "Secondary button linked to the Blog page."
+msgstr ""
+
+#: admin/options-init.php:1956
+msgid "Secondary Button URL"
+msgstr ""
+
+#: admin/options-init.php:1957
+msgid "Change Secondary Button URL."
+msgstr ""
+
+#: admin/options-init.php:1965
+msgid "SportsPress"
+msgstr ""
+
+#: admin/options-init.php:1982
+msgid "Organize Team Subpages order."
+msgstr ""
+
+#: admin/options-init.php:1983
+msgid ""
+"Organize how you want the team subpages to appear on a single team page."
+msgstr ""
+
+#: admin/options-init.php:2003 admin/options-init.php:2115
+msgid "Change Permalinks"
+msgstr ""
+
+#: admin/options-init.php:2004 admin/options-init.php:2116
+msgid ""
+"After changing slugs go to <strong>Settings > Permalinks</strong> and click "
+"on <strong>Save Changes</strong> button."
+msgstr ""
+
+#: admin/options-init.php:2010
+msgid "Label for Overview Team subpage."
+msgstr ""
+
+#: admin/options-init.php:2016
+msgid "Roster - Label"
+msgstr ""
+
+#: admin/options-init.php:2017
+msgid "Label for Roster Team subpage."
+msgstr ""
+
+#: admin/options-init.php:2023
+msgid "Roster - Slug"
+msgstr ""
+
+#: admin/options-init.php:2024
+msgid "Slug for Roster Team subpage."
+msgstr ""
+
+#: admin/options-init.php:2031
+msgid "Label for Standings Team subpage."
+msgstr ""
+
+#: admin/options-init.php:2037
+msgid "Standings - Slug"
+msgstr ""
+
+#: admin/options-init.php:2038
+msgid "Slug for Standings Team subpage."
+msgstr ""
+
+#: admin/options-init.php:2044
+msgid "Latest Results - Label"
+msgstr ""
+
+#: admin/options-init.php:2045
+msgid "Label for Latest Results Team subpage."
+msgstr ""
+
+#: admin/options-init.php:2051
+msgid "Results - Slug"
+msgstr ""
+
+#: admin/options-init.php:2052
+msgid "Slug for Results Team subpage."
+msgstr ""
+
+#: admin/options-init.php:2058
+msgid "Schedule - Label"
+msgstr ""
+
+#: admin/options-init.php:2059
+msgid "Label for Schedule Team subpage."
+msgstr ""
+
+#: admin/options-init.php:2065
+msgid "Schedule - Slug"
+msgstr ""
+
+#: admin/options-init.php:2066
+msgid "Slug for Schedule Team subpage."
+msgstr ""
+
+#: admin/options-init.php:2072 admin/options-init.php:2170
+msgid "Gallery - Label"
+msgstr ""
+
+#: admin/options-init.php:2073
+msgid "Label for Gallery Team subpage."
+msgstr ""
+
+#: admin/options-init.php:2079 admin/options-init.php:2177
+msgid "Gallery - Slug"
+msgstr ""
+
+#: admin/options-init.php:2080
+msgid "Slug for Gallery Team subpage."
+msgstr ""
+
+#: admin/options-init.php:2094
+msgid "Player Subpages Layout"
+msgstr ""
+
+#: admin/options-init.php:2095
+msgid "Organize Player Subpages order."
+msgstr ""
+
+#: admin/options-init.php:2096
+msgid ""
+"Organize how you want the team subpages to appear on a single player page."
+msgstr ""
+
+#: admin/options-init.php:2122
+msgid "Label for Overview Player subpage."
+msgstr ""
+
+#: admin/options-init.php:2129
+msgid "Label for Statistics Player subpage."
+msgstr ""
+
+#: admin/options-init.php:2135
+msgid "Statistics - Slug"
+msgstr ""
+
+#: admin/options-init.php:2136
+msgid "Slug for Statistics Player subpage."
+msgstr ""
+
+#: admin/options-init.php:2142
+msgid "Biography - Label"
+msgstr ""
+
+#: admin/options-init.php:2143
+msgid "Label for Biography Player subpage."
+msgstr ""
+
+#: admin/options-init.php:2149
+msgid "Biography - Slug"
+msgstr ""
+
+#: admin/options-init.php:2150
+msgid "Slug for Biography Player subpage."
+msgstr ""
+
+#: admin/options-init.php:2156
+msgid "Related News - Label"
+msgstr ""
+
+#: admin/options-init.php:2157
+msgid "Label for Related News Player subpage."
+msgstr ""
+
+#: admin/options-init.php:2163
+msgid "Related News - Slug"
+msgstr ""
+
+#: admin/options-init.php:2164
+msgid "Slug for Related News Player subpage."
+msgstr ""
+
+#: admin/options-init.php:2171
+msgid "Label for Gallery Player subpage."
+msgstr ""
+
+#: admin/options-init.php:2178
+msgid "Slug for Gallery Player subpage."
+msgstr ""
+
+#: admin/options-init.php:2186
+msgid "WooCommerce"
+msgstr ""
+
+#: admin/options-init.php:2212
+msgid "Related Products Columns"
+msgstr ""
+
+#: admin/options-init.php:2213
+msgid "Select the number of columns for the related products"
+msgstr ""
+
+#: admin/options-init.php:2224
+msgid "Related products per page"
+msgstr ""
+
+#: admin/options-init.php:2225
+msgid "Number of products of Related Products."
+msgstr ""
+
+#: admin/options-init.php:2226
+msgid "Change the number of products fore Related Products."
+msgstr ""
+
+#: admin/options-init.php:2234
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/options-init.php:2240
+msgid "CSS Code"
+msgstr ""
+
+#: admin/options-init.php:2241
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: admin/options-init.php:2244
+msgid "Any custom CSS can be added here, it will override the theme CSS."
+msgstr ""
+
+#: admin/options-init.php:2251
+msgid "Import / Export"
+msgstr ""
+
+#: admin/options-init.php:2252
+msgid "Import and Export your theme settings from file, text or URL."
+msgstr ""
+
+#: admin/options-init.php:2266
+msgid "Theme Information"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:393 
+#: admin/tgm/class-tgm-plugin-activation.php:912 
+#: admin/tgm/class-tgm-plugin-activation.php:2618 
+#: admin/tgm/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:394 
+#: admin/tgm/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:395 
+#: admin/tgm/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1019 
+#: admin/tgm/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1206 
+#: admin/tgm/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2634 inc/acf-fields.php:231 
+#: inc/vc-functions.php:511 inc/vc-functions.php:1227
+msgid "Type"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3594 
+#: admin/tgm/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s done."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: functions.php:163 functions.php:172 functions.php:181 functions.php:190 
+#: functions.php:199 functions.php:208
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:197
+msgid "Megamenu Widget Area 1"
+msgstr ""
+
+#: functions.php:206
+msgid "Megamenu Widget Area 2"
+msgstr ""
+
+#: functions.php:217
+msgid "This panel slides from right side and works only on desktop."
+msgstr ""
+
+#: functions.php:224
+msgid "Footer Widget Area 1"
+msgstr ""
+
+#: functions.php:226
+msgid "1st Footer Widget Area."
+msgstr ""
+
+#: functions.php:233
+msgid "Footer Widget Area 2"
+msgstr ""
+
+#: functions.php:235
+msgid "2nd Footer Widget Area"
+msgstr ""
+
+#: functions.php:242
+msgid "Footer Widget Area 3"
+msgstr ""
+
+#: functions.php:244
+msgid "3rd Footer Widget Area"
+msgstr ""
+
+#: functions.php:251
+msgid "Footer Widget Area 4"
+msgstr ""
+
+#: functions.php:253
+msgid "4th Footer Widget Area"
+msgstr ""
+
+#: inc/acf-fields.php:488
+msgid "Select Gallery Roster"
+msgstr ""
+
+#: inc/acf-fields.php:519
+msgid "Gallery Roster Type"
+msgstr ""
+
+#: inc/acf-fields.php:539 inc/vc-functions.php:553
+msgid "Grid"
+msgstr ""
+
+#: inc/acf-fields.php:613
+msgid "List Roster"
+msgstr ""
+
+#: inc/acf-fields.php:632
+msgid "Select List Roster"
+msgstr ""
+
+#: inc/extras.php:95
+msgctxt "Montserrat: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/extras.php:101
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/template-tags.php:254
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: inc/vc-functions.php:341
+msgid "ID"
+msgstr ""
+
+#: inc/vc-functions.php:374
+msgid "ALC: Awards Carousel"
+msgstr ""
+
+#: inc/vc-functions.php:377 inc/vc-functions.php:461 inc/vc-functions.php:503 
+#: inc/vc-functions.php:544 inc/vc-functions.php:643 inc/vc-functions.php:790 
+#: inc/vc-functions.php:937 inc/vc-functions.php:1054 
+#: inc/vc-functions.php:1209 inc/vc-functions.php:1308 
+#: inc/vc-functions.php:1600 inc/vc-functions.php:1656 
+#: inc/vc-functions.php:1699 inc/vc-functions.php:1776 
+#: inc/vc-functions.php:1872 inc/vc-functions.php:2206 
+#: inc/vc-functions.php:2274 inc/vc-functions.php:2349 
+#: inc/vc-functions.php:2427 inc/vc-functions.php:2550 
+#: inc/vc-functions.php:2655 inc/vc-functions.php:2744 
+#: inc/vc-functions.php:2800 inc/vc-functions.php:2867
+msgid "ALC"
+msgstr ""
+
+#: inc/vc-functions.php:384 inc/vc-functions.php:472 inc/vc-functions.php:650 
+#: inc/vc-functions.php:797 inc/vc-functions.php:1667 
+#: inc/vc-functions.php:2281 inc/vc-functions.php:2356 
+#: inc/vc-functions.php:2434 inc/vc-functions.php:2557 
+#: inc/vc-functions.php:2662 inc/vc-functions.php:2751 
+#: inc/vc-functions.php:2807 inc/vc-functions.php:2874
+msgid "Enter text used as widget title (Note: located above content element)."
+msgstr ""
+
+#: inc/vc-functions.php:458
+msgid "ALC: Newslog Static"
+msgstr ""
+
+#: inc/vc-functions.php:500
+msgid "ALC: Newslog Item"
+msgstr ""
+
+#: inc/vc-functions.php:507
+msgid "An item for log list."
+msgstr ""
+
+#: inc/vc-functions.php:513
+msgid "Select type of item"
+msgstr ""
+
+#: inc/vc-functions.php:541
+msgid "ALC: Social Buttons"
+msgstr ""
+
+#: inc/vc-functions.php:594 inc/vc-functions.php:1910
+msgid "URL"
+msgstr ""
+
+#: inc/vc-functions.php:640
+msgid "ALC: Post Loop"
+msgstr ""
+
+#: inc/vc-functions.php:644
+msgid "Posts in grid, list etc."
+msgstr ""
+
+#: inc/vc-functions.php:655 inc/vc-functions.php:2302 inc/vc-functions.php:2765
+msgid "Button URL (Link)"
+msgstr ""
+
+#: inc/vc-functions.php:664
+msgid "Cards 2 cols"
+msgstr ""
+
+#: inc/vc-functions.php:665
+msgid "List - Card"
+msgstr ""
+
+#: inc/vc-functions.php:666
+msgid "List - Left Thumb"
+msgstr ""
+
+#: inc/vc-functions.php:667
+msgid "List - Center Thumb"
+msgstr ""
+
+#: inc/vc-functions.php:668
+msgid "List - Simple"
+msgstr ""
+
+#: inc/vc-functions.php:669
+msgid "List - Simple (1st Post Extented)"
+msgstr ""
+
+#: inc/vc-functions.php:670
+msgid "List - Simple Horizontal"
+msgstr ""
+
+#: inc/vc-functions.php:671
+msgid "Cards - Masonry"
+msgstr ""
+
+#: inc/vc-functions.php:759 inc/vc-functions.php:1112
+msgid "If checked Excerpt will be hidden."
+msgstr ""
+
+#: inc/vc-functions.php:787
+msgid "ALC: Post Slider"
+msgstr ""
+
+#: inc/vc-functions.php:900 inc/vc-functions.php:1017
+msgid "Prev/Nav Arrows?"
+msgstr ""
+
+#: inc/vc-functions.php:906 inc/vc-functions.php:1023
+msgid "Show next/prev buttons."
+msgstr ""
+
+#: inc/vc-functions.php:934
+msgid "ALC: Post Carousel"
+msgstr ""
+
+#: inc/vc-functions.php:1094
+msgid "If checked categories label(s) will be hidden."
+msgstr ""
+
+#: inc/vc-functions.php:1146
+msgid "If checked button will be hidden."
+msgstr ""
+
+#: inc/vc-functions.php:1153
+msgid "Custom button link and label."
+msgstr ""
+
+#: inc/vc-functions.php:1167
+msgid "If checked date will be hidden."
+msgstr ""
+
+#: inc/vc-functions.php:1223
+msgid "Add link to button."
+msgstr ""
+
+#: inc/vc-functions.php:1242
+msgid "Primary Inverse"
+msgstr ""
+
+#: inc/vc-functions.php:1278
+msgid "Set full width button?"
+msgstr ""
+
+#: inc/vc-functions.php:1305
+msgid "ALC: Icobox"
+msgstr ""
+
+#: inc/vc-functions.php:1309
+msgid "Block with icon and text."
+msgstr ""
+
+#: inc/vc-functions.php:1346
+msgid "Font Awesome"
+msgstr ""
+
+#: inc/vc-functions.php:1347
+msgid "Open Iconic"
+msgstr ""
+
+#: inc/vc-functions.php:1348
+msgid "Typicons"
+msgstr ""
+
+#: inc/vc-functions.php:1349
+msgid "Entypo"
+msgstr ""
+
+#: inc/vc-functions.php:1350
+msgid "Linecons"
+msgstr ""
+
+#: inc/vc-functions.php:1351
+msgid "Mono Social"
+msgstr ""
+
+#: inc/vc-functions.php:1518
+msgid "Select icon holder color."
+msgstr ""
+
+#: inc/vc-functions.php:1522
+msgid "Custom Icon Holder Color"
+msgstr ""
+
+#: inc/vc-functions.php:1524
+msgid "Select custom icon holder color."
+msgstr ""
+
+#: inc/vc-functions.php:1597
+msgid "ALC: Alert"
+msgstr ""
+
+#: inc/vc-functions.php:1601
+msgid "Simple Alert block."
+msgstr ""
+
+#: inc/vc-functions.php:1619
+msgid "I am message box. Click edit button to change this text."
+msgstr ""
+
+#: inc/vc-functions.php:1653
+msgid "ALC: Box"
+msgstr ""
+
+#: inc/vc-functions.php:1696
+msgid "ALC: Woo Banner"
+msgstr ""
+
+#: inc/vc-functions.php:1717
+msgid "Subtitle - Secondary"
+msgstr ""
+
+#: inc/vc-functions.php:1784
+msgid "Grid 2 cols"
+msgstr ""
+
+#: inc/vc-functions.php:1785
+msgid "Grid 3 cols"
+msgstr ""
+
+#: inc/vc-functions.php:1786
+msgid "Grid 4 cols"
+msgstr ""
+
+#: inc/vc-functions.php:1869
+msgid "ALC: Content Nav"
+msgstr ""
+
+#: inc/vc-functions.php:1917
+msgid "Active?"
+msgstr ""
+
+#: inc/vc-functions.php:1923
+msgid "Select currently active item."
+msgstr ""
+
+#: inc/vc-functions.php:2203
+msgid "ALC: Event Blocks - Simple"
+msgstr ""
+
+#: inc/vc-functions.php:2211
+msgid "Heading"
+msgstr ""
+
+#: inc/vc-functions.php:2214
+msgid "Add heading text here."
+msgstr ""
+
+#: inc/vc-functions.php:2262
+msgid ""
+"Adds a button to the header (Note: make sure you selected a calendar to get "
+"it working)."
+msgstr ""
+
+#: inc/vc-functions.php:2304 inc/vc-functions.php:2767
+msgid "Add link to header."
+msgstr ""
+
+#: inc/vc-functions.php:2311
+msgid "Color for progress and circular bars of the 1st Team."
+msgstr ""
+
+#: inc/vc-functions.php:2318
+msgid "Color for progress and circular bars of the 2nd Team."
+msgstr ""
+
+#: inc/vc-functions.php:2370
+msgid "WON Label"
+msgstr ""
+
+#: inc/vc-functions.php:2372
+msgid "Won"
+msgstr ""
+
+#: inc/vc-functions.php:2373
+msgid "Enter text for WON label."
+msgstr ""
+
+#: inc/vc-functions.php:2378
+msgid "LOST Label"
+msgstr ""
+
+#: inc/vc-functions.php:2380
+msgid "Lost"
+msgstr ""
+
+#: inc/vc-functions.php:2381
+msgid "Enter text for LOST label."
+msgstr ""
+
+#: inc/vc-functions.php:2387
+msgid "WON Bars Color"
+msgstr ""
+
+#: inc/vc-functions.php:2389
+msgid "Select a custom color for WON bars."
+msgstr ""
+
+#: inc/vc-functions.php:2394
+msgid "LOST Bars Color"
+msgstr ""
+
+#: inc/vc-functions.php:2396
+msgid "Select a custom color for LOST bars."
+msgstr ""
+
+#: inc/vc-functions.php:2428
+msgid "A block with team stats."
+msgstr ""
+
+#: inc/vc-functions.php:2513
+#, php-format
+msgid "Enter icon symbol, e.g. W, L, % etc."
+msgstr ""
+
+#: inc/vc-functions.php:2615
+msgid "Chart Line Color"
+msgstr ""
+
+#: inc/vc-functions.php:2617
+msgid "Select a custom color for chart line."
+msgstr ""
+
+#: inc/vc-functions.php:2622
+msgid "Chart Point Color"
+msgstr ""
+
+#: inc/vc-functions.php:2624
+msgid "Select a custom color for chart point."
+msgstr ""
+
+#: inc/vc-functions.php:2652
+msgid "ALC: Team Leaders"
+msgstr ""
+
+#: inc/vc-functions.php:2656
+msgid "A block for displaying team leaders."
+msgstr ""
+
+#: inc/vc-functions.php:2692
+msgid "Enter Heading for Statistic"
+msgstr ""
+
+#: inc/vc-functions.php:2706
+msgid "AVG Statistic"
+msgstr ""
+
+#: inc/vc-functions.php:2710
+msgid "Select an AVG statistic"
+msgstr ""
+
+#: inc/vc-functions.php:2741
+msgid "ALC: Staff Bio Card"
+msgstr ""
+
+#: inc/vc-functions.php:2760
+msgid "Select staff member you want to display."
+msgstr ""
+
+#: inc/vc-functions.php:2801
+msgid "A block shows player stats."
+msgstr ""
+
+#: inc/vc-functions.php:2817 inc/vc-functions.php:2916
+msgid ""
+"Select player. (Note: Leave it empty if you place this element on Single "
+"Player page)."
+msgstr ""
+
+#: inc/vc-functions.php:2893
+msgid "Adds a button to all events the widget header."
+msgstr ""
+
+#: inc/widgets/widget-instagram-feed.php:162
+msgid "Access Token:"
+msgstr ""
+
+#: sportspress/event-logos-block.php:207 sportspress/game-result.php:262 
+#: vc_templates/alc_event_scoreboard.php:264
+msgid "1"
+msgstr ""
+
+#: sportspress/event-logos-block.php:208 sportspress/game-result.php:263 
+#: vc_templates/alc_event_scoreboard.php:265
+msgid "2"
+msgstr ""
+
+#: sportspress/event-logos-block.php:209 sportspress/game-result.php:264 
+#: vc_templates/alc_event_scoreboard.php:266
+msgid "3"
+msgstr ""
+
+#: sportspress/event-logos-block.php:210 sportspress/game-result.php:265 
+#: vc_templates/alc_event_scoreboard.php:267
+msgid "4"
+msgstr ""
+
+#: sportspress/event-logos-block.php:212 sportspress/game-result.php:267 
+#: vc_templates/alc_event_scoreboard.php:269
+msgid "OT"
+msgstr ""
+
+#: sportspress/event-logos-block.php:214 sportspress/game-result.php:269 
+#: vc_templates/alc_event_scoreboard.php:271 
+#: vc_templates/alc_team_leaders.php:126
+msgid "T"
+msgstr ""
+
+#: sportspress/player-event-game-by-game.php:192
+msgid "W"
+msgstr ""
+
+#: sportspress/player-event-game-by-game.php:194
+msgid "L"
+msgstr ""
+
+#: sportspress/player-statistics-radar.php:41
+msgid "OFF"
+msgstr ""
+
+#: sportspress/player-statistics-radar.php:41
+msgid "AST"
+msgstr ""
+
+#: sportspress/player-statistics-radar.php:41
+msgid "3PT"
+msgstr ""
+
+#: sportspress/player-statistics-radar.php:41
+msgid "DEF"
+msgstr ""
+
+#: vc_templates/alc_team_leaders.php:127
+msgid "GP"
+msgstr ""
+
+#: woocommerce/myaccount/downloads.php:63
+msgid "&infin;"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:51
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:63
+#, php-format
+msgid "%1$s for %2$s item"
+msgid_plural "%1$s for %2$s items"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: woocommerce/single-product/meta.php:31
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:35
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] "Oznaka:"
+msgstr[1] ""
+msgstr[2] "Oznake;"
+
+#: admin/options-init.php:386
+msgid "Show Side Panel?"
+msgstr "Prikazati bočni panel?"
+
+#: admin/options-init.php:394
+msgid "Add Logo to the Side Panel?"
+msgstr "Dodati logo na bočni panel?"
+
+#: admin/options-init.php:427
+msgid ""
+"Logo width can be set in px. Height will automatically calculated. Note: "
+"94px by default."
+msgstr ""
+"Širina loga može biti postavljena u px. Visina će se automatski izračunati. "
+"Pozor: zadano je 94px."
+
+#: admin/options-init.php:438 inc/acf-fields.php:66
+msgid "Page Heading"
+msgstr "Zaglavlje stranice"
+
+#: admin/options-init.php:456
+msgid "Page Heading Background"
+msgstr "Pozadina zaglavlja stranice"
+
+#: admin/options-init.php:461
+msgid "Add Overlay on Page Heading Image?"
+msgstr "Dodati sliku koja će se prikazati preko slike zaglavlja stranice?"
+
+#: admin/options-init.php:471
+msgid "Page Heading Overlay Background"
+msgstr "Slika koja će se prikazati preko slike zaglavlja stranice"
+
+#: admin/options-init.php:477
+msgid "Customize Page Heading Padding?"
+msgstr "Prilagodite razmak kod zaglavlja stranica?"
+
+#: admin/options-init.php:478
+msgid "Turn on to customize top padding."
+msgstr "Uključite ako želite prilagoditi gornji razmak."
+
+#: admin/options-init.php:486
+msgid "Highlight Page Heading Last Word?"
+msgstr "Naglasiti zadnju riječ zaglavlja stranice?"
+
+#: admin/options-init.php:500
+msgid "Page Headings Paddings - Desktop"
+msgstr "Razmak kod zaglavlja stranica - stolno računalo"
+
+#: admin/options-init.php:501
+msgid "Set paddings for Desktop."
+msgstr "Postavite razmak za stolno računalo."
+
+#: admin/options-init.php:502
+msgid ""
+"You can set Top Paddings for the Page Headings. Applied only for desktop "
+"monitors."
+msgstr ""
+"Možete postaviti gornji razmak za zaglavlja stranica. Primjenjuje se samo "
+"kod stolnih računala."
+
+#: admin/options-init.php:518
+msgid "Page Headings Paddings - Tablet"
+msgstr "Razmak kod zaglavlja stranica - tablet"
+
+#: admin/options-init.php:519
+msgid "Set paddings for Tablets."
+msgstr "Postavite razmak za tablete."
+
+#: admin/options-init.php:520
+msgid ""
+"You can set Top Paddings for the Page Headings. Applied only for tablets."
+msgstr ""
+"Možete postaviti gornji razmak za zaglavlja stranica. Primjenjuje se samo "
+"kod tableta."
+
+#: admin/options-init.php:536
+msgid "Page Headings Paddings - Mobile"
+msgstr "Razmak kod zaglavlja stranica - mobilni uređaji"
+
+#: admin/options-init.php:537
+msgid "Set paddings for Mobile devices."
+msgstr "Postavite razmak za mobilne uređaje."
+
+#: admin/options-init.php:538
+msgid ""
+"You can set Top Paddings for the Page Headings. Applied only for mobile "
+"devices."
+msgstr ""
+"Možete postaviti gornji razmak za zaglavlja stranica. Primjenjuje se samo "
+"kod mobilnih uređaja."
+
+#: admin/options-init.php:690 admin/options-init.php:702
+msgid "Set your custom height."
+msgstr "Postavite prilagođenu visinu."
+
+#: admin/options-init.php:693
+msgid "Default is 640px"
+msgstr "Zadano je 640px"
+
+#: admin/options-init.php:705
+msgid "Default is 400px"
+msgstr "Default is 400px"
+
+#: admin/options-init.php:789
+msgid "Sidebar Position"
+msgstr "Položaj bočne trake"
+
+#: admin/options-init.php:790
+msgid "Blog Sidebar Position."
+msgstr "Pozicija bočne trake na blogu."
+
+#: admin/options-init.php:791
+msgid "Select sidebar alignment for classic Blog."
+msgstr "Odaberite kako se poravnava tekst bočne trake kod klasičnoga bloga."
+
+#: admin/options-init.php:794 admin/options-init.php:2201
+msgid "Right Sidebar"
+msgstr "Desna bočna traka"
+
+#: admin/options-init.php:798 admin/options-init.php:2198
+msgid "Left Sidebar"
+msgstr "Lijeva bočna traka"
+
+#: admin/options-init.php:802 admin/options-init.php:2204
+msgid "No Sidebar"
+msgstr "Bez bočne trake"
+
+#: admin/options-init.php:811
+msgid "Add Social Counters between Posts?"
+msgstr "Dodati brojače društvenih mreža između objava?"
+
+#: admin/options-init.php:2194 functions.php:266
+msgid "Shop Sidebar"
+msgstr "Bočna traka kod dućana"
+
+#: admin/options-init.php:2195
+msgid "Select sidebar position for Shop."
+msgstr "Odaberite položaj bočne trake kod dućana."
+
+#: admin/tgm/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr "Instalacija"
+
+#: admin/tgm/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr "Nadogradnja"
+
+#: functions.php:161
+msgid "Sidebar"
+msgstr "Bočna traka"
+
+#: functions.php:170
+msgid "Home - Sidebar 1"
+msgstr "Početna stranica - bočna traka 1"
+
+#: functions.php:179
+msgid "Home - Sidebar 2"
+msgstr "Početna stranica - bočna traka 2"
+
+#: functions.php:188
+msgid "Home - Sidebar 3"
+msgstr "Početna stranica - bočna traka 3"
+
+#: functions.php:268
+msgid "Shop Sidebar that appears on Shop pages."
+msgstr "Bočna traka dućana koja se pokazuje na stranicama dućana."
+
+#: inc/vc-functions.php:437 inc/vc-functions.php:480 inc/vc-functions.php:619 
+#: inc/vc-functions.php:766 inc/vc-functions.php:913 inc/vc-functions.php:1030 
+#: inc/vc-functions.php:1186 inc/vc-functions.php:1290 
+#: inc/vc-functions.php:1576 inc/vc-functions.php:1632 
+#: inc/vc-functions.php:1675 inc/vc-functions.php:1753 
+#: inc/vc-functions.php:1849 inc/vc-functions.php:1932 
+#: inc/vc-functions.php:2325 inc/vc-functions.php:2403 
+#: inc/vc-functions.php:2527 inc/vc-functions.php:2631 
+#: inc/vc-functions.php:2720 inc/vc-functions.php:2774 
+#: inc/vc-functions.php:2844 inc/vc-functions.php:2948
+msgid "Enter element ID (Note: make sure it is unique and valid."
+msgstr "Unesite ID elementa (Pobrinite se da je jedinstven i ispravan)."
+
+#: inc/vc-functions.php:441 inc/vc-functions.php:484 inc/vc-functions.php:623 
+#: inc/vc-functions.php:770 inc/vc-functions.php:917 inc/vc-functions.php:1034 
+#: inc/vc-functions.php:1190 inc/vc-functions.php:1294 
+#: inc/vc-functions.php:1580 inc/vc-functions.php:1636 
+#: inc/vc-functions.php:1679 inc/vc-functions.php:1757 
+#: inc/vc-functions.php:1853 inc/vc-functions.php:1936 
+#: inc/vc-functions.php:2329 inc/vc-functions.php:2407 
+#: inc/vc-functions.php:2531 inc/vc-functions.php:2635 
+#: inc/vc-functions.php:2724 inc/vc-functions.php:2778 
+#: inc/vc-functions.php:2848 inc/vc-functions.php:2952
+msgid "Extra class name"
+msgstr "Posebno ime klase"
+
+#: inc/vc-functions.php:443 inc/vc-functions.php:486 inc/vc-functions.php:625 
+#: inc/vc-functions.php:772 inc/vc-functions.php:919 inc/vc-functions.php:1036 
+#: inc/vc-functions.php:1192 inc/vc-functions.php:1296 
+#: inc/vc-functions.php:1582 inc/vc-functions.php:1638 
+#: inc/vc-functions.php:1681 inc/vc-functions.php:1759 
+#: inc/vc-functions.php:1855 inc/vc-functions.php:1938 
+#: inc/vc-functions.php:2331 inc/vc-functions.php:2409 
+#: inc/vc-functions.php:2533 inc/vc-functions.php:2637 
+#: inc/vc-functions.php:2726 inc/vc-functions.php:2780 
+#: inc/vc-functions.php:2850 inc/vc-functions.php:2954
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+"Stiliziraj pojedini element sadržaja drugačije - dodaj ime klase i pozovi se "
+"na tu klasu u prilagođenom CSS-u."
+
+#: inc/vc-functions.php:1171
+msgid "Custom Date/Subtitle"
+msgstr "Prilagođeni datum/podnaslov"
+
+#: inc/vc-functions.php:1174
+msgid "Enter your custom date/subtitle here."
+msgstr "Ovdje unesite prilagođeni datum/podnaslov."
+
+#: inc/vc-functions.php:1206
+msgid "ALC: Button"
+msgstr "ALC: Gumb"
+
+#: inc/vc-functions.php:1221 inc/vc-functions.php:1327
+msgid "URL (Link)"
+msgstr "URL (poveznica)"
+
+#: inc/vc-functions.php:1773
+msgid "ALC: Albums"
+msgstr "ALC: Albumi"
+
+#: inc/vc-functions.php:2271
+msgid "ALC: Event Scoreboard"
+msgstr "ALC: Semafor jedne utakmica"
+
+#: inc/vc-functions.php:2346
+msgid "ALC: Games History"
+msgstr "ALC: Povijest utakmica"
+
+#: inc/vc-functions.php:2350
+msgid "A chart with games history."
+msgstr "Graf koji pokazuje povijest utakmica."
+
+#: inc/vc-functions.php:2366 inc/vc-functions.php:2444 
+#: inc/vc-functions.php:2567
+msgid ""
+"Select team to display games history. Can be set Default if you're on Team "
+"Page."
+msgstr ""
+"Odaberite ekipu za koju će se prikazati povijest utakmica. Ako ste na "
+"stranici ekipe može se podesiti zadana ekipa."
+
+#: inc/vc-functions.php:2424
+msgid "ALC: Team Stats"
+msgstr "ALC: Ekipne statistike"
+
+#: inc/vc-functions.php:2547
+msgid "ALC: Team Points History"
+msgstr "ALC: Povijest postignutih koševa ekipe"
+
+#: inc/vc-functions.php:2551
+msgid "A chart displayed team points."
+msgstr "Graf pokazuje postignute koševe ekipe."
+
+#: inc/vc-functions.php:2588
+msgid "Select a date to display."
+msgstr "Odaberite datum koji će se prikazati."
+
+#: inc/vc-functions.php:2592
+msgid "Date From:"
+msgstr "Početni datum."
+
+#: inc/vc-functions.php:2594
+msgid "Date Format yyyy-mm-dd, e.g. 2017-01-30"
+msgstr "Forma datuma yyyy-mm-dd tj. 2017-01-30"
+
+#: inc/vc-functions.php:2603
+msgid "Date To:"
+msgstr "Završni datum."
+
+#: inc/vc-functions.php:2605
+msgid "Date Format yyyy-mm-dd, e.g. 2017-03-31"
+msgstr "Forma datuma yyyy-mm-dd tj. 2017-01-30"
+
+#: inc/vc-functions.php:2667
+msgid "Select Player List:"
+msgstr "Odaberite popis igrača:"
+
+#: inc/vc-functions.php:2670
+msgid "Select player list."
+msgstr "Odaberite popis igrača."
+
+#: inc/vc-functions.php:2797
+msgid "ALC: Player Stats"
+msgstr "ALC: Statistike igrača"
+
+#: inc/vc-functions.php:2864
+msgid "ALC: Player Game-by-Game Stats"
+msgstr "ALC: Statistika igrača po utakmicama"
+
+#: inc/vc-functions.php:2934
+msgid ""
+"Type statistic label, e.g. PTS, REB, BLK, AST etc. (Note: Order can be "
+"changed with drag & drop)."
+msgstr ""
+"Odaberte oznaku tipa statistike tj. PTS, REB, BLK, AST itd. (Pozor; "
+"Redoslijed se može promijeniti prenošenjem)."
+
+#: inc/widgets/widget-instagram-feed.php:152
+msgid "Username:"
+msgstr "Korisničko ime:"
+
+#: inc/widgets/widget-instagram-feed.php:157
+msgid "User ID:"
+msgstr "Korisnički ID:"
+
+#: woocommerce/cart/cart.php:96
+msgid "Available on backorder"
+msgstr "Dostupno za narudžbu."
+
+#: woocommerce/myaccount/form-login.php:125
+msgid "Anti-spam"
+msgstr "Anti-spam"
+
+#: 404.php:82
+msgid "OOOOPS! Page not Found"
+msgstr "OOOOPS! Stranicu nije moguće naći!"
+
+#: 404.php:89
+msgid "Seems that we have a problem!"
+msgstr "Čini se da ima nekih poteškoća!"
+
+#: 404.php:97
+msgid ""
+"The page you are looking for has been moved or doesn't exist anymore, if you "
+"like you can return to our homepage. If the problem persists, please send us "
+"an email to <a href=\"mailto:info@alchemists.com\">info@alchemists.com</a>"
+msgstr ""
+"Stranica koju tražite je preseljena ili više ne postoji. Ako želite možete "
+"se vratiti na početnu stranicu. Ako imate pitanja, pošaljite mail na adresu "
+"<a href=\"mailto:zdenko.skiljan@kksamobor.hr\">zdenko.skiljan@kksamobor."
+"hr</a>"
+
+#: 404.php:108
+msgid "Return to Home"
+msgstr "Povratak na početnu stranicu."
+
+#: 404.php:118
+msgid "Keep Browsing"
+msgstr "Nastavak pregleda"
+
+#: admin/options-init.php:93
+msgid "General Settings"
+msgstr "Opće postavke"
+
+#: admin/options-init.php:100 admin/options-init.php:404
+msgid "Custom Logo"
+msgstr "Prilagođeni logo"
+
+#: admin/options-init.php:109 admin/options-init.php:414
+msgid "Custom Logo @2x"
+msgstr "Prilagođeni logo @2x"
+
+#: admin/options-init.php:119 admin/options-init.php:425
+msgid "Custom Logo Width"
+msgstr "Širina prilagođenog loga"
+
+#: admin/options-init.php:120 admin/options-init.php:426
+msgid "Set your Logo width."
+msgstr "Postavite širinu vašeg prilagođenog loga."
+
+#: admin/options-init.php:124
+msgid "Default is 148px"
+msgstr "Zadano je 148px"
+
+#: admin/options-init.php:132
+msgid "Custom Logo Width on Mobile"
+msgstr "Širina prilagođenog loga na mobilnim uređajima"
+
+#: admin/options-init.php:133
+msgid "Set your Logo width on Mobile devices."
+msgstr "Postavite širinu prilagođenog loga na mobilnim uređajima."
+
+#: admin/options-init.php:137
+msgid "Default is 97px"
+msgstr "Zadano je 97px"
+
+#: admin/options-init.php:200
+msgid "Show Social Links?"
+msgstr "Prikazati poveznice prema društvenim mrežama."
+
+#: admin/options-init.php:214 admin/options-init.php:230 
+#: template-parts/header-primary.php:65 template-parts/header-primary.php:66
+msgid "Facebook URL"
+msgstr "URL Facebooka"
+
+#: admin/options-init.php:215 admin/options-init.php:231 
+#: template-parts/header-primary.php:69 template-parts/header-primary.php:70
+msgid "Twitter URL"
+msgstr "URL Twittera"
+
+#: admin/options-init.php:216 admin/options-init.php:232 
+#: template-parts/header-primary.php:77 template-parts/header-primary.php:78
+msgid "Google+ URL"
+msgstr "URL GooglePlusa"
+
+#: admin/options-init.php:217 admin/options-init.php:233 
+#: template-parts/header-primary.php:73 template-parts/header-primary.php:74
+msgid "LinkedIn URL"
+msgstr "URL LinkedIna"
+
+#: admin/options-init.php:218 admin/options-init.php:234 
+#: template-parts/header-primary.php:81 template-parts/header-primary.php:82
+msgid "Instagram URL"
+msgstr "URL Instagrama"
+
+#: admin/options-init.php:219 admin/options-init.php:235 
+#: template-parts/header-primary.php:85 template-parts/header-primary.php:86
+msgid "Github URL"
+msgstr "URL Githuba"
+
+#: admin/options-init.php:220 admin/options-init.php:236 
+#: template-parts/header-primary.php:89 template-parts/header-primary.php:90
+msgid "VK URL"
+msgstr "URL VKa"
+
+#: admin/options-init.php:221 admin/options-init.php:237 
+#: template-parts/header-primary.php:93 template-parts/header-primary.php:94
+msgid "YouTube URL"
+msgstr "URL YouTubea"
+
+#: admin/options-init.php:251
+msgid "Mobile Nav Width"
+msgstr "Širina mobilnog menija"
+
+#: admin/options-init.php:252
+msgid "Set Mobile Nav Custom Width in px"
+msgstr "Postavite širinu mobilnog menija u px"
+
+#: admin/options-init.php:274
+msgid "Show Search Form?"
+msgstr "Prikazati formu za pretraživanje?"
+
+#: admin/options-init.php:284
+msgid "Show Primary Email?"
+msgstr "Prikazati primarnu e-mail adresu?"
+
+#: admin/options-init.php:292
+msgid "Label for Primary Email Address"
+msgstr "Oznaka za primarnu e-mail adresu"
+
+#: admin/options-init.php:325
+msgid "Contact Us"
+msgstr "Javite nam se"
+
+#: admin/options-init.php:352
+msgid "WooCommerce Options"
+msgstr "Opcije WooCommercea"
+
+#: admin/options-init.php:358
+msgid "Show Shopping Cart?"
+msgstr "Prikazati košaricu za kupovinu?"
+
+#: admin/options-init.php:638
+msgid "Show Button?"
+msgstr "Prikazati gumb?"
+
+#: admin/options-init.php:639
+msgid "Turn on to display button."
+msgstr "Uključi ako želiš prikazati gumb."
+
+#: admin/options-init.php:647
+msgid "Button Text"
+msgstr "Tekst na gumbu,"
+
+#: admin/options-init.php:648
+msgid "Enter Button Text."
+msgstr "Unesite tekst na gumbu."
+
+#: admin/options-init.php:655
+msgid "Button Link"
+msgstr "Poveznica gumba."
+
+#: admin/options-init.php:656
+msgid "Enter Button Link."
+msgstr "Unesite poveznicu za gumb."
+
+#: admin/options-init.php:664
+msgid "Turn on to display stars."
+msgstr "Uključite ako želite prikazati zvjezdice."
+
+#: admin/options-init.php:823
+msgid "Facebook Counter Position"
+msgstr "Pozicija brojača za Facebook"
+
+#: admin/options-init.php:860
+msgid "Posts"
+msgstr "Objave"
+
+#: admin/options-init.php:867
+msgid "Posts categories displayed by default."
+msgstr "Zadane kategorije objava koje će se prikazati."
+
+#: admin/options-init.php:876
+msgid "Categories Group 1"
+msgstr "Grupa kategorija 1"
+
+#: admin/options-init.php:877
+msgid "Select categories for Group 1"
+msgstr "Odaberite grupu kategorija 1"
+
+#: admin/options-init.php:878
+msgid "Assign post categories to Group 1."
+msgstr "Pridružite kategorije grupi kategorija 1."
+
+#: admin/options-init.php:886
+msgid "Categories Group 2"
+msgstr "Grupa kategorija 2"
+
+#: admin/options-init.php:887
+msgid "Select categories for Group 2"
+msgstr "Odaberite grupu kategorija 2"
+
+#: admin/options-init.php:888 admin/options-init.php:898
+msgid "Assign post categories to Group 3."
+msgstr "Pridružite kategorije grupi kategorija 3."
+
+#: admin/options-init.php:896
+msgid "Categories Group 3"
+msgstr "Grupa kategorija 3"
+
+#: admin/options-init.php:897
+msgid "Select categories for Group 3"
+msgstr "Odaberite grupu kategorija 3"
+
+#: admin/options-init.php:908
+msgid "Single Post"
+msgstr "Stranica objave"
+
+#: admin/options-init.php:915
+msgid "Single Post Layout"
+msgstr "Izgled stranice objave"
+
+#: admin/options-init.php:916
+msgid "Select Single Post Layout"
+msgstr "Odaberite izgled stranice objave"
+
+#: admin/options-init.php:937
+msgid "Social Sharing Sorter"
+msgstr "Razvrstavač dijeljenja na društvenim mrežama"
+
+#: admin/options-init.php:938
+msgid "Organize social sharing link."
+msgstr "Organizirajte poveznice za dijeljenje na društvenim mrežama."
+
+#: admin/options-init.php:1074 inc/vc-functions.php:2307 
+#: inc/vc-functions.php:2314 inc/vc-functions.php:2385 
+#: inc/vc-functions.php:2393 inc/vc-functions.php:2613 
+#: inc/vc-functions.php:2620
+msgid "Styling"
+msgstr "Stiliziranje"
+
+#: admin/options-init.php:1081
+msgid "Pick a primary color."
+msgstr "Izaberite primarnu boju."
+
+#: admin/options-init.php:1466
+msgid "Typography"
+msgstr "Tipgrafija"
+
+#: admin/options-init.php:1981
+msgid "Team Subpages Layout"
+msgstr "Izgled podstranica ekipe"
+
+#: admin/options-init.php:2009 admin/options-init.php:2121
+msgid "Overview - Label"
+msgstr "Pregled - oznaka"
+
+#: admin/options-init.php:2030
+msgid "Standings - Label"
+msgstr "Tablice - oznaka"
+
+#: admin/options-init.php:2100 inc/sp-functions.php:106 
+#: sportspress/single-player.php:17
+msgid "Statistics"
+msgstr "Statistika"
+
+#: admin/options-init.php:2128
+msgid "Statistics - Label"
+msgstr "Statistika - oznaka"
+
+#: admin/options-init.php:164 admin/options-init.php:172 
+#: admin/options-init.php:202 admin/options-init.php:276 
+#: admin/options-init.php:286 admin/options-init.php:318 
+#: admin/options-init.php:360 admin/options-init.php:388 
+#: admin/options-init.php:396 admin/options-init.php:464 
+#: admin/options-init.php:480 admin/options-init.php:489 
+#: admin/options-init.php:552 admin/options-init.php:562 
+#: admin/options-init.php:641 admin/options-init.php:666 
+#: admin/options-init.php:714 admin/options-init.php:755 
+#: admin/options-init.php:815 admin/options-init.php:869 
+#: admin/options-init.php:931 admin/options-init.php:963 
+#: admin/options-init.php:991 admin/options-init.php:1065 
+#: admin/options-init.php:1677 admin/options-init.php:1686 
+#: admin/options-init.php:1917 admin/options-init.php:1942 
+#: inc/vc-functions.php:757 inc/vc-functions.php:843 inc/vc-functions.php:882 
+#: inc/vc-functions.php:904 inc/vc-functions.php:999 inc/vc-functions.php:1021 
+#: inc/vc-functions.php:1092 inc/vc-functions.php:1110 
+#: inc/vc-functions.php:1144 inc/vc-functions.php:1165 
+#: inc/vc-functions.php:1921 inc/vc-functions.php:2260 
+#: inc/vc-functions.php:2296 inc/vc-functions.php:2835 
+#: inc/vc-functions.php:2891
+msgid "Yes"
+msgstr "Da"
+
+#: admin/options-init.php:165 admin/options-init.php:173 
+#: admin/options-init.php:203 admin/options-init.php:277 
+#: admin/options-init.php:287 admin/options-init.php:319 
+#: admin/options-init.php:361 admin/options-init.php:389 
+#: admin/options-init.php:397 admin/options-init.php:465 
+#: admin/options-init.php:481 admin/options-init.php:490 
+#: admin/options-init.php:553 admin/options-init.php:563 
+#: admin/options-init.php:642 admin/options-init.php:667 
+#: admin/options-init.php:715 admin/options-init.php:756 
+#: admin/options-init.php:816 admin/options-init.php:870 
+#: admin/options-init.php:932 admin/options-init.php:962 
+#: admin/options-init.php:992 admin/options-init.php:1066 
+#: admin/options-init.php:1678 admin/options-init.php:1687 
+#: admin/options-init.php:1918 admin/options-init.php:1943
+msgid "No"
+msgstr "Ne"
+
+#: admin/options-init.php:293
+msgid "Join Our Team!"
+msgstr "Pridružite nam se!"
+
+#: admin/options-init.php:299
+msgid "Primary Email address"
+msgstr "Primarna mail adresa"
+
+#: admin/options-init.php:306
+msgid "Primary Email Custom Icon"
+msgstr "Prilagođena ikona primarne mail adrese"
+
+#: admin/options-init.php:616 admin/options-init.php:1894 
+#: inc/acf-fields.php:78 inc/vc-functions.php:343 inc/vc-functions.php:576 
+#: inc/vc-functions.php:1313 inc/vc-functions.php:1704 
+#: inc/vc-functions.php:1892
+msgid "Title"
+msgstr "Naslov"
+
+#: admin/options-init.php:618
+msgid "Enter Hero Unit Title."
+msgstr "Unesite naslov za Hero Unit"
+
+#: admin/options-init.php:624 admin/options-init.php:1901 
+#: inc/vc-functions.php:585 inc/vc-functions.php:1711 
+#: inc/vc-functions.php:1901 inc/vc-functions.php:1904
+msgid "Subtitle"
+msgstr "Podnaslov"
+
+#: admin/options-init.php:625
+msgid "Enter Hero Unit Subtitle."
+msgstr "Unesite podnaslov na Hero Unit."
+
+#: admin/options-init.php:632 admin/options-init.php:1908 
+#: inc/vc-functions.php:1320 
+#: woocommerce/single-product/short-description.php:31 
+#: woocommerce/single-product/tabs/description.php:25
+msgid "Description"
+msgstr "Opis"
+
+#: admin/options-init.php:649 sportspress/countdown.php:171 
+#: vc_templates/alc_featured_post.php:230
+msgid "Read More"
+msgstr "Detaljnije"
+
+#: admin/options-init.php:663
+msgid "Show Stars?"
+msgstr "Prikaz zvjezdica?"
+
+#: admin/options-init.php:729 inc/vc-functions.php:1264 
+#: inc/vc-functions.php:1333
+msgid "Alignment"
+msgstr "Poravnavanje"
+
+#: admin/options-init.php:730
+msgid "Select prefered text alignment"
+msgstr "Odabir željenog poravnavanja"
+
+#: admin/options-init.php:732 inc/vc-functions.php:1270 
+#: inc/vc-functions.php:1338
+msgid "Left"
+msgstr "Lijevo"
+
+#: admin/options-init.php:733 inc/vc-functions.php:1273 
+#: inc/vc-functions.php:1337
+msgid "Center"
+msgstr "U sredini"
+
+#: admin/options-init.php:734 inc/vc-functions.php:1272 
+#: inc/vc-functions.php:1339
+msgid "Right"
+msgstr "Desno"
+
+#: admin/options-init.php:745
+msgid "Blog & Posts"
+msgstr "Blog & objave"
+
+#: admin/options-init.php:751
+msgid "Enable Posts Filter?"
+msgstr "Uključiti filter za objave?"
+
+#: admin/options-init.php:762
+msgid "Blog Style"
+msgstr "Stil bloga"
+
+#: admin/options-init.php:764
+msgid "Select prefered Blog style."
+msgstr "Odaberite žaljeni stil bloga."
+
+#: admin/options-init.php:771
+msgid "List (Left Thumbnail)"
+msgstr "Popis (lijeva sličica)"
+
+#: admin/options-init.php:775
+msgid "List (Large Thumbnail)"
+msgstr "Popis (desna sličica)"
+
+#: admin/options-init.php:866
+msgid "Show Categories?"
+msgstr "Prikaz kategorija?"
+
+#: admin/options-init.php:918
+msgid "Layout 1"
+msgstr "Izgled 1"
+
+#: admin/options-init.php:919
+msgid "Layout 2"
+msgstr "Izgled 2"
+
+#: admin/options-init.php:920
+msgid "Layout 3"
+msgstr "Izgled 3"
+
+#: admin/options-init.php:927
+msgid "Show Social Sharing?"
+msgstr "Prikazati djijeljenje na društvenim mrežama?"
+
+#: admin/options-init.php:1028
+msgid "Enable"
+msgstr "Omogućavanje"
+
+#: admin/options-init.php:1029
+msgid "Disable"
+msgstr "Onemogućavanje"
+
+#: admin/options-init.php:1039
+msgid "3 Columns (equal)"
+msgstr "3 stupca (jednaka)"
+
+#: admin/options-init.php:1043
+msgid "4 Columns (equal)"
+msgstr "4 stupca (jednaka)"
+
+#: admin/options-init.php:1080
+msgid "Primary Color"
+msgstr "Primarna boja"
+
+#: admin/options-init.php:1098
+msgid "Dark Color"
+msgstr "Tamna boja"
+
+#: admin/options-init.php:1099
+msgid "Pick a dark color."
+msgstr "Odaberite tamnu boju."
+
+#: admin/options-init.php:1116
+msgid "Gray Color"
+msgstr "Siva boja"
+
+#: admin/options-init.php:1134
+msgid "Tertiary Color"
+msgstr "Treća boja"
+
+#: admin/options-init.php:1143
+msgid "Quaternary Color"
+msgstr "Četvrta boja"
+
+#: admin/options-init.php:1975 sportspress/event-results.php:106 
+#: sportspress/widgets/widget-alc-featured-player.php:115
+msgid "Team"
+msgstr "Ekipa"
+
+#: admin/options-init.php:1987 admin/options-init.php:2018 
+#: inc/sp-functions.php:204 sportspress/single-team.php:18 
+#: sportspress/single-team.php:21
+msgid "Roster"
+msgstr "Igrači"
+
+#: admin/options-init.php:1988 admin/options-init.php:2032 
+#: inc/sp-functions.php:204 sportspress/single-team.php:18 
+#: sportspress/single-team.php:22
+msgid "Standings"
+msgstr "Tablice"
+
+#: admin/options-init.php:1989 admin/options-init.php:2046 
+#: inc/sp-functions.php:204 sportspress/single-team.php:18 
+#: sportspress/single-team.php:23 
+#: sportspress/single-team/content-results.php:24
+msgid "Latest Results"
+msgstr "Zadnji rezultati"
+
+#: admin/options-init.php:1990 admin/options-init.php:2060 
+#: inc/sp-functions.php:204 sportspress/single-team.php:18 
+#: sportspress/single-team.php:24 
+#: sportspress/single-team/content-schedule.php:16
+msgid "Schedule"
+msgstr "Raspored utakmica"
+
+#: admin/options-init.php:1991 admin/options-init.php:2074 
+#: admin/options-init.php:2103 admin/options-init.php:2172 
+#: inc/sp-functions.php:106 inc/sp-functions.php:204 
+#: sportspress/single-player.php:17 sportspress/single-player.php:23 
+#: sportspress/single-team.php:18 sportspress/single-team.php:25
+msgid "Gallery"
+msgstr "Galerija"
+
+#: admin/options-init.php:2011 admin/options-init.php:2123 
+#: sportspress/single-player.php:19 sportspress/single-team.php:20
+msgid "Overview"
+msgstr "Pregled"
+
+#: admin/options-init.php:2088 sportspress/event-performance-table.php:45 
+#: sportspress/single-player.php:250 sportspress/single-player.php:259 
+#: sportspress/single-player.php:265 sportspress/single-player.php:271 
+#: sportspress/single-player.php:277 
+#: sportspress/widgets/widget-alc-featured-player.php:132
+msgid "Player"
+msgstr "Igrač"
+
+#: admin/options-init.php:2101 admin/options-init.php:2144 
+#: inc/sp-functions.php:106 sportspress/single-player.php:17 
+#: sportspress/single-player.php:21
+msgid "Biography"
+msgstr "Biografija"
+
+#: admin/options-init.php:2102 admin/options-init.php:2158 
+#: inc/sp-functions.php:106 sportspress/single-player.php:17 
+#: sportspress/single-player.php:22
+msgid "Related News"
+msgstr "Vezane objave"
+
+#: admin/options-init.php:2130 sportspress/single-player.php:20
+msgid "Full Statistics"
+msgstr "Puna statistika"
+
+#: admin/tgm/class-tgm-plugin-activation.php:2639 inc/vc-functions.php:2226
+msgid "Status"
+msgstr "Stanje"
+
+#: comments.php:60
+msgid "Comments are closed."
+msgstr "Komentiranje je zatvoreno."
+
+#: comments.php:79
+msgid "Leave a Reply"
+msgstr "Napišite komentar"
+
+#: comments.php:80 woocommerce/single-product-reviews.php:74
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Odgovorite %s"
+
+#: comments.php:81
+msgid "Cancel Reply"
+msgstr "Poništite odgovor"
+
+#: comments.php:82
+msgid "Post Your Comment"
+msgstr "Pošaljite komentar"
+
+#: comments.php:86
+msgid "Your Comment"
+msgstr "Vaš komentar"
+
+#: comments.php:93
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+"Morate biti <a href=\"%s\">prijavljeni in</a> da bi mogli slati komentare"
+
+#: comments.php:101
+msgid "Your Name"
+msgstr "Vaše ime"
+
+#: comments.php:109
+msgid "Email Address"
+msgstr "Mail adresa"
+
+#: functions.php:73 inc/extras.php:332
+msgid "Primary Menu"
+msgstr "Glavni meni"
+
+#: functions.php:74 inc/extras.php:333
+msgid "Footer Menu"
+msgstr "Meni u podnožju"
+
+#: inc/acf-fields.php:13
+msgid "Albums Photos"
+msgstr "Fotografije albuma"
+
+#: inc/acf-fields.php:17
+msgid "Album Photos"
+msgstr "Fotografije albuma"
+
+#: inc/acf-fields.php:62
+msgid "Page Options"
+msgstr "Podešenja stranice"
+
+#: inc/acf-fields.php:69
+msgid "Select Page Heading Type"
+msgstr "Odaberite tip zaglavlja stranice"
+
+#: inc/acf-fields.php:80 inc/acf-fields.php:104 inc/acf-fields.php:131 
+#: inc/vc-functions.php:406
+msgid "None"
+msgstr "Ništa"
+
+#: inc/acf-fields.php:91
+msgid "Content Top Padding"
+msgstr "Razmak od vrha sadržaja."
+
+#: inc/acf-fields.php:103 inc/acf-fields.php:130 inc/vc-functions.php:552 
+#: inc/vc-functions.php:1240 inc/vc-functions.php:1514 
+#: inc/vc-functions.php:1535 inc/vc-functions.php:2249 
+#: inc/vc-functions.php:2364 inc/vc-functions.php:2442 
+#: inc/vc-functions.php:2565 inc/vc-functions.php:2583 
+#: inc/vc-functions.php:2758 inc/vc-functions.php:2815 
+#: inc/vc-functions.php:2914 
+#: sportspress/widgets/widget-alc-event-block.php:147 
+#: sportspress/widgets/widget-alc-event-block.php:161 
+#: sportspress/widgets/widget-alc-event-block.php:185 
+#: sportspress/widgets/widget-alc-game-result.php:136
+msgid "Default"
+msgstr "Zadano"
+
+#: inc/acf-fields.php:118
+msgid "Content Bottom Padding"
+msgstr "Razmak od dna sadržaja."
+
+#: inc/acf-fields.php:169
+msgid "Player Image"
+msgstr "Fotografija igrača"
+
+#: inc/acf-fields.php:193
+msgid "Player Bio Content"
+msgstr "Sadržaj biografije igrača"
+
+#: inc/acf-fields.php:212
+msgid "Player Bio Events"
+msgstr "Događaji u biografiji igrača"
+
+#: inc/acf-fields.php:227
+msgid "Add Event"
+msgstr "Dodavanje događaja"
+
+#: inc/acf-fields.php:243 inc/vc-functions.php:515
+msgid "Injury"
+msgstr "Ozljeda"
+
+#: inc/acf-fields.php:244 inc/vc-functions.php:516
+msgid "Join"
+msgstr "Pridružite se"
+
+#: inc/acf-fields.php:245 inc/vc-functions.php:518
+msgid "Award"
+msgstr "Nagrada"
+
+#: inc/acf-fields.php:258 inc/vc-functions.php:523
+msgid "Content"
+msgstr "Sadržaj"
+
+#: inc/acf-fields.php:277 inc/vc-functions.php:340 inc/vc-functions.php:530 
+#: inc/widgets/widget-recent-posts.php:262 sportspress/event-details.php:22 
+#: sportspress/event-list.php:102 sportspress/player-event-game-by-game.php:118
+msgid "Date"
+msgstr "Datum"
+
+#: inc/acf-fields.php:316
+msgid "Player Heading Photo"
+msgstr "Fotografija igrača za zaglavlje"
+
+#: inc/acf-fields.php:320
+msgid "Alternative Photo"
+msgstr "Druga fotografija"
+
+#: inc/acf-fields.php:323
+msgid "This photo displayed in the Page Header and Featured Player widgets."
+msgstr ""
+"Ova se fotografija prikazuje u Page Header i i Widgetu Featured Player."
+
+#: inc/acf-fields.php:364
+msgid "Product Options"
+msgstr "Opcije proizvoda"
+
+#: inc/acf-fields.php:368
+msgid "Product Gradient Color 1"
+msgstr "Stupnjevanje boje proizvoda 1"
+
+#: inc/acf-fields.php:383
+msgid "Product Gradient Color 2"
+msgstr "Stupnjevanje boje proizvoda 2"
+
+#: inc/acf-fields.php:418
+msgid "Team Gallery"
+msgstr "Galerija ekipa"
+
+#: inc/acf-fields.php:422
+msgid "Albums"
+msgstr "Albumi"
+
+#: inc/acf-fields.php:465
+msgid "Team Roster"
+msgstr "Igrači"
+
+#: inc/acf-fields.php:469
+msgid "Featured Gallery Roster"
+msgstr "Istaknuti igrači"
+
+#: inc/acf-fields.php:540
+msgid "Slider"
+msgstr "Klizna prezentacija"
+
+#: inc/acf-fields.php:554
+msgid "Slider Autoplay"
+msgstr "Automatsko pokretanje prezentacije"
+
+#: inc/acf-fields.php:581
+msgid "Slider Custom Background Image"
+msgstr "Prilagođena slika pozadine klizne prezentacije."
+
+#: inc/acf-fields.php:663 sportspress/single-team/content-roster.php:156
+msgid "Featured Player"
+msgstr "Istaknuti igrač"
+
+#: inc/acf-fields.php:682
+msgid "Select Featured Player"
+msgstr "Odaberite istaknutog igrača"
+
+#: inc/acf-fields.php:733
+msgid "Team Standings"
+msgstr "Tablice"
+
+#: inc/acf-fields.php:737
+msgid "Team Leagues"
+msgstr "Natjecanja"
+
+#: inc/acf-fields.php:740
+msgid "Select Leagues you want to display on Team Standings page."
+msgstr "Odaberite takmičenje koje želite prikazati na stranici Tablica."
+
+#: inc/acf-fields.php:780
+msgid "Player Gallery"
+msgstr "Galerija igrača"
+
+#: inc/acf-fields.php:784 inc/vc-functions.php:389
+msgid "Images"
+msgstr "Slike"
+
+#: inc/acf-fields.php:829
+msgid "Player Related News"
+msgstr "Objave vezane uz igrača"
+
+#: inc/acf-fields.php:833
+msgid "Post Tags"
+msgstr "Oznake objava"
+
+#: inc/acf-fields.php:836
+msgid "Selected Posts tag that are related to the Player."
+msgstr "Odaberite oznaku objave povezanu s igračem."
+
+#: inc/acf-fields.php:855
+msgid "Number of Posts"
+msgstr "Broj objava"
+
+#: inc/acf-fields.php:858
+msgid "Enter number of displayed Posts."
+msgstr "Unesite broj objava koji će se prikazivati."
+
+#: inc/extras.php:285
+msgid "To view this protected post, enter the password below:"
+msgstr "Unesite lozinku ispod ako želite vidjeti zaštićenu objavu:"
+
+#: inc/extras.php:286
+msgid "Password:"
+msgstr "Lozinka:"
+
+#: inc/extras.php:286
+msgid "Submit"
+msgstr "Podnesi"
+
+#: inc/template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Objavljeno %s"
+
+#: inc/template-tags.php:33
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr "Objavio %s"
+
+#: inc/template-tags.php:256
+msgid "(Edit)"
+msgstr "(Uređivanje)"
+
+#: inc/template-tags.php:264
+msgid "Reply"
+msgstr "Odgovor"
+
+#: inc/template-tags.php:275
+msgid "Your comment is awaiting moderation."
+msgstr "Vaš komentar čeka provjeru."
+
+#: inc/vc-functions.php:342 template-parts/post-filter.php:67
+msgid "Author"
+msgstr "Autor"
+
+#: inc/vc-functions.php:344
+msgid "Modified"
+msgstr "Zadnja izmjena"
+
+#: inc/vc-functions.php:345
+msgid "Comment count"
+msgstr "Broj komentara"
+
+#: inc/vc-functions.php:346
+msgid "Menu order"
+msgstr "Redosljed menija"
+
+#: inc/vc-functions.php:347 template-parts/post-filter.php:41
+msgid "Random"
+msgstr "Slučajni redosljed"
+
+#: inc/vc-functions.php:352 sportspress/widgets/widget-alc-event-block.php:187 
+#: template-parts/post-filter.php:56
+msgid "Descending"
+msgstr "Silazno"
+
+#: inc/vc-functions.php:353 sportspress/widgets/widget-alc-event-block.php:186 
+#: template-parts/post-filter.php:57
+msgid "Ascending"
+msgstr "Uzlazno"
+
+#: inc/vc-functions.php:378
+msgid "Animated carousel with images."
+msgstr "Animirana kružna prezentacija sa slikama."
+
+#: inc/vc-functions.php:382 inc/vc-functions.php:470 inc/vc-functions.php:648 
+#: inc/vc-functions.php:795 inc/vc-functions.php:1665 
+#: inc/vc-functions.php:2279 inc/vc-functions.php:2354 
+#: inc/vc-functions.php:2432 inc/vc-functions.php:2555 
+#: inc/vc-functions.php:2660 inc/vc-functions.php:2749 
+#: inc/vc-functions.php:2805 inc/vc-functions.php:2872
+msgid "Widget title"
+msgstr "Naslov Widgeta"
+
+#: inc/vc-functions.php:392
+msgid "Select images from media library."
+msgstr "Odaberite sliku iz zbirke medija."
+
+#: inc/vc-functions.php:396
+msgid "Carousel size"
+msgstr "Veličina kružne prezentacije."
+
+#: inc/vc-functions.php:399
+msgid ""
+"Enter image size. Example: thumbnail, medium, large, full or other sizes "
+"defined by current theme. Alternatively enter image size in pixels: 200x100 "
+"(Width x Height). Leave empty to use \"thumbnail\" size. If used slides per "
+"view, this will be used to define carousel wrapper size."
+msgstr ""
+"Unesite veličinu slike. Primjer:  sličica, srednja, velika, puna veličina "
+"ili ostale veličine kako ih definira aktivna tema.  U drugom slučaju unesite "
+"veličinu slike u točkama: 200x100 (širina x visina). Ako ostavite prazno "
+"koristit će se veličina \"sličice\". Ako se prikazuje slajd po pregledu, "
+"koristit će se kako bi se definirala veličina ovitka kružne prezentacije."
+
+#: inc/vc-functions.php:403
+msgid "On click action"
+msgstr "Akcija kod klika"
+
+#: inc/vc-functions.php:407
+msgid "Open custom links"
+msgstr "Otvaranje prilagođene poveznice"
+
+#: inc/vc-functions.php:409
+msgid "Select action for click event."
+msgstr "Odaberite akciju kod klika."
+
+#: inc/vc-functions.php:413
+msgid "Custom links"
+msgstr "Prilagođene poveznice"
+
+#: inc/vc-functions.php:415
+msgid ""
+"Enter links for each slide (Note: divide links with linebreaks (Enter))."
+msgstr ""
+"Unesite poveznice za svaki slajd (Važno: poveznice podijelite sa prijelomima "
+"(Enter))."
+
+#: inc/vc-functions.php:423
+msgid "Custom link target"
+msgstr "Odredište prilagođene poveznice"
+
+#: inc/vc-functions.php:425
+msgid "Select how to open custom links."
+msgstr "Odaberite kako otvoriti prilagođenu poveznicu."
+
+#: inc/vc-functions.php:435 inc/vc-functions.php:478 inc/vc-functions.php:617 
+#: inc/vc-functions.php:764 inc/vc-functions.php:911 inc/vc-functions.php:1028 
+#: inc/vc-functions.php:1184 inc/vc-functions.php:1288 
+#: inc/vc-functions.php:1574 inc/vc-functions.php:1630 
+#: inc/vc-functions.php:1673 inc/vc-functions.php:1751 
+#: inc/vc-functions.php:1847 inc/vc-functions.php:1930 
+#: inc/vc-functions.php:2323 inc/vc-functions.php:2401 
+#: inc/vc-functions.php:2525 inc/vc-functions.php:2629 
+#: inc/vc-functions.php:2718 inc/vc-functions.php:2772 
+#: inc/vc-functions.php:2842 inc/vc-functions.php:2946
+msgid "Element ID"
+msgstr "ID elementa"
+
+#: inc/vc-functions.php:447 inc/vc-functions.php:490 inc/vc-functions.php:629 
+#: inc/vc-functions.php:776 inc/vc-functions.php:923 inc/vc-functions.php:1040 
+#: inc/vc-functions.php:1196 inc/vc-functions.php:1586 
+#: inc/vc-functions.php:1642 inc/vc-functions.php:1685 
+#: inc/vc-functions.php:1763 inc/vc-functions.php:1859 
+#: inc/vc-functions.php:1942 inc/vc-functions.php:2335 
+#: inc/vc-functions.php:2413 inc/vc-functions.php:2537 
+#: inc/vc-functions.php:2641 inc/vc-functions.php:2730 
+#: inc/vc-functions.php:2784 inc/vc-functions.php:2854 
+#: inc/vc-functions.php:2958
+msgid "CSS box"
+msgstr "CSS okvir"
+
+#: inc/vc-functions.php:449 inc/vc-functions.php:492 inc/vc-functions.php:631 
+#: inc/vc-functions.php:778 inc/vc-functions.php:925 inc/vc-functions.php:1042 
+#: inc/vc-functions.php:1198 inc/vc-functions.php:1588 
+#: inc/vc-functions.php:1644 inc/vc-functions.php:1687 
+#: inc/vc-functions.php:1765 inc/vc-functions.php:1861 
+#: inc/vc-functions.php:1944 inc/vc-functions.php:2337 
+#: inc/vc-functions.php:2415 inc/vc-functions.php:2539 
+#: inc/vc-functions.php:2643 inc/vc-functions.php:2732 
+#: inc/vc-functions.php:2786 inc/vc-functions.php:2856 
+#: inc/vc-functions.php:2960
+msgid "Design Options"
+msgstr "Postavke prikaza"
+
+#: inc/vc-functions.php:466
+msgid "A list of items."
+msgstr "Popis stavki."
+
+#: inc/vc-functions.php:517
+msgid "Exit"
+msgstr "Izlazak"
+
+#: inc/vc-functions.php:525 inc/vc-functions.php:1322
+msgid "Your description goes here"
+msgstr "Vaš opis dolazi ovdje"
+
+#: inc/vc-functions.php:526
+msgid "Enter a short text about event."
+msgstr "Unesite kratak tekst o događaju."
+
+#: inc/vc-functions.php:532
+msgid "Enter a date in any format."
+msgstr "Unesite datum u bilo kojem formatu."
+
+#: inc/vc-functions.php:545
+msgid "A block with social buttons."
+msgstr "Područje s gumbima društvenih mreža."
+
+#: inc/vc-functions.php:549
+msgid "Layout Style"
+msgstr "Stil izgleda"
+
+#: inc/vc-functions.php:554
+msgid "Columns"
+msgstr "Stupci"
+
+#: inc/vc-functions.php:556
+msgid "Select style for social buttons."
+msgstr "Izaberite still gumba za društvene mreže."
+
+#: inc/vc-functions.php:561
+msgid "Buttons"
+msgstr "Gumbi"
+
+#: inc/vc-functions.php:565 inc/vc-functions.php:569 inc/vc-functions.php:2460 
+#: inc/vc-functions.php:2464 inc/vc-functions.php:2468 
+#: inc/vc-functions.php:2472 inc/vc-functions.php:2678 
+#: inc/vc-functions.php:2682
+msgid "Select Statistic"
+msgstr "Odaberite statistiku"
+
+#: inc/vc-functions.php:579 inc/vc-functions.php:1895
+msgid "Title goes here"
+msgstr "Ovdje dolazi naslov"
+
+#: inc/vc-functions.php:580 inc/vc-functions.php:1896
+msgid "Enter short title."
+msgstr "Unesite karatki naslov."
+
+#: inc/vc-functions.php:588
+msgid "Follow Me"
+msgstr "Pratite me"
+
+#: inc/vc-functions.php:589 inc/vc-functions.php:1905
+msgid "Enter short subtitle."
+msgstr "Unesite kratki podnaslov."
+
+#: inc/vc-functions.php:597
+msgid "Enter URL to your social account."
+msgstr "Unesite URL do vašeg računa na društvenoj mreži."
+
+#: inc/vc-functions.php:601
+msgid "Social Network"
+msgstr "Društvena mreža"
+
+#: inc/vc-functions.php:610
+msgid "Select social network"
+msgstr "Odaberite društvenu mrežu"
+
+#: inc/vc-functions.php:657
+msgid "Add button to header."
+msgstr "Dodavanje gumba u zaglavlje."
+
+#: inc/vc-functions.php:661 inc/vc-functions.php:1781
+msgid "Layout"
+msgstr "Izgled"
+
+#: inc/vc-functions.php:673 inc/vc-functions.php:808
+msgid "Select Post Layout"
+msgstr "Odaberite izgled objave"
+
+#: inc/vc-functions.php:677 inc/vc-functions.php:812 inc/vc-functions.php:949 
+#: inc/vc-functions.php:1793
+msgid "Categories"
+msgstr "Kategorije"
+
+#: inc/vc-functions.php:697 inc/vc-functions.php:832 inc/vc-functions.php:969 
+#: inc/vc-functions.php:1813
+msgid "Filter posts by categories."
+msgstr "Filtrirajte objave po kategorijama."
+
+#: inc/vc-functions.php:701
+msgid "Tags"
+msgstr "Oznake"
+
+#: inc/vc-functions.php:721
+msgid "Filter posts by tags."
+msgstr "Filtrirajte objave po oznakama."
+
+#: inc/vc-functions.php:725 inc/vc-functions.php:849 inc/vc-functions.php:942 
+#: inc/vc-functions.php:1817
+msgid "Items per page"
+msgstr "Stavki po stranici"
+
+#: inc/vc-functions.php:727 inc/vc-functions.php:851 inc/vc-functions.php:944 
+#: inc/vc-functions.php:1819
+msgid "Number of items to show per page."
+msgstr "Broj stavki koje će se prikazivati po stranici."
+
+#: inc/vc-functions.php:732 inc/vc-functions.php:856 inc/vc-functions.php:973 
+#: inc/vc-functions.php:1824
+msgid "Offset"
+msgstr "Odmak"
+
+#: inc/vc-functions.php:734 inc/vc-functions.php:858 inc/vc-functions.php:975 
+#: inc/vc-functions.php:1826
+msgid "Number of post to displace or pass over."
+msgstr "Broj objava koje se preskaču."
+
+#: inc/vc-functions.php:738 inc/vc-functions.php:862 inc/vc-functions.php:979 
+#: inc/vc-functions.php:1830 template-parts/post-filter.php:52
+msgid "Order"
+msgstr "Redosljed"
+
+#: inc/vc-functions.php:741 inc/vc-functions.php:749 inc/vc-functions.php:865 
+#: inc/vc-functions.php:873 inc/vc-functions.php:982 inc/vc-functions.php:990 
+#: inc/vc-functions.php:1833 inc/vc-functions.php:1841
+msgid "Sort retrieved posts."
+msgstr "Slaganje dohvaćenih objava."
+
+#: inc/vc-functions.php:746 inc/vc-functions.php:870 inc/vc-functions.php:987 
+#: inc/vc-functions.php:1838 template-parts/post-filter.php:33
+msgid "Order By"
+msgstr "Poredati po"
+
+#: inc/vc-functions.php:754 inc/vc-functions.php:1106
+msgid "Disable Excerpt?"
+msgstr "Onemogućiti izvadak?"
+
+#: inc/vc-functions.php:791
+msgid "Animated filtered posts slider."
+msgstr "Animirana filtrirana klizna prezentacija objava."
+
+#: inc/vc-functions.php:802
+msgid "Slides to show"
+msgstr "Koliko slajdova prikazati"
+
+#: inc/vc-functions.php:805
+msgid "1 Slide"
+msgstr "1 slajd"
+
+#: inc/vc-functions.php:806
+msgid "4 Slides"
+msgstr "4 slajda"
+
+#: inc/vc-functions.php:839
+msgid "Add Categories Filter?"
+msgstr "Dodati filter kategorija?"
+
+#: inc/vc-functions.php:845
+msgid "This filter will be shown if categories selected."
+msgstr "Ovaj filter će se prikazati ako su odabrane kategorije."
+
+#: inc/vc-functions.php:878 inc/vc-functions.php:995
+msgid "Autoplay?"
+msgstr "Automatsko pokretanje?"
+
+#: inc/vc-functions.php:879 inc/vc-functions.php:889 inc/vc-functions.php:901 
+#: inc/vc-functions.php:996 inc/vc-functions.php:1006 inc/vc-functions.php:1018
+msgid "Options"
+msgstr "Opcije"
+
+#: inc/vc-functions.php:884 inc/vc-functions.php:1001
+msgid "Automatically starts animating."
+msgstr "Automatski pokreće animaciju."
+
+#: inc/vc-functions.php:888 inc/vc-functions.php:1005
+msgid "Autoplay Speed"
+msgstr "Brzina autopokretanja"
+
+#: inc/vc-functions.php:891 inc/vc-functions.php:1008
+msgid "Autoplay Speed."
+msgstr "Autoplay Speed."
+
+#: inc/vc-functions.php:938
+msgid "Animated filtered posts carousel."
+msgstr "Animirana filtrirana kružna prezentacija objava."
+
+#: inc/vc-functions.php:1051
+msgid "ALC: Featured Post"
+msgstr "ALC: Istaknuta objava"
+
+#: inc/vc-functions.php:1055
+msgid "A single post as a banner."
+msgstr "Jedna objava kao transparent."
+
+#: inc/vc-functions.php:1059 inc/vc-functions.php:1605 
+#: inc/vc-functions.php:2821
+msgid "Style"
+msgstr "Stil"
+
+#: inc/vc-functions.php:1062 
+#: sportspress/widgets/widget-alc-featured-player.php:152
+msgid "Style 1"
+msgstr "Stil 1"
+
+#: inc/vc-functions.php:1063 
+#: sportspress/widgets/widget-alc-featured-player.php:153
+msgid "Style 2"
+msgstr "Stil 2"
+
+#: inc/vc-functions.php:1065
+msgid "Select Post Style."
+msgstr "Odabir stila objave."
+
+#: inc/vc-functions.php:1069
+msgid "Post"
+msgstr "Objava"
+
+#: inc/vc-functions.php:1072
+msgid "Select a post to display."
+msgstr "Odabir objave koja će se prikazati."
+
+#: inc/vc-functions.php:1077 inc/vc-functions.php:1743
+msgid "Image"
+msgstr "Slika"
+
+#: inc/vc-functions.php:1080 inc/vc-functions.php:1746
+msgid "Select image from media library."
+msgstr "Odaberite sliku iz zbirke medija."
+
+#: inc/vc-functions.php:1088
+msgid "Disable Categories?"
+msgstr "Onemogućavanje kategorija?"
+
+#: inc/vc-functions.php:1089 inc/vc-functions.php:1099 
+#: inc/vc-functions.php:1107 inc/vc-functions.php:1117 
+#: inc/vc-functions.php:1129 inc/vc-functions.php:1141 
+#: inc/vc-functions.php:1151 inc/vc-functions.php:1162 
+#: inc/vc-functions.php:1172
+msgid "Customize"
+msgstr "Prilagodba"
+
+#: inc/vc-functions.php:1098
+msgid "Custom Title"
+msgstr "Prilagođeni naslov"
+
+#: inc/vc-functions.php:1101
+msgid "Enter your custom title here."
+msgstr "Prilagođeni naslov dolazi ovdje."
+
+#: inc/vc-functions.php:1116
+msgid "Excerpt Size (in words)"
+msgstr "Veličina izvatka (u riječima)"
+
+#: inc/vc-functions.php:1119
+msgid "Enter the number of words for Excerpt."
+msgstr "Unesite broj riječi izvatka."
+
+#: inc/vc-functions.php:1128
+msgid "Custom Excerpt"
+msgstr "Prilagođeni izvadak"
+
+#: inc/vc-functions.php:1131
+msgid "Enter your custom excerpt here."
+msgstr "Prilagođeni izvadak dolazi ovdje."
+
+#: inc/vc-functions.php:1140
+msgid "Disable Button?"
+msgstr "Onemogućiti gumb?"
+
+#: inc/vc-functions.php:1150
+msgid "Custom Button"
+msgstr "Prilagođeni gumb"
+
+#: inc/vc-functions.php:1161
+msgid "Disable Date?"
+msgstr "Onemogućiti datum?"
+
+#: inc/vc-functions.php:1210
+msgid "Simple button."
+msgstr "Jednostavni gumb."
+
+#: inc/vc-functions.php:1214
+msgid "Text"
+msgstr "Tekst"
+
+#: inc/vc-functions.php:1216
+msgid "Text on the button"
+msgstr "Tekst na gumbu"
+
+#: inc/vc-functions.php:1230
+msgid "Fill"
+msgstr "Ispun"
+
+#: inc/vc-functions.php:1231
+msgid "Outline"
+msgstr "Kontura"
+
+#: inc/vc-functions.php:1233
+msgid "Select button type."
+msgstr "Odaberite vrstu gumba."
+
+#: inc/vc-functions.php:1237
+msgid "Color"
+msgstr "Boja"
+
+#: inc/vc-functions.php:1243 inc/vc-functions.php:1608
+msgid "Success"
+msgstr "Uspjeh"
+
+#: inc/vc-functions.php:1244 inc/vc-functions.php:1609
+msgid "Info"
+msgstr "Informacije"
+
+#: inc/vc-functions.php:1245 inc/vc-functions.php:1610
+msgid "Warning"
+msgstr "Upozorenje"
+
+#: inc/vc-functions.php:1246 inc/vc-functions.php:1611
+msgid "Danger"
+msgstr "Opasnost"
+
+#: inc/vc-functions.php:1248
+msgid "Select button color style."
+msgstr "Odaberite stil bojanja gumba."
+
+#: inc/vc-functions.php:1252
+msgid "Size"
+msgstr "Veličina"
+
+#: inc/vc-functions.php:1255 inc/vc-functions.php:1555 
+#: inc/widgets/widget-recent-posts.php:276
+msgid "Large"
+msgstr "Velik"
+
+#: inc/vc-functions.php:1256 inc/vc-functions.php:1556
+msgid "Medium"
+msgstr "Srednji"
+
+#: inc/vc-functions.php:1257 inc/widgets/widget-recent-posts.php:275
+msgid "Small"
+msgstr "Mali"
+
+#: inc/vc-functions.php:1258
+msgid "Extra Small"
+msgstr "Vrlo mali"
+
+#: inc/vc-functions.php:1260
+msgid "Select button size."
+msgstr "Odaberite veličinu gumba."
+
+#: inc/vc-functions.php:1266
+msgid "Select button alignment."
+msgstr "Odaberite poravnavanje gumba."
+
+#: inc/vc-functions.php:1268
+msgid "Inline"
+msgstr "Umetnuto"
+
+#: inc/vc-functions.php:1315
+msgid "Title of the box"
+msgstr "Naslov okvira"
+
+#: inc/vc-functions.php:1323
+msgid "Enter a short text here."
+msgstr "Ovdje unesite kratak tekst."
+
+#: inc/vc-functions.php:1329
+msgid "Add link to the box."
+msgstr "Dodajte poveznicu prema okviru."
+
+#: inc/vc-functions.php:1335
+msgid "Select box alignment."
+msgstr "Odaberite poravnavanje okvira."
+
+#: inc/vc-functions.php:1344
+msgid "Icon library"
+msgstr "Zbirka ikona"
+
+#: inc/vc-functions.php:1352
+msgid "Material"
+msgstr "Materijal"
+
+#: inc/vc-functions.php:1353
+msgid "SimpleLine"
+msgstr "Jednostavna crta"
+
+#: inc/vc-functions.php:1357
+msgid "Select icon library."
+msgstr "Odaberite zbirku ikona."
+
+#: inc/vc-functions.php:1361 inc/vc-functions.php:1379 
+#: inc/vc-functions.php:1398 inc/vc-functions.php:1417 
+#: inc/vc-functions.php:1435 inc/vc-functions.php:1454 
+#: inc/vc-functions.php:1473 inc/vc-functions.php:1492 
+#: inc/vc-functions.php:2496
+msgid "Icon"
+msgstr "Ikona"
+
+#: inc/vc-functions.php:1375 inc/vc-functions.php:1394 
+#: inc/vc-functions.php:1413 inc/vc-functions.php:1450 
+#: inc/vc-functions.php:1469 inc/vc-functions.php:1488 
+#: inc/vc-functions.php:1507
+msgid "Select icon from library."
+msgstr "Odaberite ikonu iz zbirke."
+
+#: inc/vc-functions.php:1511
+msgid "Icon Holder Color"
+msgstr "Boja držača ikone"
+
+#: inc/vc-functions.php:1516 inc/vc-functions.php:1536
+msgid "Custom"
+msgstr "Prilagođeno"
+
+#: inc/vc-functions.php:1538
+msgid "Select icon color."
+msgstr "Odaberite boju ikone."
+
+#: inc/vc-functions.php:1542
+msgid "Custom Icon Color"
+msgstr "Prilagođena boja ikone"
+
+#: inc/vc-functions.php:1544
+msgid "Select custom icon color."
+msgstr "Odaberite prilagođenu boju ikone."
+
+#: inc/vc-functions.php:1552
+msgid "Icon Holder Size"
+msgstr "Veličina držača ikone"
+
+#: inc/vc-functions.php:1558
+msgid "Select box size."
+msgstr "Odaberite veličinu okvira."
+
+#: inc/vc-functions.php:1562
+msgid "Icon Holder Shape"
+msgstr "Oblik držača ikone"
+
+#: inc/vc-functions.php:1565
+msgid "Circle"
+msgstr "Kružni"
+
+#: inc/vc-functions.php:1566
+msgid "Rounded"
+msgstr "Zaobljeni"
+
+#: inc/vc-functions.php:1567
+msgid "Square"
+msgstr "Četvrtasti"
+
+#: inc/vc-functions.php:1569
+msgid "Select box shape."
+msgstr "Odaberite oblik okvira."
+
+#: inc/vc-functions.php:1613
+msgid "Select style type."
+msgstr "Odaberite vrstu stila."
+
+#: inc/vc-functions.php:1617
+msgid "Message text"
+msgstr "Tekst poruke"
+
+#: inc/vc-functions.php:1624
+msgid "Dismissible?"
+msgstr "Može se zanemariti?"
+
+#: inc/vc-functions.php:1657
+msgid "A simple box."
+msgstr "Jednostavni okvir."
+
+#: inc/vc-functions.php:1700
+msgid "A simple banner."
+msgstr "Jednostavni transparent."
+
+#: inc/vc-functions.php:1706
+msgid "Enter a short title."
+msgstr "Unesite kratak naslov."
+
+#: inc/vc-functions.php:1713 inc/vc-functions.php:1719
+msgid "Enter a short subtitle."
+msgstr "Unesite kratak podnaslo"
+
+#: inc/vc-functions.php:1723
+msgid "Button"
+msgstr "Gumb"
+
+#: inc/vc-functions.php:1725
+msgid "Add link to the button."
+msgstr "Dodati poveznicu na gumb."
+
+#: inc/vc-functions.php:1729
+msgid "Discount Text"
+msgstr "Tekst popusta"
+
+#: inc/vc-functions.php:1731
+msgid "Enter a short text."
+msgstr "Unesite kratak tekst."
+
+#: inc/vc-functions.php:1732
+msgid "Only"
+msgstr "Samo"
+
+#: inc/vc-functions.php:1736
+msgid "Discount Price"
+msgstr "Cijena s popustom"
+
+#: inc/vc-functions.php:1738
+msgid "Enter your price."
+msgstr "Unesite svoju cijenu."
+
+#: inc/vc-functions.php:1777
+msgid "Albums element."
+msgstr "Element albuma."
+
+#: inc/vc-functions.php:1788
+msgid "Select Albums Layout"
+msgstr "Odaberite izgled albuma"
+
+#: inc/vc-functions.php:1873
+msgid "A custom content filter."
+msgstr "Prilagođeni filter sadržaja."
+
+#: inc/vc-functions.php:1877
+msgid "Items"
+msgstr "Stavke"
+
+#: inc/vc-functions.php:1881 inc/vc-functions.php:1885
+msgid "Select Item"
+msgstr "Odaberite stavku"
+
+#: inc/vc-functions.php:1914
+msgid "Enter URL to a page."
+msgstr "Unesite URL stranice."
+
+#: inc/vc-functions.php:2161
+msgid "Empty"
+msgstr "Prazno"
+
+#: inc/vc-functions.php:2207 inc/vc-functions.php:2275 
+#: sportspress/widgets/widget-alc-event-block.php:32
+msgid "A list of events."
+msgstr "Popis događaja."
+
+#: inc/vc-functions.php:2213
+msgid "Events"
+msgstr "Događaji"
+
+#: inc/vc-functions.php:2219 inc/vc-functions.php:2938
+msgid "Number of events to show"
+msgstr "Broj događaja koji će se prikazati"
+
+#: inc/vc-functions.php:2222 inc/vc-functions.php:2941
+msgid "Enter a number of events to show."
+msgstr "Unesite broj događaja koji će se prikazati."
+
+#: inc/vc-functions.php:2229 inc/vc-functions.php:2240 
+#: inc/vc-functions.php:2574 inc/vc-functions.php:2584 
+#: inc/vc-functions.php:2882 
+#: sportspress/widgets/widget-alc-event-block.php:131 
+#: sportspress/widgets/widget-alc-event-block.php:178 
+#: sportspress/widgets/widget-alc-featured-player.php:122 
+#: sportspress/widgets/widget-alc-game-result.php:119 
+#: sportspress/widgets/widget-alc-game-result.php:153 
+#: vc_templates/alc_post_slider.php:115
+msgid "All"
+msgstr "Sve"
+
+#: inc/vc-functions.php:2230
+msgid "Published"
+msgstr "Objavljen"
+
+#: inc/vc-functions.php:2231
+msgid "Scheduled"
+msgstr "Zakazane utakmice"
+
+#: inc/vc-functions.php:2233
+msgid "Select events status to display."
+msgstr "Odaberite status događaja koji će se prikazati."
+
+#: inc/vc-functions.php:2237 inc/vc-functions.php:2571
+msgid "Select Calendar:"
+msgstr "Odaberite kalendar:"
+
+#: inc/vc-functions.php:2242 inc/vc-functions.php:2576 
+#: inc/vc-functions.php:2884
+msgid "Pick a calendar to display."
+msgstr "Izaberite kalendar koji će se prikazati."
+
+#: inc/vc-functions.php:2246 sportspress/widgets/widget-alc-event-block.php:183
+msgid "Sort Order:"
+msgstr "Način slaganja:"
+
+#: inc/vc-functions.php:2250 inc/vc-functions.php:2905
+msgid "ASC"
+msgstr "UZL"
+
+#: inc/vc-functions.php:2251 inc/vc-functions.php:2904
+msgid "DESC"
+msgstr "SIL"
+
+#: inc/vc-functions.php:2253 inc/vc-functions.php:2907
+msgid "Select events sorting order."
+msgstr "Odabir način slaganja događaja."
+
+#: inc/vc-functions.php:2256 inc/vc-functions.php:2887 
+#: sportspress/widgets/widget-alc-event-block.php:191
+msgid "Display link to view all events"
+msgstr "Prikaz poveznice za prikaz svih događaja"
+
+#: inc/vc-functions.php:2285
+msgid "Select Event"
+msgstr "Izbor događaja"
+
+#: inc/vc-functions.php:2288
+msgid "Pick event to display."
+msgstr "Izbor događaja koji će se prikazati."
+
+#: inc/vc-functions.php:2292
+msgid "Game Percentage"
+msgstr "Postotak utakmice"
+
+#: inc/vc-functions.php:2298 inc/vc-functions.php:2837
+msgid "Detailed statistics will be shown if enabled."
+msgstr "Ako se omogući prikazat će se detaljna statistika."
+
+#: inc/vc-functions.php:2309
+msgid "1st Team Color"
+msgstr "Boja 1. ekipe"
+
+#: inc/vc-functions.php:2316
+msgid "2nd Team Color"
+msgstr "Boja 2. ekipe"
+
+#: inc/vc-functions.php:2361 inc/vc-functions.php:2439 
+#: inc/vc-functions.php:2562
+msgid "Select Team:"
+msgstr "Odabir ekipe:"
+
+#: inc/vc-functions.php:2448
+msgid "Select League Table:"
+msgstr "Odabir tablice lige:"
+
+#: inc/vc-functions.php:2451
+msgid "Select league table."
+msgstr "Odabir tablice lige."
+
+#: inc/vc-functions.php:2456
+msgid "Team Stats"
+msgstr "Statistika ekipe"
+
+#: inc/vc-functions.php:2479 inc/vc-functions.php:2689
+msgid "Label"
+msgstr "Oznaka"
+
+#: inc/vc-functions.php:2482
+msgid "Enter label for statistic"
+msgstr "Unos oznake za statistiku"
+
+#: inc/vc-functions.php:2487 inc/vc-functions.php:2697
+msgid "Statistic"
+msgstr "Statistika"
+
+#: inc/vc-functions.php:2491 inc/vc-functions.php:2701
+msgid "Select a statistic"
+msgstr "Odabir statistike"
+
+#: inc/vc-functions.php:2499
+msgid "Icon 1"
+msgstr "Ikona 1"
+
+#: inc/vc-functions.php:2500
+msgid "Icon 2"
+msgstr "Ikona 2"
+
+#: inc/vc-functions.php:2501
+msgid "Icon 3"
+msgstr "Ikona 3"
+
+#: inc/vc-functions.php:2502
+msgid "Icon Custom"
+msgstr "Prilagođena ikona"
+
+#: inc/vc-functions.php:2505
+msgid "Select an icon"
+msgstr "Odabir ikone"
+
+#: inc/vc-functions.php:2509
+msgid "Icon Symbol"
+msgstr "Simbol za ikonu"
+
+#: inc/vc-functions.php:2580 
+#: sportspress/widgets/widget-alc-event-block.php:158 
+#: sportspress/widgets/widget-alc-game-result.php:133 
+#: woocommerce/checkout/thankyou.php:54
+msgid "Date:"
+msgstr "Datum:"
+
+#: inc/vc-functions.php:2585
+msgid "This Week"
+msgstr "Ovaj tjedan"
+
+#: inc/vc-functions.php:2586
+msgid "Date Range"
+msgstr "Raspon datuma"
+
+#: inc/vc-functions.php:2674
+msgid "Players Stats"
+msgstr "Statistike igrača"
+
+#: inc/vc-functions.php:2745
+msgid "A staff info card."
+msgstr "Kartica s informacijama o osoblju."
+
+#: inc/vc-functions.php:2755
+msgid "Staff Member"
+msgstr "Član osoblja"
+
+#: inc/vc-functions.php:2812 inc/vc-functions.php:2911
+msgid "Select Player"
+msgstr "Odabir igrača"
+
+#: inc/vc-functions.php:2824
+msgid "Banner - Style 1"
+msgstr "Transparent - stil 1"
+
+#: inc/vc-functions.php:2825
+msgid "Banner - Style 2"
+msgstr "Transparent - stil 2"
+
+#: inc/vc-functions.php:2826
+msgid "Hide Banner"
+msgstr "Sakriti transparent"
+
+#: inc/vc-functions.php:2828
+msgid "Select style or hide player banner."
+msgstr "Izaberite stil ili sakrijte transparent igrača."
+
+#: inc/vc-functions.php:2831
+msgid "Detailed Stats"
+msgstr "Detaljne statistike"
+
+#: inc/vc-functions.php:2868
+msgid "Game-by-game stat for player."
+msgstr "Statistika igrača po utakmicama."
+
+#: inc/vc-functions.php:2879
+msgid "Select Calendar"
+msgstr "Odaberite kalendar"
+
+#: inc/vc-functions.php:2901
+msgid "Sort Order"
+msgstr "Način slaganja"
+
+#: inc/vc-functions.php:2920
+msgid "Player Statistic"
+msgstr "Statistike igrača"
+
+#: inc/wc-functions.php:109
+msgid "Place order"
+msgstr "Napravi narudžbu"
+
+#: inc/wc-functions.php:125
+msgid "View cart"
+msgstr "Prikaz košarice"
+
+#: inc/wc-functions.php:134
+msgid "Checkout"
+msgstr "Završetak kupnje"
+
+#: inc/wc-functions.php:156 template-parts/header-secondary.php:68
+msgid "View your shopping cart"
+msgstr "Prikaz vaše košarice"
+
+#: inc/wc-functions.php:169 template-parts/header-secondary.php:83
+msgid "Your Bag"
+msgstr "Vaša vrećica"
+
+#: inc/wc-functions.php:169 template-parts/header-secondary.php:83
+#, php-format
+msgid "%s item"
+msgid_plural "%s items"
+msgstr[0] "%s stavka"
+msgstr[1] "%s stavke"
+msgstr[2] "%s stavki"
+
+#: inc/wc-functions.php:187
+msgid "Downloads"
+msgstr "Preuzimanja"
+
+#: inc/wc-functions.php:190
+msgid "Orders"
+msgstr "Nalozi"
+
+#: inc/wc-functions.php:193 inc/wc-functions.php:202
+msgid "Account Details"
+msgstr "Detalji o računu"
+
+#: inc/wc-functions.php:196
+msgid "Addresses"
+msgstr "Adrese"
+
+#: inc/wc-functions.php:199
+msgid "Payment Methods"
+msgstr "Načini plaćanja"
+
+#: inc/wc-functions.php:347
+msgid "Show"
+msgstr "Prikaz"
+
+#: inc/wc-functions.php:347
+msgid "per page"
+msgstr "po stranici"
+
+#: inc/wc-functions.php:491 inc/wc-functions.php:510
+msgid "Abbreviation"
+msgstr "Kratice"
+
+#: inc/wc-functions.php:493 inc/wc-functions.php:513
+msgid "Used on the Shop Grid layout behind the Product Image"
+msgstr "Koristi se na prikazu Shop Grid iza slike proizvoda"
+
+#: inc/widgets/widget-ad-spot.php:32
+msgid "Display Ad as a widget."
+msgstr "Prikaži reklamu kao Widget."
+
+#: inc/widgets/widget-ad-spot.php:115 inc/widgets/widget-contact-info.php:172 
+#: inc/widgets/widget-instagram-feed.php:147 
+#: inc/widgets/widget-recent-comments.php:138 
+#: inc/widgets/widget-recent-posts.php:250 
+#: inc/widgets/widget-top-posts.php:351 
+#: sportspress/widgets/widget-alc-event-block.php:121 
+#: sportspress/widgets/widget-alc-featured-player.php:112 
+#: sportspress/widgets/widget-alc-game-result.php:112
+msgid "Title:"
+msgstr "Naslov:"
+
+#: inc/widgets/widget-ad-spot.php:120
+msgid "Image URL:"
+msgstr "URL slike:"
+
+#: inc/widgets/widget-ad-spot.php:122
+msgid "Recommended size 300x250"
+msgstr "Preporučena veličina 300x250"
+
+#: inc/widgets/widget-ad-spot.php:126
+msgid "Link URL:"
+msgstr "URL poveznice:"
+
+#: inc/widgets/widget-ad-spot.php:131
+msgid "Alt Text:"
+msgstr "Alt tekst:"
+
+#: inc/widgets/widget-contact-info.php:32
+msgid "Display Contact Info as a widget."
+msgstr "Prikaz Kontaktnih informacija kao Widget."
+
+#: inc/widgets/widget-contact-info.php:177
+msgid "Short Info:"
+msgstr "Kratki info:"
+
+#: inc/widgets/widget-contact-info.php:182
+msgid "1st Label:"
+msgstr "1. oznaka:"
+
+#: inc/widgets/widget-contact-info.php:187
+msgid "1st Email:"
+msgstr "1.  mail adresa:"
+
+#: inc/widgets/widget-contact-info.php:192
+msgid "2nd Label:"
+msgstr "2. oznaka:"
+
+#: inc/widgets/widget-contact-info.php:197
+msgid "2nd Email:"
+msgstr "2. mail adresa:"
+
+#: inc/widgets/widget-contact-info.php:202
+msgid "Social - Twitter:"
+msgstr "Društvene mreže - Twitter:"
+
+#: inc/widgets/widget-contact-info.php:207
+msgid "Social - Facebook:"
+msgstr "Društvene mreže - Facebook:"
+
+#: inc/widgets/widget-contact-info.php:212
+msgid "Social - Google+:"
+msgstr "Društvene mreže - Google+:"
+
+#: inc/widgets/widget-instagram-feed.php:32
+msgid "Display Instagram feed as a widget."
+msgstr "Prikaz objava na Istagramu kroz Widget."
+
+#: inc/widgets/widget-instagram-feed.php:63 
+#: inc/widgets/widget-instagram-feed.php:141
+msgid "Follow Our Instagram"
+msgstr "Pratite naš Instagram"
+
+#: inc/widgets/widget-instagram-feed.php:167
+msgid "Number of images:"
+msgstr "Broj slika:"
+
+#: inc/widgets/widget-instagram-feed.php:172
+msgid "Layout:"
+msgstr "Izgled:"
+
+#: inc/widgets/widget-instagram-feed.php:174
+msgid "3 Columns"
+msgstr "3 stupca"
+
+#: inc/widgets/widget-instagram-feed.php:175
+msgid "4 Columns"
+msgstr "4 stupca"
+
+#: inc/widgets/widget-instagram-feed.php:181
+msgid "Show Follow Button"
+msgstr "Prikaži gumb Slijedi"
+
+#: inc/widgets/widget-instagram-feed.php:185
+msgid "Follow Button Label:"
+msgstr "Oznaka gumba za praćenje:"
+
+#: inc/widgets/widget-recent-comments.php:32
+msgid "A widget to show the most recent comments."
+msgstr "Widget za prikaz zadnjih komentara."
+
+#: inc/widgets/widget-recent-comments.php:84
+#, php-format
+msgctxt "%s = human-readable time difference"
+msgid "%s ago"
+msgstr "prije %s  "
+
+#: inc/widgets/widget-recent-comments.php:98
+msgid "No comments."
+msgstr "Bez komentara."
+
+#: inc/widgets/widget-recent-comments.php:143
+msgid "Number of comments:"
+msgstr "Broj komentara:"
+
+#: inc/widgets/widget-recent-comments.php:148
+msgid "Comment size (number of words):"
+msgstr "Veličina komentara (broj riječi)"
+
+#: inc/widgets/widget-recent-posts.php:33
+msgid "Display your posts."
+msgstr "Prikaz vaše objave."
+
+#: inc/widgets/widget-recent-posts.php:239
+msgid "Recent Posts"
+msgstr "Nedavne objave"
+
+#: inc/widgets/widget-recent-posts.php:255
+msgid "Number of items to show:"
+msgstr "Broj stavki koje će se prikazati:"
+
+#: inc/widgets/widget-recent-posts.php:260
+msgid "Order by:"
+msgstr "Redosljed:"
+
+#: inc/widgets/widget-recent-posts.php:263
+msgid "Popularity"
+msgstr "Pobularnost"
+
+#: inc/widgets/widget-recent-posts.php:269
+msgid "Show thumbnail"
+msgstr "Prikaz sličice"
+
+#: inc/widgets/widget-recent-posts.php:273 
+#: inc/widgets/widget-social-counters.php:237
+msgid "Layout Style:"
+msgstr "Stil razmještaja:"
+
+#: inc/widgets/widget-recent-posts.php:280
+msgid "Excerpt size (number of words):"
+msgstr "Veličina izvatka (broj riječi)"
+
+#: inc/widgets/widget-social-counters.php:32
+msgid "Display social counters as a widget."
+msgstr "Prikaz brojača društvenih mreža na widgetu."
+
+#: inc/widgets/widget-social-counters.php:87 
+#: inc/widgets/widget-social-counters.php:224 
+#: template-parts/social-counters/social-fb.php:18
+msgid "Like Our Facebook Page"
+msgstr "Lajkaj našu Facebook stranicu"
+
+#: inc/widgets/widget-social-counters.php:88 
+#: inc/widgets/widget-social-counters.php:225 
+#: template-parts/social-counters/social-twitter.php:21
+msgid "Follow Us on Twitter"
+msgstr "Predbilježi se na naš Twitter"
+
+#: inc/widgets/widget-social-counters.php:89 
+#: inc/widgets/widget-social-counters.php:226
+msgid "Subscribe to Our Google+"
+msgstr "Predbilježi se na naš Google+"
+
+#: inc/widgets/widget-social-counters.php:90 
+#: inc/widgets/widget-social-counters.php:227
+msgid "Follow us on Instagram"
+msgstr "Prati nas na Instagramu"
+
+#: inc/widgets/widget-social-counters.php:115 
+#: template-parts/social-counters/social-fb.php:19 
+#: template-parts/social-counters/social-gplus.php:19
+msgid "Likes"
+msgstr "Lajkova"
+
+#: inc/widgets/widget-social-counters.php:130 
+#: inc/widgets/widget-social-counters.php:160 
+#: template-parts/social-counters/social-instagram.php:19 
+#: template-parts/social-counters/social-twitter.php:24
+msgid "Followers"
+msgstr "Prate nas"
+
+#: inc/widgets/widget-social-counters.php:132 
+#: template-parts/social-counters/social-twitter.php:26
+msgid "Follow US"
+msgstr "Prati nas"
+
+#: inc/widgets/widget-social-counters.php:147
+msgid "Subscribers"
+msgstr "Registrirani korisnici"
+
+#: inc/widgets/widget-social-counters.php:239
+msgid "Full-width Buttons"
+msgstr "Gumbi pune širine"
+
+#: inc/widgets/widget-social-counters.php:240
+msgid "Half-width Buttons"
+msgstr "Gumbi pola širine"
+
+#: inc/widgets/widget-social-counters.php:241
+msgid "Auto width"
+msgstr "Auto-širina"
+
+#: inc/widgets/widget-social-counters.php:266
+msgid "Facebook Text Label:"
+msgstr "Tekstualna oznaka za Facebook:"
+
+#: inc/widgets/widget-social-counters.php:271
+msgid "Twitter Text Label:"
+msgstr "Tekstualna oznaka za Twitter:"
+
+#: inc/widgets/widget-social-counters.php:276
+msgid "Google+ Text Label:"
+msgstr "Tekstualna oznaka za Google+:"
+
+#: inc/widgets/widget-social-counters.php:281
+msgid "Instagram Text Label:"
+msgstr "Tekstualna oznaka za Instagram:"
+
+#: inc/widgets/widget-top-posts.php:33
+msgid "Newest, Most Commented and Popular posts."
+msgstr "Najnovije, najkomentiranije i najpopularnije objave."
+
+#: inc/widgets/widget-top-posts.php:91
+msgid "Newest"
+msgstr "Najnovije"
+
+#: inc/widgets/widget-top-posts.php:94
+msgid "Most Commented"
+msgstr "Najkomentiranije"
+
+#: inc/widgets/widget-top-posts.php:97
+msgid "Popular"
+msgstr "Najpopularnije"
+
+#: inc/widgets/widget-top-posts.php:356
+msgid "Number of newest posts:"
+msgstr "Broj novih objava:"
+
+#: inc/widgets/widget-top-posts.php:361
+msgid "Number of most commented posts:"
+msgstr "Broj najkomentiranijih objava:"
+
+#: inc/widgets/widget-top-posts.php:366
+msgid "Number of popular posts:"
+msgstr "Broj najpopularnijih objava:"
+
+#: search.php:31
+msgid "Search Results"
+msgstr "Pretraga rezultata"
+
+#: searchform.php:4
+msgid "Search text..."
+msgstr "Pretraga teksta..."
+
+#: searchform.php:6
+msgid "Search"
+msgstr "Pretraga"
+
+#: single-albums.php:42
+msgid "Go Back to the Albums"
+msgstr "Natrag na albume"
+
+#: sportspress/countdown.php:126
+msgid "VS"
+msgstr "Protiv"
+
+#: sportspress/countdown.php:176
+msgid "Game Countdown"
+msgstr "Odbrojavanje"
+
+#: sportspress/countdown.php:180
+msgid "days"
+msgstr "dana"
+
+#: sportspress/countdown.php:181
+msgid "hrs"
+msgstr "sati"
+
+#: sportspress/countdown.php:182
+msgid "mins"
+msgstr "minuta"
+
+#: sportspress/countdown.php:183
+msgid "secs"
+msgstr "sekundi"
+
+#: sportspress/event-blocks-custom.php:87 sportspress/event-blocks.php:87 
+#: sportspress/event-list.php:92 sportspress/player-event-game-by-game.php:107
+msgid "View all events"
+msgstr "Prikaz svih utakmica"
+
+#: sportspress/event-blocks.php:235 sportspress/event-logos-block.php:123 
+#: sportspress/event-logos-inline.php:110 sportspress/game-result.php:231 
+#: vc_templates/alc_event_scoreboard.php:241
+msgid "Final Score"
+msgstr "Konačni rezultat"
+
+#: sportspress/event-details.php:27 sportspress/event-list.php:121 
+#: sportspress/event-list.php:135 sportspress/event-list.php:141
+msgid "Time"
+msgstr "Vrijeme"
+
+#: sportspress/event-details.php:44 sportspress/event-list.php:166
+msgid "Match Day"
+msgstr "Kolo"
+
+#: sportspress/event-details.php:53
+msgid "Full Time"
+msgstr "Svršetak utakmice"
+
+#: sportspress/event-details.php:62
+msgid "Details"
+msgstr "Vrijeme i lokacija"
+
+#: sportspress/event-list.php:107
+msgid "Home"
+msgstr "Domaći"
+
+#: sportspress/event-list.php:111 sportspress/event-list.php:149
+msgid "Time/Results"
+msgstr "Vr./Rez"
+
+#: sportspress/event-list.php:113 sportspress/event-list.php:137 
+#: sportspress/event-list.php:145 sportspress/event-results.php:21
+msgid "Results"
+msgstr "Ekipne statistike"
+
+#: sportspress/event-list.php:117
+msgid "Away"
+msgstr "Gosti"
+
+#: sportspress/event-list.php:127
+msgid "Teams"
+msgstr "Ekipe"
+
+#: sportspress/event-list.php:129
+msgid "Event"
+msgstr "Događaj"
+
+#: sportspress/event-list.php:154
+msgid "Competition"
+msgstr "Natjecanje"
+
+#: sportspress/event-list.php:157
+msgid "Season"
+msgstr "Sezona"
+
+#: sportspress/event-list.php:160 sportspress/event-venue.php:38
+msgid "Venue"
+msgstr "Dvorana"
+
+#: sportspress/event-list.php:163
+msgid "Article"
+msgstr "O utakmici"
+
+#: sportspress/event-list.php:393
+msgid "Recap"
+msgstr "Osvrt na utakmicu"
+
+#: sportspress/event-list.php:395 sportspress/event-logos-block.php:119 
+#: sportspress/event-logos-inline.php:106
+msgid "Preview"
+msgstr "Najava"
+
+#: sportspress/event-logos-block.php:17 sportspress/event-logos-inline.php:13
+msgid "Game Results"
+msgstr "Pregled utakmice"
+
+#: sportspress/event-logos-block.php:206 sportspress/game-result.php:261 
+#: vc_templates/alc_event_scoreboard.php:263
+msgid "Scoreboard"
+msgstr "Kretanje rezultata"
+
+#: sportspress/event-logos-block.php:262 sportspress/game-result.php:322 
+#: sportspress/player-statistics-avg.php:41 
+#: sportspress/single-team/content-roster.php:191 
+#: sportspress/single-team/content-roster.php:246 
+#: vc_templates/alc_event_scoreboard.php:319 
+#: vc_templates/alc_player_stats.php:180 vc_templates/alc_player_stats.php:241
+msgid "Assists"
+msgstr "Asistencija"
+
+#: sportspress/event-logos-block.php:263 sportspress/game-result.php:323 
+#: sportspress/player-statistics-avg.php:49 
+#: sportspress/single-team/content-roster.php:237 
+#: vc_templates/alc_event_scoreboard.php:320 
+#: vc_templates/alc_player_stats.php:232
+msgid "Rebounds"
+msgstr "Skokovi"
+
+#: sportspress/event-logos-block.php:264 sportspress/game-result.php:324 
+#: sportspress/single-team/content-roster.php:256 
+#: vc_templates/alc_event_scoreboard.php:321 
+#: vc_templates/alc_player_stats.php:251
+msgid "Steals"
+msgstr "Ukradene lopte"
+
+#: sportspress/event-logos-block.php:265 
+#: sportspress/single-team/content-roster.php:265 
+#: vc_templates/alc_event_scoreboard.php:322 
+#: vc_templates/alc_player_stats.php:260
+msgid "Blocks"
+msgstr "Blokovi"
+
+#: sportspress/event-logos-block.php:266 
+#: sportspress/single-team/content-roster.php:275 
+#: vc_templates/alc_event_scoreboard.php:323 
+#: vc_templates/alc_player_stats.php:270
+msgid "Fouls"
+msgstr "Osobne pogreške"
+
+#: sportspress/event-logos-block.php:271 
+#: vc_templates/alc_event_scoreboard.php:328 
+#: vc_templates/alc_player_stats.php:300
+msgid "Field Goal Accuracy"
+msgstr "Preciznost u dvicama"
+
+#: sportspress/event-logos-block.php:272 
+#: vc_templates/alc_event_scoreboard.php:329
+msgid "Three Point Accuracy"
+msgstr "Preciznost u tricama"
+
+#: sportspress/event-logos-block.php:273 
+#: vc_templates/alc_event_scoreboard.php:330 
+#: vc_templates/alc_player_stats.php:310
+msgid "Free Throw Accuracy"
+msgstr "Preciznost u slobodnim bacanjima"
+
+#: sportspress/event-logos-block.php:363 sportspress/game-result.php:331 
+#: vc_templates/alc_event_scoreboard.php:423
+msgid "Game Statistics"
+msgstr "Statistike"
+
+#: sportspress/event-performance-table.php:199 
+#: woocommerce/cart/cart-totals.php:130 woocommerce/cart/cart-totals.php:131 
+#: woocommerce/cart/cart.php:42 woocommerce/cart/cart.php:124 
+#: woocommerce/checkout/review-order.php:31 
+#: woocommerce/checkout/review-order.php:110 
+#: woocommerce/order/order-details.php:43
+msgid "Total"
+msgstr "Ukupno"
+
+#: sportspress/event-video.php:20
+msgid "Video"
+msgstr "Video snimka"
+
+#: sportspress/league-table.php:58
+msgid "View full table"
+msgstr "Prikaz cijele tablice"
+
+#: sportspress/league-table.php:83
+msgid "Pos"
+msgstr "Poz"
+
+#: sportspress/player-details.php:46 woocommerce/single-product-reviews.php:80
+msgid "Name"
+msgstr "Ime"
+
+#: sportspress/player-details.php:57 sportspress/single-player.php:168 
+#: vc_templates/alc_staff_bio_card.php:74
+msgid "Nationality"
+msgstr "Nacionalnost"
+
+#: sportspress/player-details.php:68 sportspress/single-player.php:190
+msgid "Position"
+msgstr "Pozicija"
+
+#: sportspress/player-details.php:83 sportspress/single-player.php:147 
+#: vc_templates/alc_staff_bio_card.php:85
+msgid "Current Team"
+msgstr "Ekipa"
+
+#: sportspress/player-details.php:96 vc_templates/alc_staff_bio_card.php:97
+msgid "Past Teams"
+msgstr "Prijašnje ekipe"
+
+#: sportspress/player-details.php:107
+msgid "Competitions"
+msgstr "Natjecanja"
+
+#: sportspress/player-details.php:118
+msgid "Seasons"
+msgstr "Sezone"
+
+#: sportspress/player-event-game-by-game.php:119
+msgid "Versus"
+msgstr "Protiv"
+
+#: sportspress/player-event-game-by-game.php:120
+msgid "Score"
+msgstr "Rezultat"
+
+#: sportspress/player-featured.php:125 sportspress/single-player.php:95 
+#: sportspress/single-team/content-roster.php:164 
+#: vc_templates/alc_player_stats.php:153
+msgid "Team Logo"
+msgstr "Logo ekipe"
+
+#: sportspress/player-featured.php:158 
+#: sportspress/single-team/content-roster.php:188 
+#: sportspress/single-team/content-roster.php:193 
+#: sportspress/single-team/content-roster.php:198 
+#: vc_templates/alc_player_stats.php:177 vc_templates/alc_player_stats.php:182 
+#: vc_templates/alc_player_stats.php:187 vc_templates/alc_team_leaders.php:128
+msgid "AVG"
+msgstr "PROSJEČNO"
+
+#: sportspress/player-featured.php:193 
+#: sportspress/single-team/content-roster.php:220 
+#: sportspress/single-team/content-roster.php:229 
+#: sportspress/single-team/content-roster.php:238 
+#: sportspress/single-team/content-roster.php:247 
+#: sportspress/single-team/content-roster.php:257 
+#: sportspress/single-team/content-roster.php:266 
+#: sportspress/single-team/content-roster.php:276 
+#: sportspress/single-team/content-roster.php:285 
+#: vc_templates/alc_player_stats.php:214 vc_templates/alc_player_stats.php:223 
+#: vc_templates/alc_player_stats.php:233 vc_templates/alc_player_stats.php:242 
+#: vc_templates/alc_player_stats.php:252 vc_templates/alc_player_stats.php:261 
+#: vc_templates/alc_player_stats.php:271 vc_templates/alc_player_stats.php:280
+msgid "In his career"
+msgstr "Ukupno zabilježeno"
+
+#: sportspress/player-featured.php:215 
+#: sportspress/single-team/content-roster.php:305
+msgid "Shot<br> Accuracy"
+msgstr "Šut<br>preciznost"
+
+#: sportspress/player-featured.php:225 
+#: sportspress/single-team/content-roster.php:315
+msgid "Free Throw<br> Accuracy"
+msgstr "Slobodna bacanja<br>preciznost"
+
+#: sportspress/player-featured.php:235 
+#: sportspress/single-team/content-roster.php:325
+msgid "3 Points<br> Accuracy"
+msgstr "Trice<br>preciznost"
+
+#: sportspress/player-gallery.php:155 sportspress/player-list.php:97 
+#: sportspress/player-slider.php:206
+msgid "View all players"
+msgstr "Prikaz svih igrača"
+
+#: sportspress/player-list.php:222
+msgid "Rank"
+msgstr "Rang"
+
+#: sportspress/player-statistics-avg.php:22 
+#: sportspress/player-statistics-avg.php:23 
+#: sportspress/player-statistics-avg.php:24 sportspress/single-player.php:78 
+#: sportspress/single-player.php:79 sportspress/single-player.php:180 
+#: sportspress/single-player.php:200 
+#: sportspress/single-team/content-roster.php:119 
+#: sportspress/single-team/content-roster.php:120 
+#: sportspress/single-team/content-roster.php:121 
+#: sportspress/single-team/content-roster.php:123 
+#: sportspress/single-team/content-roster.php:124 
+#: sportspress/single-team/content-roster.php:125 
+#: sportspress/single-team/content-roster.php:126 
+#: sportspress/single-team/content-roster.php:127 
+#: sportspress/single-team/content-roster.php:128 
+#: sportspress/single-team/content-roster.php:129 
+#: sportspress/single-team/content-roster.php:130 
+#: sportspress/single-team/content-roster.php:131 
+#: sportspress/single-team/content-roster.php:136 
+#: sportspress/single-team/content-roster.php:142 
+#: vc_templates/alc_player_stats.php:98 vc_templates/alc_player_stats.php:99 
+#: vc_templates/alc_player_stats.php:100 vc_templates/alc_player_stats.php:107 
+#: vc_templates/alc_player_stats.php:108 vc_templates/alc_player_stats.php:109 
+#: vc_templates/alc_player_stats.php:110 vc_templates/alc_player_stats.php:111 
+#: vc_templates/alc_player_stats.php:112 vc_templates/alc_player_stats.php:113 
+#: vc_templates/alc_player_stats.php:114 vc_templates/alc_player_stats.php:115 
+#: vc_templates/alc_player_stats.php:120 vc_templates/alc_player_stats.php:126
+msgid "n/a"
+msgstr "n/a"
+
+#: sportspress/player-statistics-avg.php:31 
+#: sportspress/player-statistics-avg.php:39 
+#: sportspress/player-statistics-avg.php:47
+msgid "avg"
+msgstr "avg"
+
+#: sportspress/player-statistics-avg.php:33 
+#: sportspress/single-team/content-roster.php:186 
+#: vc_templates/alc_player_stats.php:175
+msgid "Points"
+msgstr "Koševa"
+
+#: sportspress/player-statistics-avg.php:33 
+#: sportspress/player-statistics-avg.php:41 
+#: sportspress/player-statistics-avg.php:49
+msgid "per game"
+msgstr "po utakmici"
+
+#: sportspress/player-statistics.php:33 sportspress/player-statistics.php:35
+msgid "Defense"
+msgstr "Obrana"
+
+#: sportspress/player-statistics.php:33 sportspress/player-statistics.php:35
+msgid "Offense"
+msgstr "Napad"
+
+#: sportspress/player-statistics.php:72
+msgid "Career Total"
+msgstr "Ukupno zabilježeno"
+
+#: sportspress/single-player.php:130
+msgid "Height"
+msgstr "Visina"
+
+#: sportspress/single-player.php:135
+msgid "Weight"
+msgstr "Težina"
+
+#: sportspress/single-player.php:140
+msgid "Age"
+msgstr "Dob"
+
+#: sportspress/single-player/content-bio.php:49
+msgid "Nothing Found. Please check Player Bio section."
+msgstr "Nema sadržaja."
+
+#: sportspress/single-player/content-bio.php:63
+msgid "Player Newslog"
+msgstr "Igrač u objavama"
+
+#: sportspress/single-team.php:77 sportspress/single-team.php:86 
+#: sportspress/single-team.php:92 sportspress/single-team.php:98 
+#: sportspress/single-team.php:104 sportspress/single-team.php:110
+msgid "The Team"
+msgstr "Ekipa"
+
+#: sportspress/single-team/content-roster.php:196 
+#: vc_templates/alc_player_stats.php:185
+msgid "Rebs"
+msgstr "Skokovi"
+
+#: sportspress/single-team/content-roster.php:219 
+#: vc_templates/alc_player_stats.php:213
+msgid "2 Points"
+msgstr "2 poena"
+
+#: sportspress/single-team/content-roster.php:228 
+#: vc_templates/alc_player_stats.php:222
+msgid "3 Points"
+msgstr "3 poena"
+
+#: sportspress/single-team/content-roster.php:284 
+#: vc_templates/alc_player_stats.php:279
+msgid "Games Played"
+msgstr "Odigrano"
+
+#: sportspress/widgets/widget-alc-event-block.php:124
+msgid "Heading:"
+msgstr "Zaglavlje:"
+
+#: sportspress/widgets/widget-alc-event-block.php:127 
+#: sportspress/widgets/widget-alc-featured-player.php:115 
+#: sportspress/widgets/widget-alc-featured-player.php:132 
+#: sportspress/widgets/widget-alc-game-result.php:115
+#, php-format
+msgid "Select %s:"
+msgstr "Odaberite %s:"
+
+#: sportspress/widgets/widget-alc-event-block.php:127 
+#: sportspress/widgets/widget-alc-game-result.php:115
+msgid "Calendar"
+msgstr "Kalendar"
+
+#: sportspress/widgets/widget-alc-event-block.php:139 
+#: sportspress/widgets/widget-alc-featured-player.php:127 
+#: sportspress/widgets/widget-alc-featured-player.php:144 
+#: sportspress/widgets/widget-alc-game-result.php:127
+msgid "Add New"
+msgstr "Dodaj novi"
+
+#: sportspress/widgets/widget-alc-event-block.php:144
+msgid "Status:"
+msgstr "Stanje:"
+
+#: sportspress/widgets/widget-alc-event-block.php:177 
+#: sportspress/widgets/widget-alc-game-result.php:152
+msgid "Match Day:"
+msgstr "Kolo:"
+
+#: sportspress/widgets/widget-alc-event-block.php:180 
+#: sportspress/widgets/widget-alc-game-result.php:155
+msgid "Number of events to show:"
+msgstr "Broj događaja koji će se prikazati:"
+
+#: sportspress/widgets/widget-alc-featured-player.php:32
+msgid "A featured player."
+msgstr "Istaknuti igrač."
+
+#: sportspress/widgets/widget-alc-featured-player.php:150
+msgid "Select Style:"
+msgstr "Odaberite stil:"
+
+#: sportspress/widgets/widget-alc-featured-player.php:158
+msgid "Statistics Type:"
+msgstr "Vrsta statistike:"
+
+#: sportspress/widgets/widget-alc-featured-player.php:160
+msgid "Compact"
+msgstr "Sažeto"
+
+#: sportspress/widgets/widget-alc-featured-player.php:161
+msgid "Extended"
+msgstr "Prošireno"
+
+#: sportspress/widgets/widget-alc-featured-player.php:166
+msgid "Statistics:"
+msgstr "Statistika:"
+
+#: sportspress/widgets/widget-alc-featured-player.php:186
+msgid "Note: Select no more than three items."
+msgstr "Upozorenje: Nemojte odabrati više od tri stavke."
+
+#: sportspress/widgets/widget-alc-featured-player.php:190
+msgid "Performance:"
+msgstr "Učinak:"
+
+#: sportspress/widgets/widget-alc-game-result.php:32
+msgid "An event result."
+msgstr "Rezultat utakmice."
+
+#: template-parts/content-blog-1-3cols.php:101 
+#: template-parts/content-blog-1.php:100 template-parts/content-blog-3.php:97 
+#: template-parts/content-page.php:19 template-parts/content.php:101
+msgid "Pages:"
+msgstr "Stranice:"
+
+#: template-parts/content-none.php:18
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Spremni za slanje svoje prve objave? <a href=\"%1$s\">Počnite ovdje</a>."
+
+#: template-parts/content-none.php:24
+msgid "Nothing Found!"
+msgstr "Nema ničega!"
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Žao nam je  ali nije nađeno ništa što bi odgovaralo pojmovima koje ste "
+"tražili. Pokušajte ponovno s drugim pojmovima."
+
+#: template-parts/content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr "Čini se da ne možemo naći ono što tražite."
+
+#: template-parts/header-searchform.php:3
+msgid "Enter your seach here..."
+msgstr "Unesite pojmove koje tražite ovdje..."
+
+#: template-parts/header-top-bar.php:27
+msgid "My Account"
+msgstr "Moj korisnički račun"
+
+#: template-parts/header-top-bar.php:32 template-parts/header-top-bar.php:43 
+#: woocommerce/global/form-login.php:65 woocommerce/myaccount/form-login.php:75
+msgid "Login"
+msgstr "Prijava"
+
+#: template-parts/header-top-bar.php:35 
+#: woocommerce/myaccount/form-login.php:131
+msgid "Register"
+msgstr "Registracija"
+
+#: template-parts/header-top-bar.php:66
+msgid "Logout"
+msgstr "Odjava"
+
+#: template-parts/page-hero-unit.php:57 template-parts/page-hero-unit.php:59
+msgid "Hero Image"
+msgstr "Hero slika"
+
+#: template-parts/post-filter.php:17
+msgid "Category"
+msgstr "Kategorija"
+
+#: template-parts/post-filter.php:19
+msgid "All Articles"
+msgstr "Sve objave"
+
+#: template-parts/post-filter.php:37
+msgid "Article Date"
+msgstr "Datum objave"
+
+#: template-parts/post-filter.php:38
+msgid "Article Title"
+msgstr "Naslov objave"
+
+#: template-parts/post-filter.php:39
+msgid "Article ID"
+msgstr "ID objave"
+
+#: template-parts/post-filter.php:40
+msgid "Comments Count"
+msgstr "Broj komentara"
+
+#: template-parts/post-filter.php:69
+msgid "All Authors"
+msgstr "Svi autori"
+
+#: template-parts/post-filter.php:91
+msgid "Filter News"
+msgstr "Filtriranje objava"
+
+#: template-parts/post/post-navigation-2.php:45
+msgid "Other Articles"
+msgstr "Ostale objave"
+
+#: template-parts/social-counters/social-gplus.php:18
+msgid "Friend us on Google+"
+msgstr "Budite naš prijatelj na Google+"
+
+#: template-parts/social-counters/social-instagram.php:18
+msgid "Follow Us on Instagram"
+msgstr "Pratite nas na Instagramu"
+
+#: vc_templates/alc_images_carousel.php:75
+msgid "Image Title"
+msgstr "Naslov slike"
+
+#: vc_templates/alc_images_carousel.php:76
+msgid "Image Caption"
+msgstr "Opis slike"
+
+#: vc_templates/alc_player_stats.php:320
+msgid "3 Points Accuracy"
+msgstr "Preciznost u tricama"
+
+#: vc_templates/alc_team_points_history.php:117
+msgid "POINTS"
+msgstr "KOŠEVA"
+
+#: woocommerce/cart/cart-shipping.php:51
+msgid "Shipping costs will be calculated once you have provided your address."
+msgstr "Troškovi dostave će se izračunati kada unesete svoju adresu."
+
+#: woocommerce/cart/cart-shipping.php:53
+msgid ""
+"There are no shipping methods available. Please double check your address, "
+"or contact us if you need any help."
+msgstr ""
+"Nema dostupnih načina dostave. Provjerite adresu ili nas kontaktirajte ako "
+"trebate pomoć."
+
+#: woocommerce/cart/cart-totals.php:44 woocommerce/cart/cart-totals.php:81 
+#: woocommerce/cart/cart-totals.php:82
+msgid "Shipping"
+msgstr "Dostava"
+
+#: woocommerce/cart/cart-totals.php:59
+msgid "Cart totals"
+msgstr "Ukupno u košarici"
+
+#: woocommerce/cart/cart-totals.php:69 woocommerce/cart/cart-totals.php:70 
+#: woocommerce/cart/mini-cart.php:114 woocommerce/checkout/review-order.php:63
+msgid "Subtotal"
+msgstr "Međuzbroj"
+
+#: woocommerce/cart/cart-totals.php:108
+#, php-format
+msgid "(estimated for %s)"
+msgstr "(procjenjeno za %s)"
+
+#: woocommerce/cart/cart.php:32
+msgid "Your Shopping Cart"
+msgstr "Vaša košarica"
+
+#: woocommerce/cart/cart.php:38
+msgid "Photo"
+msgstr "Fotografija"
+
+#: woocommerce/cart/cart.php:39 woocommerce/cart/cart.php:80 
+#: woocommerce/checkout/review-order.php:30 
+#: woocommerce/order/order-details.php:42 
+#: woocommerce/single-product/tabs/tabs.php:43
+msgid "Product"
+msgstr "Proizvod"
+
+#: woocommerce/cart/cart.php:40 woocommerce/cart/cart.php:101
+msgid "Price"
+msgstr "Cijena"
+
+#: woocommerce/cart/cart.php:41 woocommerce/cart/cart.php:107
+msgid "Quantity"
+msgstr "Količina"
+
+#: woocommerce/cart/cart.php:43
+msgid "Remove"
+msgstr "Uklanjanje"
+
+#: woocommerce/cart/cart.php:135 woocommerce/cart/mini-cart.php:58
+msgid "Remove this item"
+msgstr "Uklanjanje stavke"
+
+#: woocommerce/cart/cart.php:156
+msgid "Coupon:"
+msgstr "Kupon:"
+
+#: woocommerce/cart/cart.php:157 woocommerce/checkout/form-coupon.php:38
+msgid "Coupon code"
+msgstr "Kod kupna"
+
+#: woocommerce/cart/cart.php:159 woocommerce/checkout/form-coupon.php:42
+msgid "Apply"
+msgstr "Primjena"
+
+#: woocommerce/cart/cart.php:164
+msgid "Update cart"
+msgstr "Ažuriranje košarice"
+
+#: woocommerce/cart/mini-cart.php:105
+msgid "No products in the cart."
+msgstr "Nema ničega u košarici."
+
+#: woocommerce/cart/proceed-to-checkout-button.php:27
+msgid "Proceed to checkout"
+msgstr "Nastavak na završetak kupnje"
+
+#: woocommerce/cart/shipping-calculator.php:33
+msgid "Calculate shipping"
+msgstr "Izračun troškova dostave"
+
+#: woocommerce/cart/shipping-calculator.php:42
+msgid "Select a country&hellip;"
+msgstr "Odabir zamlje&hellip;"
+
+#: woocommerce/cart/shipping-calculator.php:59 
+#: woocommerce/cart/shipping-calculator.php:65 
+#: woocommerce/cart/shipping-calculator.php:77
+msgid "State / County"
+msgstr "Država / zemlja"
+
+#: woocommerce/cart/shipping-calculator.php:66
+msgid "Select a state&hellip;"
+msgstr "Odabir države&hellip;"
+
+#: woocommerce/cart/shipping-calculator.php:86
+msgid "City"
+msgstr "Grad"
+
+#: woocommerce/cart/shipping-calculator.php:94
+msgid "Postcode / ZIP"
+msgstr "Poštanski broj"
+
+#: woocommerce/cart/shipping-calculator.php:100
+msgid "Update totals"
+msgstr "Ažuriranje zbroja"
+
+#: woocommerce/checkout/form-billing.php:30
+msgid "Billing &amp; Shipping"
+msgstr "Plaćanje &amp; dostava"
+
+#: woocommerce/checkout/form-billing.php:34
+msgid "Billing details"
+msgstr "Detalji plaćanja"
+
+#: woocommerce/checkout/form-billing.php:65
+msgid "Create an account?"
+msgstr "Izraditi korisnički račun?"
+
+#: woocommerce/checkout/form-checkout.php:29
+msgid "You must be logged in to checkout."
+msgstr "Morate biti prijavljeni da bi završili kupnju."
+
+#: woocommerce/checkout/form-checkout.php:53
+msgid "Your order"
+msgstr "Vaša narudžba"
+
+#: woocommerce/checkout/form-coupon.php:28
+msgid "Have a coupon?"
+msgstr "Imate kupon?"
+
+#: woocommerce/checkout/form-coupon.php:28
+msgid "Click here to enter your code"
+msgstr "Kliknite ovdje za unos koda"
+
+#: woocommerce/checkout/form-shipping.php:28
+msgid "Shipping Details"
+msgstr "Detalji dostave"
+
+#: woocommerce/checkout/form-shipping.php:33
+msgid "Ship to a different address?"
+msgstr "Dostava na drugu adresu?"
+
+#: woocommerce/checkout/form-shipping.php:73 
+#: woocommerce/single-product/tabs/additional-information.php:25
+msgid "Additional information"
+msgstr "Dodatne informacije"
+
+#: woocommerce/checkout/terms.php:26
+#, php-format
+msgid ""
+"I&rsquo;ve read and accept the <a href=\"%s\" class=\"woocommerce-terms-and-"
+"conditions-link\">terms &amp; conditions</a>"
+msgstr ""
+"Pročitao sam i prihvaćam <a href=\"%s\" class=\"woocommerce-terms-and-"
+"conditions-link\">uvjete &amp; kupovine</a>"
+
+#: woocommerce/checkout/thankyou.php:41 woocommerce/checkout/thankyou.php:83
+msgid "Thank you. Your order has been received."
+msgstr "Hvala vam. Vaša narudžba je zaprimljena."
+
+#: woocommerce/checkout/thankyou.php:49
+msgid "Order number:"
+msgstr "Broj narudžbe:"
+
+#: woocommerce/checkout/thankyou.php:59
+msgid "Total:"
+msgstr "Ukupno:"
+
+#: woocommerce/checkout/thankyou.php:66
+msgid "Payment method:"
+msgstr "Način plaćanja:"
+
+#: woocommerce/global/form-login.php:39
+msgid "Username or email"
+msgstr "Korisničko ime ili mail adresa"
+
+#: woocommerce/global/form-login.php:45 
+#: woocommerce/myaccount/form-login.php:56 
+#: woocommerce/myaccount/form-login.php:118
+msgid "Password"
+msgstr "Lozinka"
+
+#: woocommerce/global/form-login.php:55 woocommerce/myaccount/form-login.php:65
+msgid "Remember me"
+msgstr "Zapamti me"
+
+#: woocommerce/global/form-login.php:59 woocommerce/myaccount/form-login.php:69
+msgid "Lost your password?"
+msgstr "Izgubili ste lozinku?"
+
+#: woocommerce/global/form-login.php:59 woocommerce/myaccount/form-login.php:69
+msgid "Click Here"
+msgstr "Kliknite ovdje"
+
+#: woocommerce/myaccount/downloads.php:69
+msgid "Never"
+msgstr "Nikad"
+
+#: woocommerce/myaccount/downloads.php:77
+msgid "Download"
+msgstr "Preuzimanje"
+
+#: woocommerce/myaccount/downloads.php:100 woocommerce/myaccount/orders.php:122
+msgid "Go shop"
+msgstr "Kupujte"
+
+#: woocommerce/myaccount/downloads.php:102
+msgid "No downloads available yet."
+msgstr "Još uvijek nema preuzimanja."
+
+#: woocommerce/myaccount/form-edit-account.php:30
+msgid "First name"
+msgstr "Ime"
+
+#: woocommerce/myaccount/form-edit-account.php:34
+msgid "Last name"
+msgstr "Prezime"
+
+#: woocommerce/myaccount/form-edit-account.php:40 
+#: woocommerce/myaccount/form-login.php:111
+msgid "Email address"
+msgstr "Mail adresa"
+
+#: woocommerce/myaccount/form-edit-account.php:47
+msgid "Password change"
+msgstr "Izmjena lozinke"
+
+#: woocommerce/myaccount/form-edit-account.php:50
+msgid "Current password (leave blank to leave unchanged)"
+msgstr "Tekuća lozinka (ostavite prazno da ostane ista)"
+
+#: woocommerce/myaccount/form-edit-account.php:54
+msgid "New password (leave blank to leave unchanged)"
+msgstr "Nova lozinka (ostavite prazno da ostane ista)"
+
+#: woocommerce/myaccount/form-edit-account.php:58
+msgid "Confirm new password"
+msgstr "Potvrda nove lozinke"
+
+#: woocommerce/myaccount/form-edit-account.php:68
+msgid "Save changes"
+msgstr "Spremanje izmjena"
+
+#: woocommerce/myaccount/form-edit-address.php:23 
+#: woocommerce/order/order-details-customer.php:66
+msgid "Billing address"
+msgstr "Adresa za plaćanje"
+
+#: woocommerce/myaccount/form-edit-address.php:23 
+#: woocommerce/order/order-details-customer.php:78
+msgid "Shipping address"
+msgstr "Adresa za dostavu"
+
+#: woocommerce/myaccount/form-edit-address.php:52
+msgid "Save address"
+msgstr "Spremite adresu"
+
+#: woocommerce/myaccount/form-login.php:44
+msgid "Login to your account"
+msgstr "Prijava na vaš korisnički račun"
+
+#: woocommerce/myaccount/form-login.php:52
+msgid "Username or email address"
+msgstr "Korisničko ime ili mail adresa"
+
+#: woocommerce/myaccount/form-login.php:94
+msgid "Register Now"
+msgstr "Registrirajte se sada"
+
+#: woocommerce/myaccount/form-login.php:104
+msgid "Username"
+msgstr "Korisničko ime"
+
+#: woocommerce/myaccount/navigation.php:29
+msgid "Welcome Back!"
+msgstr "Dobro došli natrag!"
+
+#: woocommerce/myaccount/orders.php:71
+msgid "Pay"
+msgstr "Plaćanje"
+
+#: woocommerce/myaccount/orders.php:75
+msgid "View"
+msgstr "Pregled"
+
+#: woocommerce/myaccount/orders.php:79
+msgid "Cancel"
+msgstr "Poništavanje"
+
+#: woocommerce/myaccount/orders.php:110
+msgid "Previous"
+msgstr "Prethodna"
+
+#: woocommerce/myaccount/orders.php:114
+msgid "Next"
+msgstr "Slijedeća"
+
+#: woocommerce/myaccount/orders.php:124
+msgid "No order has been made yet."
+msgstr "Još nema narudžbi."
+
+#: woocommerce/order/order-again.php:25
+msgid "Order again"
+msgstr "Ponovna narudžba"
+
+#: woocommerce/order/order-details-customer.php:28
+msgid "Customer details"
+msgstr "Detalji o kupcu"
+
+#: woocommerce/order/order-details-customer.php:35
+msgid "Note:"
+msgstr "Bilješka:"
+
+#: woocommerce/order/order-details-customer.php:42
+msgid "Email:"
+msgstr "Mail:"
+
+#: woocommerce/order/order-details-customer.php:49
+msgid "Phone:"
+msgstr "Telefon:"
+
+#: woocommerce/order/order-details-customer.php:69 
+#: woocommerce/order/order-details-customer.php:81 
+#: woocommerce/single-product/meta.php:31
+msgid "N/A"
+msgstr "NEDOSTUPNO"
+
+#: woocommerce/order/order-details.php:35
+msgid "Order details"
+msgstr "Detalji narudžbe"
+
+#: woocommerce/product-searchform.php:25
+msgid "Search for:"
+msgstr "Traži:"
+
+#: woocommerce/product-searchform.php:27
+msgid "Search products&hellip;"
+msgstr "Pretraga proizvoda&hellip;"
+
+#: woocommerce/single-product-reviews.php:35
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] "%1$s recenzija za %2$s"
+msgstr[1] "%1$s recenzija za %2$s"
+msgstr[2] "%1$s recenzija za %2$s"
+
+#: woocommerce/single-product-reviews.php:37
+msgid "Reviews"
+msgstr "Recenzije"
+
+#: woocommerce/single-product-reviews.php:60
+msgid "There are no reviews yet."
+msgstr "Još nema recenzija."
+
+#: woocommerce/single-product-reviews.php:73
+msgid "Add a review"
+msgstr "Dodajte recenziju"
+
+#: woocommerce/single-product-reviews.php:73
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr "Prvi napravite recenziju &ldquo;%s&rdquo;"
+
+#: woocommerce/single-product-reviews.php:82
+msgid "Email"
+msgstr "Mail"
+
+#: woocommerce/single-product-reviews.php:85
+msgid "Submit Review"
+msgstr "Pošaljite recenziju"
+
+#: woocommerce/single-product-reviews.php:91
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+"Morate biti <a href=\"%s\">prijavljeni</a>da bi mogli napraviti recenziju."
+
+#: woocommerce/single-product-reviews.php:95
+msgid "Your rating"
+msgstr "Vaša ocjena"
+
+#: woocommerce/single-product-reviews.php:96
+msgid "Rate&hellip;"
+msgstr "Ocjena&hellip;"
+
+#: woocommerce/single-product-reviews.php:97
+msgid "5 Stars - Perfect"
+msgstr "5 zvjezdica - Savršeno"
+
+#: woocommerce/single-product-reviews.php:98
+msgid "4 Stars - Good"
+msgstr "4 zvjezdice - Dobro"
+
+#: woocommerce/single-product-reviews.php:99
+msgid "3 Stars - Average"
+msgstr "3 zvjezdice - Prosječno"
+
+#: woocommerce/single-product-reviews.php:100
+msgid "2 Stars - Not that bad"
+msgstr "2 zvjezdice - Nije loše"
+
+#: woocommerce/single-product-reviews.php:101
+msgid "1 Star - Very poor"
+msgstr "1 zvjezdica - Loše"
+
+#: woocommerce/single-product-reviews.php:105
+msgid "Your review"
+msgstr "Vaša recenzija"
+
+#: woocommerce/single-product-reviews.php:114
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+"Samo prijavljeni kupci koji su kupili ovaj proizvod smiju napraviti "
+"recenziju."
+
+#: woocommerce/single-product/add-to-cart/variable.php:32
+msgid "This product is currently out of stock and unavailable."
+msgstr "Ovaj proizvod je trenutno neraspoloživ i nedostupan."
+
+#: woocommerce/single-product/add-to-cart/variable.php:44
+msgid "Clear"
+msgstr "Obriši"
+
+#: woocommerce/single-product/product-image.php:56
+msgid "Awaiting product image"
+msgstr "Čeka se na sliku proizvoda"
+
+#: woocommerce/single-product/related.php:29
+msgid "Related products"
+msgstr "Povezani proizvodi"
+
+#: woocommerce/single-product/review-meta.php:28
+msgid "Your review is awaiting approval"
+msgstr "Vaša recenzija čeka na provjeru"
+
+#: woocommerce/single-product/review-meta.php:36
+msgid "Verified Owner"
+msgstr "Provjereni vlasnik"

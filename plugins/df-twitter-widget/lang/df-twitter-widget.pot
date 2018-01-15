@@ -1,0 +1,115 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DF Twitter Widget\n"
+"POT-Creation-Date: 2017-06-18 14:45+0100\n"
+"PO-Revision-Date: 2017-06-18 14:45+0100\n"
+"Last-Translator: Dan Fisher <dan.fisher85@yahoo.com>\n"
+"Language-Team: Dan Fisher <dan.fisher85@yahoo.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: df-twitter-widget.php:43
+msgid "Your latest tweets."
+msgstr ""
+
+#: df-twitter-widget.php:91
+msgid "Please fill all widget settings!"
+msgstr ""
+
+#: df-twitter-widget.php:104
+msgid "Couldn't find twitteroauth.php!"
+msgstr ""
+
+#: df-twitter-widget.php:120
+msgid "You'll need to regenerate your token!"
+msgstr ""
+
+#: df-twitter-widget.php:205
+msgid "Error! Couldn't retrieve tweets for some reason!"
+msgstr ""
+
+#: df-twitter-widget.php:243
+msgid "Twitter"
+msgstr ""
+
+#: df-twitter-widget.php:259
+msgid "Title:"
+msgstr ""
+
+#: df-twitter-widget.php:264
+msgid "Twitter Username:"
+msgstr ""
+
+#: df-twitter-widget.php:269
+msgid "Consumer Key:"
+msgstr ""
+
+#: df-twitter-widget.php:274
+msgid "Consumer Secret:"
+msgstr ""
+
+#: df-twitter-widget.php:279
+msgid "Access Token:"
+msgstr ""
+
+#: df-twitter-widget.php:284
+msgid "Access Token Secret:"
+msgstr ""
+
+#: df-twitter-widget.php:289
+msgid "Number of Tweets:"
+msgstr ""
+
+#: df-twitter-widget.php:294
+msgid "Cache Tweets Duration (hours):"
+msgstr ""
+
+#: df-twitter-widget.php:300
+msgid "Exclude Replies:"
+msgstr ""
+
+#: df-twitter-widget.php:348
+msgid "right now"
+msgstr ""
+
+#: df-twitter-widget.php:350
+msgid " seconds ago"
+msgstr ""
+
+#: df-twitter-widget.php:352
+msgid "about 1 minute ago"
+msgstr ""
+
+#: df-twitter-widget.php:354
+msgid " minutes ago"
+msgstr ""
+
+#: df-twitter-widget.php:356
+msgid "about 1 hour ago"
+msgstr ""
+
+#: df-twitter-widget.php:358
+msgid " hours ago"
+msgstr ""
+
+#: df-twitter-widget.php:360
+msgid "yesterday"
+msgstr ""
+
+#: df-twitter-widget.php:362
+msgid " days ago"
+msgstr ""
+
+#: df-twitter-widget.php:364
+msgid "over a year ago"
+msgstr ""

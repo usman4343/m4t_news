@@ -1,0 +1,97 @@
+/* Shop Filter */
+  // Title
+  .woocommerce-result-count {
+    font-family: $font-family-accent;
+    color: $headings-color;
+  }
+
+  // Params
+  .shop-filter__control {
+
+    select.form-control,
+    select {
+      font-family: $font-family-accent;
+      color: $headings-color;
+    }
+  }
+
+
+  // Layout Switcher
+    .shop-filter__grid-layout,
+    .shop-filter__list-layout {
+      border-left: 1px solid $card-border-color;
+
+      @media (max-width: 992px) {
+        border-top: 1px solid $card-border-color;
+      }
+    }
+
+    /* Icon Grid Layout */
+    .icon-grid-layout {
+
+      // Active state
+      &.active {
+
+        .icon-grid-layout__item {
+          background-color: $shop-layout-filter-color-active;
+
+          &::before,
+          &::after {
+            background-color: $shop-layout-filter-color-active;
+          }
+        }
+      }
+    }
+
+        .icon-grid-layout__item {
+          background-color: $shop-layout-filter-color;
+
+          &::before,
+          &::after {
+            background-color: $shop-layout-filter-color;
+          }
+
+          // Hover state
+          .icon-grid-layout:hover &{
+            background-color: $shop-layout-filter-color-active;
+
+            &::before,
+            &::after {
+              background-color: $shop-layout-filter-color-active;
+            }
+          }
+        }
+
+
+    /* Icon List Layout */
+    .icon-list-layout {
+
+      &.active {
+
+        // Active state
+        .icon-list-layout__item {
+          background-color: $shop-layout-filter-color-active;
+
+          &::before {
+            background-color: $shop-layout-filter-color-active;
+          }
+        }
+      }
+    }
+        .icon-list-layout__item {
+          background-color: $shop-layout-filter-color;
+
+          &::before {
+            background-color: $shop-layout-filter-color;
+          }
+
+
+          // Hover state
+          .icon-list-layout:hover & {
+            background-color: $shop-layout-filter-color-active;
+
+            &::before {
+              background-color: $shop-layout-filter-color-active;
+            }
+          }
+        }

@@ -1,0 +1,29 @@
+/*
+Plugin Name: Post Cleaner
+Plugin URI:
+Description: Removes post where found any words from list.
+Version: 1.5.2
+Author: Shipilov Andrey
+Author URI:
+
+*/
+
+.post-cleaner_editTable, .post-cleaner_editTable td  {
+    border: 0px;
+    padding: 0;
+    vertical-align:text-top;
+}
+
+.post-cleaner_editTable input {
+    margin-left: 3px;
+}
+
+.post-cleaner_edit {
+    cursor: pointer;
+}
+
+
+
+
+
+

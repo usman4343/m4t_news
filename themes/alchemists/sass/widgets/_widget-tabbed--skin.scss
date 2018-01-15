@@ -1,0 +1,83 @@
+/* Widget: Tabbed */
+.widget-tabbed {
+
+	.widget__content {
+
+	}
+
+	.nav.widget-tabbed__nav {
+		border-bottom: 1px solid $card-border-color;
+
+		> li {
+
+			> a {
+				font-family: $font-family-accent;
+				color: rgba($headings-color, .4);
+
+				@if $template == football {
+					color: $color-gray-3;
+				}
+
+				&:hover {
+					color: $headings-color;
+
+					@if $template == football {
+						color: #fff;
+					}
+				}
+			}
+
+			&.active {
+
+				> a {
+					color: $headings-color;
+
+					@if $template == football {
+						color: #fff;
+					}
+				}
+			}
+		}
+	}
+}
+
+.footer-widgets {
+
+		.widget-tabbed {
+
+			.nav.widget-tabbed__nav {
+
+				> li {
+
+					> a {
+						color: rgba($footer-widget-title, .4);
+
+						@if $template == football {
+							color: $color-gray-3;
+						}
+
+						&:hover {
+							color: $footer-widget-title;
+
+							@if $template == football {
+								color: #fff;
+							}
+						}
+					}
+
+					&.active {
+
+						> a {
+							color: $footer-widget-title;
+							background-color: transparent;
+
+							@if $template == football {
+								background-color: transparent;
+								color: #fff;
+							}
+						}
+					}
+				}
+			}
+		}
+	}

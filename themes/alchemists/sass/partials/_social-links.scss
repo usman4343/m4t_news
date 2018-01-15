@@ -1,0 +1,217 @@
+/*
+// #Social Links
+// --------------------------------------------------
+*/
+
+.social-links {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+  .social-links__item {
+    display: inline-block;
+    font-size: 9px;
+    text-transform: uppercase;
+    font-family: $font-family-accent;
+    margin-right: 12px;
+
+    .fa {
+      font-size: 12px;
+      margin-right: 5px;
+      transition: color 0.2s ease;
+      color: $color-primary;
+
+      .header &,
+      .footer & {
+        color: #fff;
+      }
+    }
+
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+    .social-links__link {
+      display: inline-block;
+      color: #6b6d70;
+      transition: color 0.2s ease;
+
+
+      .header &:hover,
+      .footer &:hover {
+        color: #fff;
+
+        .fa {
+          color: $color-primary;
+        }
+      }
+    }
+
+// Social Links in Main Nav
+.social-links--main-nav {
+  display: inline-block;
+  padding-left: 30px;
+
+  .social-links__item {
+    margin-right: 19px;
+
+    @media (min-width: 992px) and (max-width: 1199px) {
+      margin-right: 10px;
+    }
+  }
+
+  @media (min-width: 992px) and (max-width: 1199px) {
+    padding-left: 30px;
+  }
+}
+
+// Social Links Buttons
+.social-links--btn {
+
+  .social-links__item  {
+    margin: 0 0 0 0;
+  }
+    .social-links__link {
+      display: inline-block;
+      width: 26px;
+      height: 26px;
+      line-height: 26px;
+      text-align: center;
+      color: #fff;
+      border-radius: 2px;
+      font-size: 12px;
+      margin: 0 2px;
+      transition: opacity 0.2s ease-in-out;
+
+      &:hover {
+        opacity: 0.8;
+
+        .fa {
+          color: #fff;
+        }
+      }
+
+      .fa {
+        margin: 0;
+      }
+    }
+
+    .social-links__link--lg {
+      width: 32px;
+      height: 32px;
+      line-height: 32px;
+      margin: 0 6px;
+    }
+
+    // Set white icon color if icon is boxed
+    [class*="social-links__link--"] {
+
+      > .fa {
+        color: #fff;
+      }
+    }
+
+    // Facebook
+    .social-links__link--fb {
+      background-color: #4d6baa;
+    }
+    // Twitter
+    .social-links__link--twitter {
+      background-color: #3fcef2;
+      color: #fff;
+    }
+    // Google+
+    .social-links__link--gplus {
+      background-color: #e34d39;
+    }
+    // Linkedin
+    .social-links__link--linkedin {
+      background-color: #0077B5;
+    }
+    // VK
+    .social-links__link--vk {
+      background-color: #6383A8;
+    }
+    // Odnoklassniki
+    .social-links__link--ok {
+      background-color: #F4731C;
+    }
+    // WhatsApp
+    .social-links__link--whatsapp {
+      background-color: #25D366;
+    }
+    // Viber
+    .social-links__link--viber {
+      background-color: #7C529E;
+
+      img {
+        width: 12px;
+        height: auto;
+      }
+    }
+    // Email, Site
+    .social-links__link--mail,
+    .social-links__link--site {
+      background-color: $color-gray;
+    }
+
+  &.social-links--btn-block {
+
+    .social-links__item {
+      display: inline;
+    }
+
+      .social-links__link {
+        display: block;
+        width: 100%;
+        padding-left: 0;
+        padding-right: 0;
+        margin-bottom: 12px;
+        font-size: 9px;
+        height: 24px;
+        line-height: 24px;
+      }
+  }
+}
+
+// Social Links Circle
+.social-links--circle {
+
+  .social-links__item {
+    margin-right: 20px;
+
+    @media (min-width: 992px) {
+      margin-right: 10px;
+    }
+
+    @media (min-width: 1200px) {
+      margin-right: 24px;
+    }
+
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+    .social-links__link {
+      border: 2px solid rgba($body-font-color, 0.4);
+      border-radius: 50%;
+      width: 34px;
+      height: 34px;
+      text-align: center;
+      transition: border-color 0.3s ease;
+
+      .fa {
+        margin-right: 0;
+        font-size: 14px;
+        line-height: 30px;
+      }
+
+      &:hover {
+        border-color: $color-4;
+
+        .fa {
+          color: #fff;
+        }
+      }
+    }
+}

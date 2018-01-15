@@ -1,0 +1,185 @@
+/* Sportspress Event (Game) */
+
+.sp-section-content-content:not(:empty) {
+	@include card();
+	padding: $card-vertical-padding $card-horizontal-padding;
+
+	.sp-post-caption {
+		@include card-header();
+		font-size: 16px;
+		line-height: 1.2em;
+		letter-spacing: -0.02em;
+		margin-bottom: 0;
+		text-transform: uppercase;
+		font-style: normal;
+		padding-right: 1em;
+		vertical-align: middle;
+		margin-top: -$card-vertical-padding;
+		margin-left: -$card-horizontal-padding;
+		margin-right: -$card-horizontal-padding;
+		margin-bottom: $card-vertical-padding;
+	}
+
+	p:last-child {
+		margin-bottom: 0;
+	}
+}
+
+.sp-section-content-excerpt {
+
+	.sp-excerpt {
+		@include card();
+		padding: $card-vertical-padding $card-horizontal-padding;
+	}
+}
+
+
+.sp-template-event-venue {
+
+	iframe {
+		border: none;
+		pointer-events: none;
+
+		&.clicked {
+			pointer-events: auto;
+		}
+	}
+}
+
+
+/* Event Performance (Icons) */
+.sp-event-performance-teams {
+
+	.sp-template-event-performance-icons {
+		width: calc(50% - 8px);
+		float: left;
+		clear: left;
+		padding-right: 0;
+
+		&:nth-child(2n),
+		& + .sp-template-event-staff {
+			width: calc(50% - 8px);
+			float: right;
+			clear: right;
+			padding-right: 0;
+			padding-left: 0;
+		}
+
+		@media (max-width: 649px) {
+			&,
+			& + .sp-template-event-staff {
+				width: 100% !important;
+				float: none;
+				clear: none;
+			}
+		}
+
+		.sp-event-performance {
+
+			.data-number {
+				color: $body-font-color;
+			}
+
+			thead {
+
+				tr:first-child {
+
+					th {
+						border: none;
+					}
+				}
+			}
+
+			tbody {
+
+				tr:first-child {
+
+					td {
+						border: none;
+					}
+				}
+			}
+		}
+	}
+
+	.sp-player-position {
+		display: block;
+	}
+}
+
+
+// Icons
+
+.sp-performance-icons {
+
+	img {
+		margin: 2px 1px 2px 2px;
+	}
+}
+
+
+// Substitution Icons
+.sp-event-performance {
+
+	.sub-out,
+	.sub-in {
+
+		&::before {
+			content: "";
+			width: 8px;
+			height: 11px;
+			display: inline-block;
+			background-repeat: no-repeat;
+			background-position: 0 0;
+			background-size: cover;
+			margin: 0 4px 0 4px;
+			transform: translateY(1px);
+		}
+	}
+
+	.sub-out {
+
+		&::before {
+			background-image: url("../images/soccer/icon-out.svg");
+		}
+	}
+
+	.sub-in {
+
+		&::before {
+			background-image: url("../images/soccer/icon-in.svg");
+		}
+	}
+}
+
+
+// Player of the Match
+.sp-event-stars {
+	display: inline-block;
+	vertical-align: middle;
+	padding-left: .2em;
+
+	.sp-event-star {
+		font-size: 16px;
+		line-height: 16px;
+		width: 16px;
+		height: 16px;
+	}
+}
+
+// Event Staff
+.sp-event-staff {
+	@include font-accent(10px);
+	color: $body-font-color;
+	font-weight: normal;
+	text-transform: uppercase;
+	line-height: 1.5em;
+	margin: 0;
+}
+	.sp-event-staff__item + .sp-event-staff__item {
+		margin-top: 1.5em;
+	}
+	.sp-event-staff__name {
+		color: $headings-color;
+		font-weight: bold;
+	}

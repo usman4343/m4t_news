@@ -1,0 +1,34 @@
+/* Alerts
+/* ------------------------- */
+
+.alert,
+div.wpcf7-response-output {
+  color: $body-font-color;
+
+  strong {
+    color: $alert-txt-accent-color;
+    font-family: $font-family-accent;
+  }
+}
+
+// Alternate styles
+
+.alert-success,
+.wpcf7-mail-sent-ok {
+  @include alert-variant($alert-success-bg, $alert-success-border, $alert-success-icon-bg, $alert-success-icon-url, $alert-success-icon-size);
+}
+
+.alert-info {
+  @include alert-variant($alert-info-bg, $alert-info-border, $alert-info-icon-bg, $alert-info-icon-url, $alert-info-icon-size);
+}
+
+.alert-warning,
+.wpcf7-mail-sent-ng {
+  @include alert-variant($alert-warning-bg, $alert-warning-border, $alert-warning-icon-bg, $alert-warning-icon-url, $alert-warning-icon-size);
+}
+
+.alert-danger,
+.wpcf7-spam-blocked,
+.wpcf7-validation-errors {
+  @include alert-variant($alert-danger-bg, $alert-danger-border, $alert-danger-icon-bg, $alert-danger-icon-url, $alert-danger-icon-size);
+}

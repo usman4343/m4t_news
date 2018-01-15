@@ -1,0 +1,45 @@
+<wpml-config>
+  <admin-texts>
+    <key name="alchemists_data">
+      <key name="alchemists__header-secondary-info-1-label" />
+      <key name="alchemists__header-secondary-info-2-label" />
+      <key name="alchemists__opt-page-heading-hero-title" />
+      <key name="alchemists__opt-page-heading-hero-subtitle" />
+      <key name="alchemists__opt-page-heading-hero-desc" />
+      <key name="alchemists__opt-page-heading-hero-btn-txt" />
+      <key name="alchemists__footer-secondary-copyright" />
+      <key name="alchemists__opt-404-page-heading" />
+      <key name="alchemists__opt-404-page-title" />
+      <key name="alchemists__opt-404-page-subtitle" />
+      <key name="alchemists__opt-404-desc" />
+      <key name="alchemists__opt-404-btn-txt" />
+      <key name="alchemists__opt-404-btn-link" />
+      <key name="alchemists__opt-404-btn-secondary-txt" />
+      <key name="alchemists__opt-404-btn-secondary-link" />
+      <key name="alchemists__team-subpages-label--overview" />
+      <key name="alchemists__team-subpages-label--roster" />
+      <key name="alchemists__team-subpages-slug--roster" />
+      <key name="alchemists__team-subpages-label--standings" />
+      <key name="alchemists__team-subpages-slug--standings" />
+      <key name="alchemists__team-subpages-label--results" />
+      <key name="alchemists__team-subpages-slug--results" />
+      <key name="alchemists__team-subpages-label--schedule" />
+      <key name="alchemists__team-subpages-slug--schedule" />
+      <key name="alchemists__team-subpages-label--gallery" />
+      <key name="alchemists__team-subpages-slug--gallery" />
+      <key name="alchemists__player-subpages-label--overview" />
+      <key name="alchemists__player-subpages-label--stats" />
+      <key name="alchemists__player-subpages-slug--stats" />
+      <key name="alchemists__player-subpages-label--bio" />
+      <key name="alchemists__player-subpages-slug--bio" />
+      <key name="alchemists__player-subpages-label--news" />
+      <key name="alchemists__player-subpages-slug--news" />
+      <key name="alchemists__player-subpages-label--gallery" />
+      <key name="alchemists__player-subpages-slug--gallery" />
+    </key>
+  </admin-texts>
+  <custom-types>
+    <custom-type translate="1">albums</custom-type>
+    <custom-type translate="1">product</custom-type>
+  </custom-types>
+</wpml-config>

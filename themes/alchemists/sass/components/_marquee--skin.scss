@@ -1,0 +1,42 @@
+/* Marquee
+/* ------------------------- */
+
+.marquee-wrapper {
+  background-color: $card-bg;
+
+  &::before {
+    background-color: $color-primary;
+  }
+  &::after {
+    background-color: $color-4;
+  }
+}
+.marquee {
+  background-color: $card-bg;
+
+  @media (min-width: 768px) {
+    &::before {
+      background-color: $color-4;
+    }
+
+    &::after {
+      background-color: $card-bg;
+    }
+  }
+}
+  .marquee-label {
+
+    @media (min-width: 768px) {
+      font-family: $font-family-accent;
+      color: $headings-color;
+      background-color: $color-primary;
+
+      &::before {
+        background-color: $color-primary;
+      }
+
+      &::after {
+        background-color: $card-bg;
+      }
+    }
+  }

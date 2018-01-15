@@ -1,0 +1,87 @@
+/*
+// #Page Heading
+// --------------------------------------------------
+*/
+
+.page-heading {
+  background-color: $page-heading-bg-color;
+  background-image: $page-heading-bg-image-url;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  text-align: center;
+  padding: 50px 0;
+  position: relative;
+
+  @media (min-width: 992px) {
+    padding: $page-heading-padding-lg;
+  }
+
+  &::before {
+    content: "";
+    display: block;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-image: $page-heading-bg-pattern-url;
+    background-size: $page-heading-bg-pattern-size;
+    background-position: 100% 0;
+    background-repeat: $page-heading-bg-pattern-repeat;
+    opacity: $page-heading-bg-pattern-opacity;
+  }
+}
+.page-heading--no-bg {
+
+  &::before {
+    background-image: none;
+    background-color: transparent;
+  }
+}
+  .page-heading__title {
+    text-transform: uppercase;
+    color: #fff;
+    letter-spacing: -0.02em;
+    font-size: 24px;
+    margin-bottom: 0;
+    font-style: $page-heading-font-style;
+
+    @media (min-width: 992px) {
+      font-size: $page-heading-font-size;
+    }
+
+    .highlight {
+      color: $page-heading-font-highlight;
+    }
+  }
+
+  .page-header__desc {
+    line-height: 1.5em;
+    padding: 20px 10px 0 10px;
+
+    p {
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+  }
+
+// Page Heading with Overlay
+.page-heading--overlay {
+  position: relative;
+  overflow: hidden;
+
+  &::before {
+    content:"";
+    display: block;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    background-image: none;
+    background-color: rgba(0,0,0,.6);
+    opacity: 1;
+  }
+}

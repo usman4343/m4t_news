@@ -1,0 +1,56 @@
+/*
+// #Social Links
+// --------------------------------------------------
+*/
+
+  .social-links__item {
+    font-family: $font-family-accent;
+
+    .fa {
+      color: $color-primary;
+
+      .header &,
+      .footer & {
+        color: #fff;
+      }
+    }
+  }
+    .social-links__link {
+      color: #6b6d70;
+
+
+      .header &:hover,
+      .footer &:hover {
+        color: #fff;
+
+        .fa {
+          color: $color-primary;
+        }
+      }
+    }
+
+// Social Links Buttons
+.social-links--btn {
+
+    // Email, Site
+    .social-links__link--mail,
+    .social-links__link--site {
+      background-color: $color-gray;
+    }
+}
+
+// Social Links Circle
+.social-links--circle {
+
+    .social-links__link {
+      border: 2px solid rgba($body-font-color, 0.4);
+
+      &:hover {
+        border-color: $color-4;
+
+        .fa {
+          color: #fff;
+        }
+      }
+    }
+}

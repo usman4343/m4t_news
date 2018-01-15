@@ -1,0 +1,64 @@
+/* Widget: Comments */
+.widget-comments {
+
+}
+  .comments-list__date {
+    font-family: $font-family-accent;
+  }
+  .comments-list__link {
+    color: #c2c4c7;
+
+    &:hover {
+      color: $color-2;
+    }
+  }
+
+
+// Alternative styling
+.comments-list--alt {
+
+  .comments-list__item--category-1 {
+
+    .comments-list__post::before {
+      background-color: $color-primary;
+    }
+  }
+
+  .comments-list__item--category-2 {
+
+    .comments-list__post::before {
+      background-color: $color-4;
+    }
+  }
+
+  .comments-list__item--category-3 {
+
+    .comments-list__post::before {
+      background-color: $color-3;
+    }
+  }
+
+  .comments-list__info {
+
+  }
+    .comments-list__post {
+
+      @if $template == football {
+        color: $color-gray-3;
+
+        > a {
+          color: $color-gray-3;
+
+          &:hover {
+            color: #fff;
+          }
+        }
+      }
+    }
+    .comments-list__link {
+
+      @if $template == football {
+        color: #fff;
+      }
+    }
+}

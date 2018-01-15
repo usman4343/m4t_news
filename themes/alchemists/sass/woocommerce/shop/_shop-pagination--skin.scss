@@ -1,0 +1,35 @@
+/* Shop Pagination
+/* ------------------------- */
+
+.woocommerce-pagination  {
+
+  .page-numbers {
+    > li {
+
+      > a,
+      > span {
+        background-color: $pagination-bg;
+        border-color: $pagination-border;
+        color: $pagination-color;
+        font-family: $font-family-accent;
+        border: 1px solid $card-border-color;
+      }
+
+      > a,
+      > span {
+
+        &:hover {
+          background-color: $pagination-bg-hover;
+          border-color: $pagination-border-hover;
+          color: $pagination-color-hover;
+        }
+
+        &.current {
+          background-color: $pagination-bg-active;
+          border-color: $pagination-border-active;
+          color: $pagination-color-active;
+        }
+      }
+    }
+  }
+}

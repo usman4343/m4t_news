@@ -1,0 +1,6653 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Alchemists\n"
+"POT-Creation-Date: 2017-12-15 00:36+0100\n"
+"PO-Revision-Date: 2017-12-15 00:36+0100\n"
+"Last-Translator: Dan Fisher <dan.fisher85@yahoo.com>\n"
+"Language-Team: Dan Fisher <dan.fisher85@yahoo.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:48
+msgid "404 Error"
+msgstr ""
+
+#: 404.php:85
+msgid "OOOOPS! Page not Found"
+msgstr ""
+
+#: 404.php:92
+msgid "Seems that we have a problem!"
+msgstr ""
+
+#: 404.php:100
+msgid ""
+"The page you are looking for has been moved or doesn't exist anymore, if you "
+"like you can return to our homepage. If the problem persists, please send us "
+"an email to <a href=\"mailto:info@alchemists.com\">info@alchemists.com</a>"
+msgstr ""
+
+#: 404.php:111
+msgid "Return to Home"
+msgstr ""
+
+#: 404.php:121
+msgid "Keep Browsing"
+msgstr ""
+
+#: admin/menu-item-custom-fields/fields.php:39
+msgid "Mega Menu?"
+msgstr ""
+
+#: admin/menu-item-custom-fields/fields.php:45
+msgid "Mega Menu Widget Area"
+msgstr ""
+
+#: admin/menu-item-custom-fields/fields.php:168
+msgid "Select Widget Area"
+msgstr ""
+
+#: admin/options-init.php:32 admin/options-init.php:35
+msgid "Theme Options"
+msgstr ""
+
+#: admin/options-init.php:93
+msgid "General Settings"
+msgstr ""
+
+#: admin/options-init.php:101 admin/options-init.php:461
+msgid "Custom Logo"
+msgstr ""
+
+#: admin/options-init.php:104 admin/options-init.php:464
+#: admin/options-init.php:827 admin/options-init.php:1470
+#: admin/options-init.php:2540
+msgid "Upload your image or specify the image URL."
+msgstr ""
+
+#: admin/options-init.php:110 admin/options-init.php:471
+msgid "Custom Logo @2x"
+msgstr ""
+
+#: admin/options-init.php:113 admin/options-init.php:474
+#: admin/options-init.php:1479
+msgid ""
+"Upload your image for retina displays or specify the image URL. It should be "
+"x2 time bigger than standard logo image."
+msgstr ""
+
+#: admin/options-init.php:120 admin/options-init.php:482
+msgid "Custom Logo Width"
+msgstr ""
+
+#: admin/options-init.php:121 admin/options-init.php:483
+msgid "Set your Logo width."
+msgstr ""
+
+#: admin/options-init.php:122
+msgid ""
+"Logo width can be set in px. Height will automatically calculated. Default "
+"is 148px"
+msgstr ""
+
+#: admin/options-init.php:129
+msgid "Default is 148px"
+msgstr ""
+
+#: admin/options-init.php:137
+msgid "Custom Logo Width on Mobile"
+msgstr ""
+
+#: admin/options-init.php:138
+msgid "Set your Logo width on Mobile devices."
+msgstr ""
+
+#: admin/options-init.php:139
+msgid ""
+"Logo width can be set in px. Height will automatically calculated. Default "
+"is 97px"
+msgstr ""
+
+#: admin/options-init.php:146
+msgid "Default is 97px"
+msgstr ""
+
+#: admin/options-init.php:152
+msgid "Adjust Logo Position?"
+msgstr ""
+
+#: admin/options-init.php:153
+msgid "Enable Logo Position Adjustments."
+msgstr ""
+
+#: admin/options-init.php:155 admin/options-init.php:219
+#: admin/options-init.php:227 admin/options-init.php:257
+#: admin/options-init.php:331 admin/options-init.php:341
+#: admin/options-init.php:374 admin/options-init.php:417
+#: admin/options-init.php:445 admin/options-init.php:453
+#: admin/options-init.php:526 admin/options-init.php:542
+#: admin/options-init.php:605 admin/options-init.php:614
+#: admin/options-init.php:624 admin/options-init.php:713
+#: admin/options-init.php:777 admin/options-init.php:818
+#: admin/options-init.php:950 admin/options-init.php:999
+#: admin/options-init.php:1132 admin/options-init.php:1210
+#: admin/options-init.php:1265 admin/options-init.php:1327
+#: admin/options-init.php:1361 admin/options-init.php:1378
+#: admin/options-init.php:1461 admin/options-init.php:1568
+#: admin/options-init.php:2291 admin/options-init.php:2300
+#: admin/options-init.php:2575 admin/options-init.php:2600
+#: admin/options-init.php:2757 admin/options-init.php:2773
+#: inc/vc-functions.php:759 inc/vc-functions.php:845 inc/vc-functions.php:884
+#: inc/vc-functions.php:906 inc/vc-functions.php:1001
+#: inc/vc-functions.php:1023 inc/vc-functions.php:1094
+#: inc/vc-functions.php:1112 inc/vc-functions.php:1146
+#: inc/vc-functions.php:1167 inc/vc-functions.php:1935
+#: inc/vc-functions.php:2324 inc/vc-functions.php:2361
+#: inc/vc-functions.php:2371 inc/vc-functions.php:2919
+#: inc/vc-functions.php:2984 inc/vc-functions.php:2994
+#: inc/vc-functions.php:3056 inc/vc-functions.php:3066
+#: inc/vc-functions.php:3171
+msgid "Yes"
+msgstr ""
+
+#: admin/options-init.php:156 admin/options-init.php:220
+#: admin/options-init.php:228 admin/options-init.php:258
+#: admin/options-init.php:332 admin/options-init.php:342
+#: admin/options-init.php:375 admin/options-init.php:418
+#: admin/options-init.php:446 admin/options-init.php:454
+#: admin/options-init.php:527 admin/options-init.php:543
+#: admin/options-init.php:606 admin/options-init.php:615
+#: admin/options-init.php:625 admin/options-init.php:714
+#: admin/options-init.php:778 admin/options-init.php:819
+#: admin/options-init.php:951 admin/options-init.php:1000
+#: admin/options-init.php:1133 admin/options-init.php:1211
+#: admin/options-init.php:1266 admin/options-init.php:1328
+#: admin/options-init.php:1360 admin/options-init.php:1379
+#: admin/options-init.php:1462 admin/options-init.php:1569
+#: admin/options-init.php:2292 admin/options-init.php:2301
+#: admin/options-init.php:2576 admin/options-init.php:2601
+#: admin/options-init.php:2758 admin/options-init.php:2774
+msgid "No"
+msgstr ""
+
+#: admin/options-init.php:166
+msgid "Logo Position - Desktop"
+msgstr ""
+
+#: admin/options-init.php:167
+msgid "Adjust Logo position for desktops."
+msgstr ""
+
+#: admin/options-init.php:168
+msgid ""
+"Use this field to adjust Logo position. You can also use negative values. "
+"Note: For screens more than 992px"
+msgstr ""
+
+#: admin/options-init.php:184
+msgid "Logo Position - Mobile"
+msgstr ""
+
+#: admin/options-init.php:185
+msgid "Adjust Logo position for mobile devices."
+msgstr ""
+
+#: admin/options-init.php:186
+msgid ""
+"Use this field to adjust Logo position. You can also use negative values. "
+"Note: For screens less than 991px"
+msgstr ""
+
+#: admin/options-init.php:200 admin/options-init.php:2238
+msgid "Header"
+msgstr ""
+
+#: admin/options-init.php:210 admin/options-init.php:1763
+msgid "Top Bar"
+msgstr ""
+
+#: admin/options-init.php:217
+msgid "Show Top Bar?"
+msgstr ""
+
+#: admin/options-init.php:225
+msgid "Show Top Menu?"
+msgstr ""
+
+#: admin/options-init.php:236 inc/vc-functions.php:1243
+#: inc/vc-functions.php:1517
+msgid "Primary"
+msgstr ""
+
+#: admin/options-init.php:244
+msgid "Nav Height"
+msgstr ""
+
+#: admin/options-init.php:245
+msgid "Set Header Primary/Navigation height in px"
+msgstr ""
+
+#: admin/options-init.php:255
+msgid "Show Social Links?"
+msgstr ""
+
+#: admin/options-init.php:263
+msgid "Social Media Links"
+msgstr ""
+
+#: admin/options-init.php:264
+msgid "Define and reorder these links however you want."
+msgstr ""
+
+#: admin/options-init.php:265
+msgid ""
+"Leave empty a field if you don't want to display particular social media "
+"link."
+msgstr ""
+
+#: admin/options-init.php:269 admin/options-init.php:285
+#: template-parts/header-primary.php:71 template-parts/header-primary.php:72
+msgid "Facebook URL"
+msgstr ""
+
+#: admin/options-init.php:270 admin/options-init.php:286
+#: template-parts/header-primary.php:75 template-parts/header-primary.php:76
+msgid "Twitter URL"
+msgstr ""
+
+#: admin/options-init.php:271 admin/options-init.php:287
+#: template-parts/header-primary.php:83 template-parts/header-primary.php:84
+msgid "Google+ URL"
+msgstr ""
+
+#: admin/options-init.php:272 admin/options-init.php:288
+#: template-parts/header-primary.php:79 template-parts/header-primary.php:80
+msgid "LinkedIn URL"
+msgstr ""
+
+#: admin/options-init.php:273 admin/options-init.php:289
+#: template-parts/header-primary.php:87 template-parts/header-primary.php:88
+msgid "Instagram URL"
+msgstr ""
+
+#: admin/options-init.php:274 admin/options-init.php:290
+#: template-parts/header-primary.php:91 template-parts/header-primary.php:92
+msgid "Github URL"
+msgstr ""
+
+#: admin/options-init.php:275 admin/options-init.php:291
+#: template-parts/header-primary.php:95 template-parts/header-primary.php:96
+msgid "VK URL"
+msgstr ""
+
+#: admin/options-init.php:276 admin/options-init.php:292
+#: template-parts/header-primary.php:99 template-parts/header-primary.php:100
+msgid "YouTube URL"
+msgstr ""
+
+#: admin/options-init.php:277 admin/options-init.php:293
+#: template-parts/header-primary.php:103 template-parts/header-primary.php:104
+msgid "Pinterest URL"
+msgstr ""
+
+#: admin/options-init.php:278 admin/options-init.php:294
+#: template-parts/header-primary.php:107 template-parts/header-primary.php:108
+msgid "Tumblr URL"
+msgstr ""
+
+#: admin/options-init.php:279 admin/options-init.php:295
+#: template-parts/header-primary.php:111 template-parts/header-primary.php:112
+msgid "Dribbble URL"
+msgstr ""
+
+#: admin/options-init.php:280 admin/options-init.php:296
+#: template-parts/header-primary.php:115 template-parts/header-primary.php:116
+msgid "Vimeo URL"
+msgstr ""
+
+#: admin/options-init.php:281 admin/options-init.php:297
+#: template-parts/header-primary.php:119 template-parts/header-primary.php:120
+msgid "Flickr URL"
+msgstr ""
+
+#: admin/options-init.php:282 admin/options-init.php:298
+#: template-parts/header-primary.php:123 template-parts/header-primary.php:124
+msgid "Yelp URL"
+msgstr ""
+
+#: admin/options-init.php:306
+msgid "Mobile Nav Width"
+msgstr ""
+
+#: admin/options-init.php:307
+msgid "Set Mobile Nav Custom Width in px"
+msgstr ""
+
+#: admin/options-init.php:320
+msgid "Secondary"
+msgstr ""
+
+#: admin/options-init.php:329
+msgid "Show Search Form?"
+msgstr ""
+
+#: admin/options-init.php:339
+msgid "Show Primary Email?"
+msgstr ""
+
+#: admin/options-init.php:347
+msgid "Label for Primary Email Address"
+msgstr ""
+
+#: admin/options-init.php:348
+msgid "Join Our Team!"
+msgstr ""
+
+#: admin/options-init.php:354
+msgid "Primary Email address"
+msgstr ""
+
+#: admin/options-init.php:357 admin/options-init.php:390
+msgid "As an option you can also enter a simple link, e.g. yoursite.com"
+msgstr ""
+
+#: admin/options-init.php:362
+msgid "Primary Email Custom Icon"
+msgstr ""
+
+#: admin/options-init.php:363 admin/options-init.php:396
+#: admin/options-init.php:424
+msgid ""
+"Add your custom icon, e.g. <code>&lt;i class=\"fa fa-user\"&gt;&lt;/i&gt;</"
+"code> or <code>&lt;img src=\"PATH_TO_IMAGE\" /&gt;</code>"
+msgstr ""
+
+#: admin/options-init.php:372
+msgid "Show Secondary Email?"
+msgstr ""
+
+#: admin/options-init.php:380
+msgid "Label for Secondary Email address"
+msgstr ""
+
+#: admin/options-init.php:381
+msgid "Contact Us"
+msgstr ""
+
+#: admin/options-init.php:387
+msgid "Secondary Email address"
+msgstr ""
+
+#: admin/options-init.php:395
+msgid "Secondary Email Custom Icon"
+msgstr ""
+
+#: admin/options-init.php:409
+msgid "WooCommerce Options"
+msgstr ""
+
+#: admin/options-init.php:410
+msgid "The following options are available if WooCommerce installed."
+msgstr ""
+
+#: admin/options-init.php:415
+msgid "Show Shopping Cart?"
+msgstr ""
+
+#: admin/options-init.php:423
+msgid "Shopping Cart Custom Icon"
+msgstr ""
+
+#: admin/options-init.php:436 admin/options-init.php:1995 functions.php:224
+msgid "Pushy Panel"
+msgstr ""
+
+#: admin/options-init.php:443
+msgid "Show Side Panel?"
+msgstr ""
+
+#: admin/options-init.php:451
+msgid "Add Logo to the Side Panel?"
+msgstr ""
+
+#: admin/options-init.php:484
+msgid ""
+"Logo width can be set in px. Height will automatically calculated. Note: "
+"94px by default."
+msgstr ""
+
+#: admin/options-init.php:499 inc/acf-fields.php:71
+msgid "Page Heading"
+msgstr ""
+
+#: admin/options-init.php:510 admin/options-init.php:688
+#: admin/options-init.php:890 admin/options-init.php:2552
+#: inc/acf-fields.php:83 inc/vc-functions.php:344 inc/vc-functions.php:577
+#: inc/vc-functions.php:1315 inc/vc-functions.php:1706
+#: inc/vc-functions.php:1906
+msgid "Title"
+msgstr ""
+
+#: admin/options-init.php:518
+msgid "Page Heading Background"
+msgstr ""
+
+#: admin/options-init.php:523
+msgid "Add Overlay on Page Heading Image?"
+msgstr ""
+
+#: admin/options-init.php:524 admin/options-init.php:2771
+msgid "Turn on to add color overlay."
+msgstr ""
+
+#: admin/options-init.php:533
+msgid "Page Heading Overlay Background"
+msgstr ""
+
+#: admin/options-init.php:539
+msgid "Customize Page Heading Padding?"
+msgstr ""
+
+#: admin/options-init.php:540
+msgid "Turn on to customize top padding."
+msgstr ""
+
+#: admin/options-init.php:553
+msgid "Page Headings Paddings - Desktop"
+msgstr ""
+
+#: admin/options-init.php:554 admin/options-init.php:1390
+msgid "Set paddings for Desktop."
+msgstr ""
+
+#: admin/options-init.php:555
+msgid ""
+"You can set Top Paddings for the Page Headings. Applied only for desktops."
+msgstr ""
+
+#: admin/options-init.php:571
+msgid "Page Headings Paddings - Tablet"
+msgstr ""
+
+#: admin/options-init.php:572 admin/options-init.php:1408
+msgid "Set paddings for Tablets."
+msgstr ""
+
+#: admin/options-init.php:573
+msgid ""
+"You can set Top Paddings for the Page Headings. Applied only for tablets."
+msgstr ""
+
+#: admin/options-init.php:589
+msgid "Page Headings Paddings - Mobile"
+msgstr ""
+
+#: admin/options-init.php:590 admin/options-init.php:1426
+msgid "Set paddings for Mobile devices."
+msgstr ""
+
+#: admin/options-init.php:591
+msgid ""
+"You can set Top Paddings for the Page Headings. Applied only for mobile "
+"devices."
+msgstr ""
+
+#: admin/options-init.php:602
+msgid "Highlight Page Heading Last Word?"
+msgstr ""
+
+#: admin/options-init.php:603
+msgid "The last word highlighted by default."
+msgstr ""
+
+#: admin/options-init.php:611
+msgid "Show Breadcrumbs?"
+msgstr ""
+
+#: admin/options-init.php:612
+msgid "Turn on to show Breadcrumbs"
+msgstr ""
+
+#: admin/options-init.php:620
+msgid "Customize Breadcrumbs Colors?"
+msgstr ""
+
+#: admin/options-init.php:621
+msgid "Turn on to change colors for Breadcrumbs."
+msgstr ""
+
+#: admin/options-init.php:630
+msgid "Breadcrumbs Link Color"
+msgstr ""
+
+#: admin/options-init.php:631
+msgid "Color for Breadcrumbs links."
+msgstr ""
+
+#: admin/options-init.php:647
+msgid "Breadcrumbs Current Crumb Color"
+msgstr ""
+
+#: admin/options-init.php:648
+msgid "Color for Breadcrumbs Current text."
+msgstr ""
+
+#: admin/options-init.php:658
+msgid "Breadcrumbs Separator Color"
+msgstr ""
+
+#: admin/options-init.php:659
+msgid "Color for Breadcrumbs Separator."
+msgstr ""
+
+#: admin/options-init.php:672 inc/acf-fields.php:84
+msgid "Hero Unit - Static"
+msgstr ""
+
+#: admin/options-init.php:681 admin/options-init.php:1368
+#: inc/acf-fields.php:473 inc/vc-functions.php:524
+msgid "Content"
+msgstr ""
+
+#: admin/options-init.php:682
+msgid "Customize Hero Static output."
+msgstr ""
+
+#: admin/options-init.php:690
+msgid "Enter Hero Unit Title."
+msgstr ""
+
+#: admin/options-init.php:691
+msgid "The <span class=\"text-primary\">Alchemists</span>"
+msgstr ""
+
+#: admin/options-init.php:696 admin/options-init.php:2559
+#: inc/vc-functions.php:586 inc/vc-functions.php:1713
+#: inc/vc-functions.php:1915 inc/vc-functions.php:1918
+msgid "Subtitle"
+msgstr ""
+
+#: admin/options-init.php:697
+msgid "Enter Hero Unit Subtitle."
+msgstr ""
+
+#: admin/options-init.php:698
+msgid "Elric Bros School"
+msgstr ""
+
+#: admin/options-init.php:704 admin/options-init.php:2566
+#: inc/vc-functions.php:1322
+#: woocommerce/single-product/short-description.php:31
+#: woocommerce/single-product/tabs/description.php:25
+msgid "Description"
+msgstr ""
+
+#: admin/options-init.php:705
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisi nel elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore."
+msgstr ""
+
+#: admin/options-init.php:710
+msgid "Show Button?"
+msgstr ""
+
+#: admin/options-init.php:711
+msgid "Turn on to display button."
+msgstr ""
+
+#: admin/options-init.php:719
+msgid "Button Text"
+msgstr ""
+
+#: admin/options-init.php:720
+msgid "Enter Button Text."
+msgstr ""
+
+#: admin/options-init.php:721 sportspress/countdown.php:168
+#: sportspress/countdown.php:195 vc_templates/alc_featured_post.php:186
+msgid "Read More"
+msgstr ""
+
+#: admin/options-init.php:727
+msgid "Button Link"
+msgstr ""
+
+#: admin/options-init.php:728
+msgid "Enter Button Link."
+msgstr ""
+
+#: admin/options-init.php:743 admin/options-init.php:1601
+#: inc/vc-functions.php:2382 inc/vc-functions.php:2389
+#: inc/vc-functions.php:2460 inc/vc-functions.php:2468
+#: inc/vc-functions.php:2688 inc/vc-functions.php:2695
+msgid "Styling"
+msgstr ""
+
+#: admin/options-init.php:744
+msgid "Customize Hero Static styling."
+msgstr ""
+
+#: admin/options-init.php:751
+msgid "Hero Unit Background"
+msgstr ""
+
+#: admin/options-init.php:765
+msgid "Description Text Color"
+msgstr ""
+
+#: admin/options-init.php:766
+msgid "Pick a custom color for the description text."
+msgstr ""
+
+#: admin/options-init.php:774
+msgid "Show Stars?"
+msgstr ""
+
+#: admin/options-init.php:775
+msgid "Turn on to display stars."
+msgstr ""
+
+#: admin/options-init.php:785
+msgid "Hero Unit Height"
+msgstr ""
+
+#: admin/options-init.php:786 admin/options-init.php:802
+#: admin/options-init.php:1008 admin/options-init.php:1025
+#: admin/options-init.php:1042 admin/options-init.php:1059
+msgid "Set your custom height."
+msgstr ""
+
+#: admin/options-init.php:793 admin/options-init.php:1032
+msgid "Default is 640px"
+msgstr ""
+
+#: admin/options-init.php:801
+msgid "Hero Unit Height (Mobile)"
+msgstr ""
+
+#: admin/options-init.php:809
+msgid "Default is 400px"
+msgstr ""
+
+#: admin/options-init.php:815
+msgid "Show Hero Image?"
+msgstr ""
+
+#: admin/options-init.php:816
+msgid "Turn on to display Hero Image."
+msgstr ""
+
+#: admin/options-init.php:825
+msgid "Custom Hero Image"
+msgstr ""
+
+#: admin/options-init.php:833 inc/vc-functions.php:1266
+#: inc/vc-functions.php:1335
+msgid "Alignment"
+msgstr ""
+
+#: admin/options-init.php:834
+msgid "Select prefered text alignment"
+msgstr ""
+
+#: admin/options-init.php:836 inc/vc-functions.php:1272
+#: inc/vc-functions.php:1340
+msgid "Left"
+msgstr ""
+
+#: admin/options-init.php:837 inc/vc-functions.php:1275
+#: inc/vc-functions.php:1339
+msgid "Center"
+msgstr ""
+
+#: admin/options-init.php:838 inc/vc-functions.php:1274
+#: inc/vc-functions.php:1341
+msgid "Right"
+msgstr ""
+
+#: admin/options-init.php:856 inc/acf-fields.php:85
+msgid "Hero Unit - Posts Slider"
+msgstr ""
+
+#: admin/options-init.php:865 inc/acf-fields.php:1887
+msgid "Post Options"
+msgstr ""
+
+#: admin/options-init.php:866
+msgid "Customize posts output."
+msgstr ""
+
+#: admin/options-init.php:872 inc/acf-fields.php:1586
+msgid "Number of Posts"
+msgstr ""
+
+#: admin/options-init.php:873
+msgid "Number of Blog Posts to display"
+msgstr ""
+
+#: admin/options-init.php:874
+msgid "Use arrows to increase/decrease the number of posts to display."
+msgstr ""
+
+#: admin/options-init.php:883 admin/options-init.php:1145
+#: inc/vc-functions.php:748 inc/vc-functions.php:872 inc/vc-functions.php:989
+#: inc/vc-functions.php:1852 template-parts/post-filter.php:51
+msgid "Order By"
+msgstr ""
+
+#: admin/options-init.php:884
+msgid "Posts Order By"
+msgstr ""
+
+#: admin/options-init.php:885
+msgid "Sort retrieved posts by parameter."
+msgstr ""
+
+#: admin/options-init.php:887 inc/acf-fields.php:492 inc/vc-functions.php:341
+#: inc/vc-functions.php:531 inc/widgets/widget-recent-posts.php:230
+#: sportspress/event-details.php:22 sportspress/event-list.php:111
+#: sportspress/player-event-game-by-game.php:119
+msgid "Date"
+msgstr ""
+
+#: admin/options-init.php:888 inc/vc-functions.php:342
+msgid "ID"
+msgstr ""
+
+#: admin/options-init.php:889 admin/options-init.php:1147
+#: inc/vc-functions.php:343 template-parts/post-filter.php:93
+msgid "Author"
+msgstr ""
+
+#: admin/options-init.php:891 inc/vc-functions.php:345
+msgid "Modified"
+msgstr ""
+
+#: admin/options-init.php:892 inc/vc-functions.php:346
+msgid "Comment count"
+msgstr ""
+
+#: admin/options-init.php:893 inc/vc-functions.php:347
+msgid "Menu order"
+msgstr ""
+
+#: admin/options-init.php:894 inc/vc-functions.php:348
+#: template-parts/post-filter.php:59
+msgid "Random"
+msgstr ""
+
+#: admin/options-init.php:901 admin/options-init.php:1146
+#: inc/vc-functions.php:740 inc/vc-functions.php:864 inc/vc-functions.php:981
+#: inc/vc-functions.php:1844 template-parts/post-filter.php:74
+msgid "Order"
+msgstr ""
+
+#: admin/options-init.php:902
+msgid "Posts Order"
+msgstr ""
+
+#: admin/options-init.php:903
+msgid ""
+"Designates the ascending or descending order of the \"orderby\" parameter."
+msgstr ""
+
+#: admin/options-init.php:914 admin/options-init.php:1144
+#: inc/vc-functions.php:679 inc/vc-functions.php:814 inc/vc-functions.php:951
+#: inc/vc-functions.php:1795
+msgid "Categories"
+msgstr ""
+
+#: admin/options-init.php:915
+msgid "Select posts categories"
+msgstr ""
+
+#: admin/options-init.php:916
+msgid "Show posts associated with certain categories."
+msgstr ""
+
+#: admin/options-init.php:917
+msgid "Select categories"
+msgstr ""
+
+#: admin/options-init.php:924 inc/vc-functions.php:703
+msgid "Tags"
+msgstr ""
+
+#: admin/options-init.php:925
+msgid "Select posts tags"
+msgstr ""
+
+#: admin/options-init.php:926
+msgid "Show posts associated with certain tags."
+msgstr ""
+
+#: admin/options-init.php:927
+msgid "Select tags"
+msgstr ""
+
+#: admin/options-init.php:934 admin/options-init.php:1255
+msgid "Posts"
+msgstr ""
+
+#: admin/options-init.php:935
+msgid "Specify posts to retrieve"
+msgstr ""
+
+#: admin/options-init.php:936
+msgid ""
+"Each selected post will be displayed as a separate slide in Hero Posts "
+"Slider if enabled."
+msgstr ""
+
+#: admin/options-init.php:938
+msgid "Select posts"
+msgstr ""
+
+#: admin/options-init.php:946
+msgid "Enable Post Meta?"
+msgstr ""
+
+#: admin/options-init.php:947
+msgid "Turn on to show Post Meta Info."
+msgstr ""
+
+#: admin/options-init.php:948 admin/options-init.php:958
+msgid "Includes date, views, likes, comments."
+msgstr ""
+
+#: admin/options-init.php:956
+msgid "Post Meta"
+msgstr ""
+
+#: admin/options-init.php:957
+msgid "Turn on to show Posts Meta Info."
+msgstr ""
+
+#: admin/options-init.php:960 admin/options-init.php:970
+#: admin/options-init.php:980 admin/options-init.php:990
+#: inc/wc-functions.php:347
+msgid "Show"
+msgstr ""
+
+#: admin/options-init.php:961 admin/options-init.php:971
+#: admin/options-init.php:981 admin/options-init.php:991
+msgid "Hide"
+msgstr ""
+
+#: admin/options-init.php:966
+msgid "Post Author"
+msgstr ""
+
+#: admin/options-init.php:967
+msgid "Turn on to show Post Author."
+msgstr ""
+
+#: admin/options-init.php:968
+msgid "Includes avatar, author display name, author nickname."
+msgstr ""
+
+#: admin/options-init.php:976
+msgid "Post Category"
+msgstr ""
+
+#: admin/options-init.php:977
+msgid "Turn on to show Post Category."
+msgstr ""
+
+#: admin/options-init.php:978
+msgid "Post Category displayed above the Post Title."
+msgstr ""
+
+#: admin/options-init.php:986
+msgid "Post Category in Thumbs"
+msgstr ""
+
+#: admin/options-init.php:987
+msgid "Turn on to show Category label in Thumbs."
+msgstr ""
+
+#: admin/options-init.php:988
+msgid "Post Category label displayed above the Post Title in Thumbs controls."
+msgstr ""
+
+#: admin/options-init.php:996
+msgid "Customize Height?"
+msgstr ""
+
+#: admin/options-init.php:997
+msgid "Turn on to to customize Posts Slider height."
+msgstr ""
+
+#: admin/options-init.php:1007
+msgid "Height - Desktop"
+msgstr ""
+
+#: admin/options-init.php:1015
+msgid "Default is 720px"
+msgstr ""
+
+#: admin/options-init.php:1024
+msgid "Height - Tablet Landscape"
+msgstr ""
+
+#: admin/options-init.php:1041
+msgid "Height - Tablet Portrait"
+msgstr ""
+
+#: admin/options-init.php:1049
+msgid "Default is 480px"
+msgstr ""
+
+#: admin/options-init.php:1058
+msgid "Height - Mobile"
+msgstr ""
+
+#: admin/options-init.php:1066
+msgid "Default is 320px"
+msgstr ""
+
+#: admin/options-init.php:1080
+msgid "Slider Settings"
+msgstr ""
+
+#: admin/options-init.php:1081
+msgid "Setting up your Slider settings."
+msgstr ""
+
+#: admin/options-init.php:1087
+msgid "Autoplay"
+msgstr ""
+
+#: admin/options-init.php:1088
+msgid "Enables slider autoplay."
+msgstr ""
+
+#: admin/options-init.php:1089
+msgid "Autoplay enabled by default."
+msgstr ""
+
+#: admin/options-init.php:1091
+msgid "On"
+msgstr ""
+
+#: admin/options-init.php:1092
+msgid "Off"
+msgstr ""
+
+#: admin/options-init.php:1097 inc/vc-functions.php:890
+#: inc/vc-functions.php:1007
+msgid "Autoplay Speed"
+msgstr ""
+
+#: admin/options-init.php:1098
+msgid "Delay duration between slide animation."
+msgstr ""
+
+#: admin/options-init.php:1099
+msgid "Duration in seconds, Min: 3, max: 20, step: 0.5, default value: 8"
+msgstr ""
+
+#: admin/options-init.php:1121
+msgid "Blog & Posts"
+msgstr ""
+
+#: admin/options-init.php:1128
+msgid "Enable Posts Filter?"
+msgstr ""
+
+#: admin/options-init.php:1129
+msgid "Turn on to show Posts Filter."
+msgstr ""
+
+#: admin/options-init.php:1130
+msgid "Posts Filter displayed by default."
+msgstr ""
+
+#: admin/options-init.php:1138
+msgid "Posts Filter"
+msgstr ""
+
+#: admin/options-init.php:1139
+msgid "Elements order in the filter."
+msgstr ""
+
+#: admin/options-init.php:1140
+msgid ""
+"Organize how you want the Posts Filters element to appear on a blog page."
+msgstr ""
+
+#: admin/options-init.php:1157
+msgid "Blog Style"
+msgstr ""
+
+#: admin/options-init.php:1158
+msgid "Posts style displayed on Blog page."
+msgstr ""
+
+#: admin/options-init.php:1159
+msgid "Select prefered Blog style."
+msgstr ""
+
+#: admin/options-init.php:1162
+msgid "Cards (fitrows)"
+msgstr ""
+
+#: admin/options-init.php:1166
+msgid "List (Left Thumbnail)"
+msgstr ""
+
+#: admin/options-init.php:1170
+msgid "List (Large Thumbnail)"
+msgstr ""
+
+#: admin/options-init.php:1174
+msgid "Masonry"
+msgstr ""
+
+#: admin/options-init.php:1184
+msgid "Sidebar Position"
+msgstr ""
+
+#: admin/options-init.php:1185
+msgid "Blog Sidebar Position."
+msgstr ""
+
+#: admin/options-init.php:1186
+msgid "Select sidebar alignment for classic Blog."
+msgstr ""
+
+#: admin/options-init.php:1189 admin/options-init.php:2909
+msgid "Right Sidebar"
+msgstr ""
+
+#: admin/options-init.php:1193 admin/options-init.php:2906
+msgid "Left Sidebar"
+msgstr ""
+
+#: admin/options-init.php:1197 admin/options-init.php:2912
+msgid "No Sidebar"
+msgstr ""
+
+#: admin/options-init.php:1206
+msgid "Add Social Counters between Posts?"
+msgstr ""
+
+#: admin/options-init.php:1207
+msgid "Turn on to add Social Counter."
+msgstr ""
+
+#: admin/options-init.php:1208
+msgid "Social Counters displayed for Masontry Blog Style."
+msgstr ""
+
+#: admin/options-init.php:1218
+msgid "Facebook Counter Position"
+msgstr ""
+
+#: admin/options-init.php:1219
+msgid ""
+"Number of post where Facebook Counter will be displayed. Enter 0 to not "
+"display counter."
+msgstr ""
+
+#: admin/options-init.php:1227
+msgid "Twitter Counter Position"
+msgstr ""
+
+#: admin/options-init.php:1228
+msgid ""
+"Number of post where Twitter Counter will be displayed. Enter 0 to not "
+"display counter."
+msgstr ""
+
+#: admin/options-init.php:1236
+msgid "Google+ Counter Position"
+msgstr ""
+
+#: admin/options-init.php:1237
+msgid ""
+"Number of post where Google+ Counter will be displayed. Enter 0 to not "
+"display counter."
+msgstr ""
+
+#: admin/options-init.php:1245
+msgid "Instagram Counter Position"
+msgstr ""
+
+#: admin/options-init.php:1246
+msgid ""
+"Number of post where Instagram Counter will be displayed. Enter 0 to not "
+"display counter."
+msgstr ""
+
+#: admin/options-init.php:1262
+msgid "Show Categories?"
+msgstr ""
+
+#: admin/options-init.php:1263
+msgid "Posts categories displayed by default."
+msgstr ""
+
+#: admin/options-init.php:1272
+msgid "Categories Group 1"
+msgstr ""
+
+#: admin/options-init.php:1273
+msgid "Select categories for Group 1"
+msgstr ""
+
+#: admin/options-init.php:1274
+msgid "Assign post categories to Group 1."
+msgstr ""
+
+#: admin/options-init.php:1282
+msgid "Categories Group 2"
+msgstr ""
+
+#: admin/options-init.php:1283
+msgid "Select categories for Group 2"
+msgstr ""
+
+#: admin/options-init.php:1284 admin/options-init.php:1294
+msgid "Assign post categories to Group 3."
+msgstr ""
+
+#: admin/options-init.php:1292
+msgid "Categories Group 3"
+msgstr ""
+
+#: admin/options-init.php:1293
+msgid "Select categories for Group 3"
+msgstr ""
+
+#: admin/options-init.php:1304
+msgid "Single Post"
+msgstr ""
+
+#: admin/options-init.php:1311
+msgid "Single Post Layout"
+msgstr ""
+
+#: admin/options-init.php:1312
+msgid "Select Single Post Layout"
+msgstr ""
+
+#: admin/options-init.php:1314
+msgid "Layout 1"
+msgstr ""
+
+#: admin/options-init.php:1315
+msgid "Layout 2"
+msgstr ""
+
+#: admin/options-init.php:1316
+msgid "Layout 3"
+msgstr ""
+
+#: admin/options-init.php:1323
+msgid "Show Social Sharing?"
+msgstr ""
+
+#: admin/options-init.php:1324
+msgid "Turn on to show social sharing buttons."
+msgstr ""
+
+#: admin/options-init.php:1325
+msgid "Social sharing buttons displayed by default."
+msgstr ""
+
+#: admin/options-init.php:1333
+msgid "Social Sharing Sorter"
+msgstr ""
+
+#: admin/options-init.php:1334
+msgid "Organize social sharing link."
+msgstr ""
+
+#: admin/options-init.php:1335
+msgid ""
+"Drag and drop social sharing links from \"Disabled\" to \"Enabled\" group to "
+"display them on Single Post Page."
+msgstr ""
+
+#: admin/options-init.php:1339 admin/options-init.php:2388
+#: inc/vc-functions.php:605 inc/widgets/widget-contact-info.php:122
+#: inc/widgets/widget-social-counters.php:247
+#: template-parts/social-counters/social-fb.php:16
+msgid "Facebook"
+msgstr ""
+
+#: admin/options-init.php:1340 admin/options-init.php:2418
+#: inc/vc-functions.php:606 inc/widgets/widget-contact-info.php:128
+#: inc/widgets/widget-social-counters.php:252
+#: template-parts/social-counters/social-twitter.php:19
+msgid "Twitter"
+msgstr ""
+
+#: admin/options-init.php:1341 admin/options-init.php:2467
+#: inc/vc-functions.php:607 inc/widgets/widget-contact-info.php:134
+#: inc/widgets/widget-social-counters.php:257
+#: template-parts/social-counters/social-gplus.php:16
+msgid "Google+"
+msgstr ""
+
+#: admin/options-init.php:1344
+msgid "Linkedin"
+msgstr ""
+
+#: admin/options-init.php:1345
+msgid "VK"
+msgstr ""
+
+#: admin/options-init.php:1346
+msgid "Odnoklassniki"
+msgstr ""
+
+#: admin/options-init.php:1347
+msgid "WhatsApp"
+msgstr ""
+
+#: admin/options-init.php:1348
+msgid "Viber"
+msgstr ""
+
+#: admin/options-init.php:1356
+msgid "Show Post Author Box on Single Post?"
+msgstr ""
+
+#: admin/options-init.php:1357
+msgid "Turn on to show post author box."
+msgstr ""
+
+#: admin/options-init.php:1358
+msgid "Post Author Box contains name, email, avatar and description."
+msgstr ""
+
+#: admin/options-init.php:1375
+msgid "Customize Content Paddings?"
+msgstr ""
+
+#: admin/options-init.php:1376
+msgid "Turn on to customize the content paddings."
+msgstr ""
+
+#: admin/options-init.php:1389
+msgid "Content Paddings - Desktop"
+msgstr ""
+
+#: admin/options-init.php:1391
+msgid ""
+"You can set paddings for the Content section. Applied only for desktops."
+msgstr ""
+
+#: admin/options-init.php:1407
+msgid "Content Paddings - Tablet"
+msgstr ""
+
+#: admin/options-init.php:1409
+msgid "You can set paddings for the Content section. Applied only for tablets."
+msgstr ""
+
+#: admin/options-init.php:1425
+msgid "Content Paddings - Mobile"
+msgstr ""
+
+#: admin/options-init.php:1427
+msgid ""
+"You can set paddings for the Content section. Applied only for mobile "
+"devices."
+msgstr ""
+
+#: admin/options-init.php:1441 admin/options-init.php:2048
+msgid "Footer"
+msgstr ""
+
+#: admin/options-init.php:1451
+msgid "Footer Logo"
+msgstr ""
+
+#: admin/options-init.php:1458
+msgid "Display Footer Logo?"
+msgstr ""
+
+#: admin/options-init.php:1459
+msgid "Turn on to show the Footer Logo."
+msgstr ""
+
+#: admin/options-init.php:1468
+msgid "Footer Custom Logo"
+msgstr ""
+
+#: admin/options-init.php:1477
+msgid "Footer Custom Logo @2x"
+msgstr ""
+
+#: admin/options-init.php:1488 admin/options-init.php:1495
+msgid "Footer Widgets"
+msgstr ""
+
+#: admin/options-init.php:1496
+msgid "Footer Widgets are displayed by default."
+msgstr ""
+
+#: admin/options-init.php:1498 admin/options-init.php:1535
+msgid "Enable"
+msgstr ""
+
+#: admin/options-init.php:1499 admin/options-init.php:1536
+msgid "Disable"
+msgstr ""
+
+#: admin/options-init.php:1505
+msgid "Footer Widgets Layout"
+msgstr ""
+
+#: admin/options-init.php:1506
+msgid "Select footer widgets layout (not equal or equal)."
+msgstr ""
+
+#: admin/options-init.php:1509
+msgid "3 Columns (equal)"
+msgstr ""
+
+#: admin/options-init.php:1513
+msgid "4 Columns (equal)"
+msgstr ""
+
+#: admin/options-init.php:1525 admin/options-init.php:1532
+msgid "Footer Sponsors"
+msgstr ""
+
+#: admin/options-init.php:1533
+msgid "Footer Sponsors are hidden by default."
+msgstr ""
+
+#: admin/options-init.php:1541
+msgid "Sponsors Title"
+msgstr ""
+
+#: admin/options-init.php:1542
+msgid "Displayed before the images"
+msgstr ""
+
+#: admin/options-init.php:1543
+msgid "Our Sponsors:"
+msgstr ""
+
+#: admin/options-init.php:1549
+msgid "Add/Edit Sponsors Images"
+msgstr ""
+
+#: admin/options-init.php:1550
+msgid "Create a list of Sponsors by selecting existing or uploading new images"
+msgstr ""
+
+#: admin/options-init.php:1558
+msgid "Secondary Footer"
+msgstr ""
+
+#: admin/options-init.php:1565
+msgid "Show Secondary Footer?"
+msgstr ""
+
+#: admin/options-init.php:1566
+msgid "Turn on to show Footer Secondary Area"
+msgstr ""
+
+#: admin/options-init.php:1577
+msgid "Soccer Version"
+msgstr ""
+
+#: admin/options-init.php:1578
+msgid "Displayed only for Soccer version."
+msgstr ""
+
+#: admin/options-init.php:1583
+msgid "Copyright Text"
+msgstr ""
+
+#: admin/options-init.php:1584
+msgid "Add copyright text here."
+msgstr ""
+
+#: admin/options-init.php:1610
+msgid "Color Presets"
+msgstr ""
+
+#: admin/options-init.php:1611
+msgid "Choose color preset you want to use."
+msgstr ""
+
+#: admin/options-init.php:1617
+msgid "Basketball"
+msgstr ""
+
+#: admin/options-init.php:1633
+msgid "Soccer"
+msgstr ""
+
+#: admin/options-init.php:1653
+msgid "Primary Color"
+msgstr ""
+
+#: admin/options-init.php:1654
+msgid "Pick a primary color."
+msgstr ""
+
+#: admin/options-init.php:1662
+msgid "Primary Color - Alt"
+msgstr ""
+
+#: admin/options-init.php:1663
+msgid "Pick a primary alt color."
+msgstr ""
+
+#: admin/options-init.php:1671
+msgid "Dark Color"
+msgstr ""
+
+#: admin/options-init.php:1672
+msgid "Pick a dark color."
+msgstr ""
+
+#: admin/options-init.php:1680
+msgid "Dark Color - Lighten"
+msgstr ""
+
+#: admin/options-init.php:1681
+msgid "Pick a dark lighten color."
+msgstr ""
+
+#: admin/options-init.php:1689
+msgid "Gray Color"
+msgstr ""
+
+#: admin/options-init.php:1690
+msgid "Pick a gray color."
+msgstr ""
+
+#: admin/options-init.php:1698
+msgid "Secondary Color"
+msgstr ""
+
+#: admin/options-init.php:1699
+msgid "Pick a secondary color."
+msgstr ""
+
+#: admin/options-init.php:1707
+msgid "Tertiary Color"
+msgstr ""
+
+#: admin/options-init.php:1708
+msgid "Pick a tertiary color."
+msgstr ""
+
+#: admin/options-init.php:1716
+msgid "Quaternary Color"
+msgstr ""
+
+#: admin/options-init.php:1717
+msgid "Pick a quaternary color."
+msgstr ""
+
+#: admin/options-init.php:1725
+msgid "Quaternary Color - Alt"
+msgstr ""
+
+#: admin/options-init.php:1726
+msgid "Pick a quaternary alt color."
+msgstr ""
+
+#: admin/options-init.php:1738
+msgid "Base"
+msgstr ""
+
+#: admin/options-init.php:1746
+msgid "Body Background"
+msgstr ""
+
+#: admin/options-init.php:1747
+msgid "Body styling options"
+msgstr ""
+
+#: admin/options-init.php:1748
+msgid ""
+"Customize Body Background with color, background image, background position "
+"etc."
+msgstr ""
+
+#: admin/options-init.php:1754
+msgid "Link Color"
+msgstr ""
+
+#: admin/options-init.php:1755
+msgid "Color for links."
+msgstr ""
+
+#: admin/options-init.php:1771
+msgid "Top Bar Background"
+msgstr ""
+
+#: admin/options-init.php:1772
+msgid "Customize Top Bar Background Color."
+msgstr ""
+
+#: admin/options-init.php:1778
+msgid "Hover & Highlight Color"
+msgstr ""
+
+#: admin/options-init.php:1779
+msgid "Header Top Bar hover & highlight color."
+msgstr ""
+
+#: admin/options-init.php:1785
+msgid "Base & Text Color"
+msgstr ""
+
+#: admin/options-init.php:1786
+msgid "Header Top Bar base & text color."
+msgstr ""
+
+#: admin/options-init.php:1792
+msgid "Text Divider Color"
+msgstr ""
+
+#: admin/options-init.php:1793
+msgid "Header Top Bar text divider color."
+msgstr ""
+
+#: admin/options-init.php:1802
+msgid "Header Primary"
+msgstr ""
+
+#: admin/options-init.php:1810 admin/options-init.php:1942
+msgid "Background"
+msgstr ""
+
+#: admin/options-init.php:1811
+msgid "Customize Header Primary Background Color."
+msgstr ""
+
+#: admin/options-init.php:1818 admin/options-init.php:1964
+msgid "Links Color"
+msgstr ""
+
+#: admin/options-init.php:1819
+msgid "Customize Header Primary Links Color."
+msgstr ""
+
+#: admin/options-init.php:1827
+msgid "Link Border Height"
+msgstr ""
+
+#: admin/options-init.php:1828
+msgid ""
+"Set Border Height for hovered and activate Navigation items in px (2px by "
+"default)."
+msgstr ""
+
+#: admin/options-init.php:1839
+msgid "Link Border Color"
+msgstr ""
+
+#: admin/options-init.php:1840
+msgid "Appeared on hover and active Navigation items."
+msgstr ""
+
+#: admin/options-init.php:1846
+msgid "Submenu & Megamenu Background"
+msgstr ""
+
+#: admin/options-init.php:1847
+msgid "Customize Dropdown Menu Background Color."
+msgstr ""
+
+#: admin/options-init.php:1853
+msgid "Submenu Border Color"
+msgstr ""
+
+#: admin/options-init.php:1854
+msgid "Border color for Submenu."
+msgstr ""
+
+#: admin/options-init.php:1861
+msgid "Submenu Links Color"
+msgstr ""
+
+#: admin/options-init.php:1862
+msgid "Customize Submenu Links Color."
+msgstr ""
+
+#: admin/options-init.php:1869
+msgid "Megamenu Links Color"
+msgstr ""
+
+#: admin/options-init.php:1870
+msgid "Customize Megamenu Links Color."
+msgstr ""
+
+#: admin/options-init.php:1877
+msgid "Megamenu Column Title Color"
+msgstr ""
+
+#: admin/options-init.php:1878
+msgid "Title displayed for each column in Megamenu."
+msgstr ""
+
+#: admin/options-init.php:1885
+msgid "Megamenu Post Title Color"
+msgstr ""
+
+#: admin/options-init.php:1886
+msgid "Title displayed for posts in Megamenu."
+msgstr ""
+
+#: admin/options-init.php:1893
+msgid "Mobile Nav Background Color"
+msgstr ""
+
+#: admin/options-init.php:1894
+msgid "Background color for Navigation on mobile devices."
+msgstr ""
+
+#: admin/options-init.php:1901
+msgid "Mobile Nav Link Color"
+msgstr ""
+
+#: admin/options-init.php:1902
+msgid "Links color in Navigation on mobile devices."
+msgstr ""
+
+#: admin/options-init.php:1909
+msgid "Mobile Nav Border Color"
+msgstr ""
+
+#: admin/options-init.php:1910
+msgid "Border color for Navigation on mobile devices."
+msgstr ""
+
+#: admin/options-init.php:1917
+msgid "Mobile Nav Submenu Background"
+msgstr ""
+
+#: admin/options-init.php:1918
+msgid "Backgroud color for Navigation Submenu on mobile devices."
+msgstr ""
+
+#: admin/options-init.php:1925
+msgid "Mobile Nav Submenu Links Color"
+msgstr ""
+
+#: admin/options-init.php:1926
+msgid "Links color for Navigation Submenu on mobile devices."
+msgstr ""
+
+#: admin/options-init.php:1934
+msgid "Header Secondary"
+msgstr ""
+
+#: admin/options-init.php:1943
+msgid "Customize Header Secondary Background Color."
+msgstr ""
+
+#: admin/options-init.php:1949
+msgid "Icons Color"
+msgstr ""
+
+#: admin/options-init.php:1950
+msgid "Used to change color for icons in Header Secondary."
+msgstr ""
+
+#: admin/options-init.php:1956
+msgid "Titles Color"
+msgstr ""
+
+#: admin/options-init.php:1957
+msgid "Used to change color for title in Header Secondary."
+msgstr ""
+
+#: admin/options-init.php:1965
+msgid "Color for links in the Header Secondary."
+msgstr ""
+
+#: admin/options-init.php:1972
+msgid "Links Color - Mobile"
+msgstr ""
+
+#: admin/options-init.php:1973
+msgid "Color for links in the Header Secondary on mobile devices."
+msgstr ""
+
+#: admin/options-init.php:1979
+msgid "Cart Summary Color"
+msgstr ""
+
+#: admin/options-init.php:1980
+msgid "Changes cart summary color in the Header Secondary."
+msgstr ""
+
+#: admin/options-init.php:1986
+msgid "Cart Summary Color - Mobile"
+msgstr ""
+
+#: admin/options-init.php:1987
+msgid "Changes cart summary color in the Header Secondary on mobile devices."
+msgstr ""
+
+#: admin/options-init.php:2003
+msgid "Pushy Panel Color Scheme"
+msgstr ""
+
+#: admin/options-init.php:2004
+msgid "Select Pushy Panel Color Scheme"
+msgstr ""
+
+#: admin/options-init.php:2006
+msgid "Light"
+msgstr ""
+
+#: admin/options-init.php:2007
+msgid "Dark"
+msgstr ""
+
+#: admin/options-init.php:2017
+msgid "Blog"
+msgstr ""
+
+#: admin/options-init.php:2025
+msgid "Categories Group 1 - Color"
+msgstr ""
+
+#: admin/options-init.php:2026
+msgid ""
+"Customize color for Categories Group 1 (post category label and floating "
+"action button)"
+msgstr ""
+
+#: admin/options-init.php:2032
+msgid "Categories Group 2 - Color"
+msgstr ""
+
+#: admin/options-init.php:2033
+msgid ""
+"Customize color for Categories Group 2 (post category label and floating "
+"action button)"
+msgstr ""
+
+#: admin/options-init.php:2039
+msgid "Categories Group 3 - Color"
+msgstr ""
+
+#: admin/options-init.php:2040
+msgid ""
+"Customize color for Categories Group 3 (post category label and floating "
+"action button)"
+msgstr ""
+
+#: admin/options-init.php:2057
+msgid "Footer Widgets Background"
+msgstr ""
+
+#: admin/options-init.php:2058
+msgid "Customize Footer Widgets Background."
+msgstr ""
+
+#: admin/options-init.php:2064
+msgid "Footer Secondary Background Color"
+msgstr ""
+
+#: admin/options-init.php:2065 admin/options-init.php:2072
+msgid "Customize Footer Secondary Background Color."
+msgstr ""
+
+#: admin/options-init.php:2071
+msgid "Footer Side Decoration Color"
+msgstr ""
+
+#: admin/options-init.php:2080
+msgid "Typography"
+msgstr ""
+
+#: admin/options-init.php:2088
+msgid "General"
+msgstr ""
+
+#: admin/options-init.php:2095
+msgid "Customize Body font?"
+msgstr ""
+
+#: admin/options-init.php:2096
+msgid "Turn on to use custom fonts for the theme main text."
+msgstr ""
+
+#: admin/options-init.php:2102
+msgid "Body Font"
+msgstr ""
+
+#: admin/options-init.php:2103
+msgid "Specify the body font properties."
+msgstr ""
+
+#: admin/options-init.php:2112
+msgid "Customize Headings?"
+msgstr ""
+
+#: admin/options-init.php:2113
+msgid "Turn on to use custom fonts, change color etc. for the theme Headings."
+msgstr ""
+
+#: admin/options-init.php:2119
+msgid "Font Family Accent"
+msgstr ""
+
+#: admin/options-init.php:2120
+msgid "Used for headings, titles, tabs, labels etc."
+msgstr ""
+
+#: admin/options-init.php:2137
+msgid "Headings"
+msgstr ""
+
+#: admin/options-init.php:2138
+msgid "Specify H1-H6 headings font properties."
+msgstr ""
+
+#: admin/options-init.php:2155
+msgid "Customize Headings separately?"
+msgstr ""
+
+#: admin/options-init.php:2156
+msgid "Turn on to customze each Heading separately."
+msgstr ""
+
+#: admin/options-init.php:2163
+msgid "H1 Heading"
+msgstr ""
+
+#: admin/options-init.php:2164
+msgid "Specify the H1 heading font properties."
+msgstr ""
+
+#: admin/options-init.php:2175
+msgid "H2 Heading"
+msgstr ""
+
+#: admin/options-init.php:2176
+msgid "Specify the H2 heading font properties."
+msgstr ""
+
+#: admin/options-init.php:2187
+msgid "H3 Heading"
+msgstr ""
+
+#: admin/options-init.php:2188
+msgid "Specify the H3 heading font properties."
+msgstr ""
+
+#: admin/options-init.php:2199
+msgid "H4 Heading"
+msgstr ""
+
+#: admin/options-init.php:2200
+msgid "Specify the H4 heading font properties."
+msgstr ""
+
+#: admin/options-init.php:2211
+msgid "H5 Heading"
+msgstr ""
+
+#: admin/options-init.php:2212
+msgid "Specify the H5 heading font properties."
+msgstr ""
+
+#: admin/options-init.php:2223
+msgid "H6 Heading"
+msgstr ""
+
+#: admin/options-init.php:2224
+msgid "Specify the H6 heading font properties."
+msgstr ""
+
+#: admin/options-init.php:2245
+msgid "Customize Navigation?"
+msgstr ""
+
+#: admin/options-init.php:2246
+msgid "Turn on to use custom fonts for Navigation."
+msgstr ""
+
+#: admin/options-init.php:2252
+msgid "Navigation Typography"
+msgstr ""
+
+#: admin/options-init.php:2253 admin/options-init.php:2266
+msgid "Used for the main navigation."
+msgstr ""
+
+#: admin/options-init.php:2265
+msgid "Navigation Dropdown Typography"
+msgstr ""
+
+#: admin/options-init.php:2280
+msgid "Preloader"
+msgstr ""
+
+#: admin/options-init.php:2287
+msgid "Use Preloader?"
+msgstr ""
+
+#: admin/options-init.php:2288
+msgid "Turn on to use page pre-loader."
+msgstr ""
+
+#: admin/options-init.php:2289
+msgid "If turned on you will see spinner before content will be shown."
+msgstr ""
+
+#: admin/options-init.php:2297
+msgid "Customize Preloader?"
+msgstr ""
+
+#: admin/options-init.php:2298
+msgid "Turn on to change colors, size, speen of preloader."
+msgstr ""
+
+#: admin/options-init.php:2307
+msgid "Preloader Background Color"
+msgstr ""
+
+#: admin/options-init.php:2308
+msgid "Choose background color your pre-loader screen."
+msgstr ""
+
+#: admin/options-init.php:2320
+msgid "Spinner Size"
+msgstr ""
+
+#: admin/options-init.php:2321
+msgid "Set up the spinner size."
+msgstr ""
+
+#: admin/options-init.php:2322
+msgid "Spinner size can be set in px."
+msgstr ""
+
+#: admin/options-init.php:2336
+msgid "Spinning Part Color"
+msgstr ""
+
+#: admin/options-init.php:2337
+msgid "Choose color for spinning part."
+msgstr ""
+
+#: admin/options-init.php:2347
+msgid "Spinner Bar Color"
+msgstr ""
+
+#: admin/options-init.php:2348
+msgid "Choose color for spinning bar."
+msgstr ""
+
+#: admin/options-init.php:2358
+msgid "Spinner Animation Duration"
+msgstr ""
+
+#: admin/options-init.php:2359
+msgid "Duration in seconds, Min: 0, max: 2, step: .1, default value: .8."
+msgstr ""
+
+#: admin/options-init.php:2377
+msgid "Social"
+msgstr ""
+
+#: admin/options-init.php:2398 admin/options-init.php:2410
+msgid "Facebook Token"
+msgstr ""
+
+#: admin/options-init.php:2399
+#, php-format
+msgid ""
+"Check next article about generating Facebook Token <a href=\"%s\">How to get "
+"a Facebook Access Token</a>"
+msgstr ""
+
+#: admin/options-init.php:2404
+msgid "Facebook User"
+msgstr ""
+
+#: admin/options-init.php:2405
+msgid "Enter Facebook User Name."
+msgstr ""
+
+#: admin/options-init.php:2411
+msgid "Enter Facebook Token."
+msgstr ""
+
+#: admin/options-init.php:2428
+msgid "Twitter API"
+msgstr ""
+
+#: admin/options-init.php:2429
+#, php-format
+msgid "<a href=\"%s\">Create an app</a> to get Twitter API details."
+msgstr ""
+
+#: admin/options-init.php:2434
+msgid "Twitter User"
+msgstr ""
+
+#: admin/options-init.php:2435
+msgid "Enter Twitter Username."
+msgstr ""
+
+#: admin/options-init.php:2440
+msgid "Twitter Consumer Key"
+msgstr ""
+
+#: admin/options-init.php:2441
+msgid "Enter Twitter Consumer Key."
+msgstr ""
+
+#: admin/options-init.php:2446
+msgid "Twitter Consumer Secret"
+msgstr ""
+
+#: admin/options-init.php:2447
+msgid "Enter Twitter Consumer Secret."
+msgstr ""
+
+#: admin/options-init.php:2452
+msgid "Twitter Access Token"
+msgstr ""
+
+#: admin/options-init.php:2453
+msgid "Enter Twitter Access Token."
+msgstr ""
+
+#: admin/options-init.php:2458
+msgid "Twitter Access Token Secret"
+msgstr ""
+
+#: admin/options-init.php:2459
+msgid "Enter Access Token Secret."
+msgstr ""
+
+#: admin/options-init.php:2477
+msgid "Google API Key"
+msgstr ""
+
+#: admin/options-init.php:2478
+#, php-format
+msgid ""
+"In order to get access to your Google+ account info you are required to "
+"provide a Google+ API Key. Please check <a href=\"%s\">this</a> article."
+msgstr ""
+
+#: admin/options-init.php:2483
+msgid "Google+ ID"
+msgstr ""
+
+#: admin/options-init.php:2484
+msgid "Enter Google+ ID."
+msgstr ""
+
+#: admin/options-init.php:2489
+msgid "Google+ Key"
+msgstr ""
+
+#: admin/options-init.php:2490
+msgid "Enter Google+ Key."
+msgstr ""
+
+#: admin/options-init.php:2498 inc/vc-functions.php:608
+#: inc/widgets/widget-contact-info.php:140
+#: inc/widgets/widget-social-counters.php:262
+#: template-parts/social-counters/social-instagram.php:16
+msgid "Instagram"
+msgstr ""
+
+#: admin/options-init.php:2508 admin/options-init.php:2520
+msgid "Instagram Token"
+msgstr ""
+
+#: admin/options-init.php:2509
+#, php-format
+msgid ""
+"In order to get access to your Instagram account info you are required to "
+"provide an Instagram Access Token. You can generate it here <a href=\"%s"
+"\">Instagram Access Token Generator</a>"
+msgstr ""
+
+#: admin/options-init.php:2514
+msgid "Instagram Username"
+msgstr ""
+
+#: admin/options-init.php:2515
+msgid "Enter Instagram Username."
+msgstr ""
+
+#: admin/options-init.php:2521
+msgid "Enter Instagram Token."
+msgstr ""
+
+#: admin/options-init.php:2529
+msgid "404 Page"
+msgstr ""
+
+#: admin/options-init.php:2537
+msgid "Page 404 Image"
+msgstr ""
+
+#: admin/options-init.php:2538
+msgid "This image displayed only on Page 404."
+msgstr ""
+
+#: admin/options-init.php:2545
+msgid "Page Header Title"
+msgstr ""
+
+#: admin/options-init.php:2546
+msgid "Change 404 Page Header Title."
+msgstr ""
+
+#: admin/options-init.php:2547
+msgid "This text appears below the Header."
+msgstr ""
+
+#: admin/options-init.php:2553
+msgid "Change Page 404 Title."
+msgstr ""
+
+#: admin/options-init.php:2554
+msgid "This text appears above 404 image."
+msgstr ""
+
+#: admin/options-init.php:2560
+msgid "Change Page 404 Subtitle."
+msgstr ""
+
+#: admin/options-init.php:2561
+msgid "This text appears above 404 Title."
+msgstr ""
+
+#: admin/options-init.php:2571
+msgid "Show Primary Button?"
+msgstr ""
+
+#: admin/options-init.php:2572
+msgid "Turn on to display primary button."
+msgstr ""
+
+#: admin/options-init.php:2573
+msgid "This button linked to main page."
+msgstr ""
+
+#: admin/options-init.php:2581
+msgid "Primary Button Text"
+msgstr ""
+
+#: admin/options-init.php:2582
+msgid "Change Primary Button text."
+msgstr ""
+
+#: admin/options-init.php:2583
+msgid "Primary button linked to the Home page."
+msgstr ""
+
+#: admin/options-init.php:2589
+msgid "Primary Button URL"
+msgstr ""
+
+#: admin/options-init.php:2590
+msgid "Change Primary Button URL."
+msgstr ""
+
+#: admin/options-init.php:2596
+msgid "Show Secondary Button?"
+msgstr ""
+
+#: admin/options-init.php:2597
+msgid "Turn on to display secondary button."
+msgstr ""
+
+#: admin/options-init.php:2598
+msgid "You can link this button any page."
+msgstr ""
+
+#: admin/options-init.php:2606
+msgid "Secondary Button Text"
+msgstr ""
+
+#: admin/options-init.php:2607
+msgid "Change Secondary Button text."
+msgstr ""
+
+#: admin/options-init.php:2608
+msgid "Secondary button linked to the Blog page."
+msgstr ""
+
+#: admin/options-init.php:2614
+msgid "Secondary Button URL"
+msgstr ""
+
+#: admin/options-init.php:2615
+msgid "Change Secondary Button URL."
+msgstr ""
+
+#: admin/options-init.php:2623
+msgid "SportsPress"
+msgstr ""
+
+#: admin/options-init.php:2633 sportspress/event-logos-block.php:573
+#: sportspress/event-results.php:106 sportspress/game-result.php:301
+#: sportspress/widgets/widget-alc-featured-player.php:115
+#: vc_templates/alc_event_scoreboard.php:629
+msgid "Team"
+msgstr ""
+
+#: admin/options-init.php:2640
+msgid "Team Subpages Layout"
+msgstr ""
+
+#: admin/options-init.php:2641
+msgid "Organize Team Subpages order."
+msgstr ""
+
+#: admin/options-init.php:2642
+msgid ""
+"Organize how you want the team subpages to appear on a single team page."
+msgstr ""
+
+#: admin/options-init.php:2646 admin/options-init.php:2677
+#: inc/sp-functions.php:204 sportspress/single-team.php:25
+#: sportspress/single-team.php:28
+msgid "Roster"
+msgstr ""
+
+#: admin/options-init.php:2647 admin/options-init.php:2691
+#: inc/sp-functions.php:204 sportspress/single-team.php:25
+#: sportspress/single-team.php:29
+msgid "Standings"
+msgstr ""
+
+#: admin/options-init.php:2648 admin/options-init.php:2705
+#: inc/sp-functions.php:204 sportspress/single-team.php:25
+#: sportspress/single-team.php:30
+#: sportspress/single-team/content-results.php:24
+msgid "Latest Results"
+msgstr ""
+
+#: admin/options-init.php:2649 admin/options-init.php:2719
+#: inc/sp-functions.php:204 sportspress/single-team.php:25
+#: sportspress/single-team.php:31
+#: sportspress/single-team/content-schedule.php:16
+msgid "Schedule"
+msgstr ""
+
+#: admin/options-init.php:2650 admin/options-init.php:2733
+#: admin/options-init.php:2811 admin/options-init.php:2880
+#: inc/sp-functions.php:106 inc/sp-functions.php:204
+#: sportspress/single-player.php:51 sportspress/single-player.php:57
+#: sportspress/single-team.php:25 sportspress/single-team.php:32
+msgid "Gallery"
+msgstr ""
+
+#: admin/options-init.php:2662 admin/options-init.php:2823
+msgid "Change Permalinks"
+msgstr ""
+
+#: admin/options-init.php:2663 admin/options-init.php:2824
+msgid ""
+"After changing slugs go to <strong>Settings > Permalinks</strong> and click "
+"on <strong>Save Changes</strong> button."
+msgstr ""
+
+#: admin/options-init.php:2668 admin/options-init.php:2829
+msgid "Overview - Label"
+msgstr ""
+
+#: admin/options-init.php:2669
+msgid "Label for Overview Team subpage."
+msgstr ""
+
+#: admin/options-init.php:2670 admin/options-init.php:2831
+#: sportspress/single-player.php:53 sportspress/single-team.php:27
+msgid "Overview"
+msgstr ""
+
+#: admin/options-init.php:2675
+msgid "Roster - Label"
+msgstr ""
+
+#: admin/options-init.php:2676
+msgid "Label for Roster Team subpage."
+msgstr ""
+
+#: admin/options-init.php:2682
+msgid "Roster - Slug"
+msgstr ""
+
+#: admin/options-init.php:2683
+msgid "Slug for Roster Team subpage."
+msgstr ""
+
+#: admin/options-init.php:2689
+msgid "Standings - Label"
+msgstr ""
+
+#: admin/options-init.php:2690
+msgid "Label for Standings Team subpage."
+msgstr ""
+
+#: admin/options-init.php:2696
+msgid "Standings - Slug"
+msgstr ""
+
+#: admin/options-init.php:2697
+msgid "Slug for Standings Team subpage."
+msgstr ""
+
+#: admin/options-init.php:2703
+msgid "Latest Results - Label"
+msgstr ""
+
+#: admin/options-init.php:2704
+msgid "Label for Latest Results Team subpage."
+msgstr ""
+
+#: admin/options-init.php:2710
+msgid "Results - Slug"
+msgstr ""
+
+#: admin/options-init.php:2711
+msgid "Slug for Results Team subpage."
+msgstr ""
+
+#: admin/options-init.php:2717
+msgid "Schedule - Label"
+msgstr ""
+
+#: admin/options-init.php:2718
+msgid "Label for Schedule Team subpage."
+msgstr ""
+
+#: admin/options-init.php:2724
+msgid "Schedule - Slug"
+msgstr ""
+
+#: admin/options-init.php:2725
+msgid "Slug for Schedule Team subpage."
+msgstr ""
+
+#: admin/options-init.php:2731 admin/options-init.php:2878
+msgid "Gallery - Label"
+msgstr ""
+
+#: admin/options-init.php:2732
+msgid "Label for Gallery Team subpage."
+msgstr ""
+
+#: admin/options-init.php:2738 admin/options-init.php:2885
+msgid "Gallery - Slug"
+msgstr ""
+
+#: admin/options-init.php:2739
+msgid "Slug for Gallery Team subpage."
+msgstr ""
+
+#: admin/options-init.php:2747 sportspress/event-logos-block.php:588
+#: sportspress/event-performance-table.php:45 sportspress/game-result.php:308
+#: sportspress/single-player.php:389 sportspress/single-player.php:398
+#: sportspress/single-player.php:404 sportspress/single-player.php:410
+#: sportspress/single-player.php:416
+#: sportspress/widgets/widget-alc-featured-player.php:132
+#: vc_templates/alc_event_scoreboard.php:644
+msgid "Player"
+msgstr ""
+
+#: admin/options-init.php:2754
+msgid "Customize Single Player Page Heading Background?"
+msgstr ""
+
+#: admin/options-init.php:2755
+msgid "Turn on to change background image, colors."
+msgstr ""
+
+#: admin/options-init.php:2764
+msgid "Single Player Page Heading Background"
+msgstr ""
+
+#: admin/options-init.php:2770
+msgid "Add Overlay on Single Player Page Heading?"
+msgstr ""
+
+#: admin/options-init.php:2781
+msgid "Single Player Page Heading Overlay"
+msgstr ""
+
+#: admin/options-init.php:2782
+msgid "Adds color or/and image overlay."
+msgstr ""
+
+#: admin/options-init.php:2791
+msgid "Player Info Details Layout"
+msgstr ""
+
+#: admin/options-init.php:2792
+msgid "Select the player info layout displayed in the Page Heading."
+msgstr ""
+
+#: admin/options-init.php:2794
+msgid "Horizontal"
+msgstr ""
+
+#: admin/options-init.php:2795
+msgid "Vertical"
+msgstr ""
+
+#: admin/options-init.php:2802
+msgid "Player Subpages Layout"
+msgstr ""
+
+#: admin/options-init.php:2803
+msgid "Organize Player Subpages order."
+msgstr ""
+
+#: admin/options-init.php:2804
+msgid ""
+"Organize how you want the team subpages to appear on a single player page."
+msgstr ""
+
+#: admin/options-init.php:2808 inc/sp-functions.php:106
+#: sportspress/single-player.php:51
+msgid "Statistics"
+msgstr ""
+
+#: admin/options-init.php:2809 admin/options-init.php:2852
+#: inc/sp-functions.php:106 sportspress/single-player.php:51
+#: sportspress/single-player.php:55
+msgid "Biography"
+msgstr ""
+
+#: admin/options-init.php:2810 admin/options-init.php:2866
+#: inc/sp-functions.php:106 sportspress/single-player.php:51
+#: sportspress/single-player.php:56
+msgid "Related News"
+msgstr ""
+
+#: admin/options-init.php:2830
+msgid "Label for Overview Player subpage."
+msgstr ""
+
+#: admin/options-init.php:2836
+msgid "Statistics - Label"
+msgstr ""
+
+#: admin/options-init.php:2837
+msgid "Label for Statistics Player subpage."
+msgstr ""
+
+#: admin/options-init.php:2838 sportspress/single-player.php:54
+msgid "Full Statistics"
+msgstr ""
+
+#: admin/options-init.php:2843
+msgid "Statistics - Slug"
+msgstr ""
+
+#: admin/options-init.php:2844
+msgid "Slug for Statistics Player subpage."
+msgstr ""
+
+#: admin/options-init.php:2850
+msgid "Biography - Label"
+msgstr ""
+
+#: admin/options-init.php:2851
+msgid "Label for Biography Player subpage."
+msgstr ""
+
+#: admin/options-init.php:2857
+msgid "Biography - Slug"
+msgstr ""
+
+#: admin/options-init.php:2858
+msgid "Slug for Biography Player subpage."
+msgstr ""
+
+#: admin/options-init.php:2864
+msgid "Related News - Label"
+msgstr ""
+
+#: admin/options-init.php:2865
+msgid "Label for Related News Player subpage."
+msgstr ""
+
+#: admin/options-init.php:2871
+msgid "Related News - Slug"
+msgstr ""
+
+#: admin/options-init.php:2872
+msgid "Slug for Related News Player subpage."
+msgstr ""
+
+#: admin/options-init.php:2879
+msgid "Label for Gallery Player subpage."
+msgstr ""
+
+#: admin/options-init.php:2886
+msgid "Slug for Gallery Player subpage."
+msgstr ""
+
+#: admin/options-init.php:2894
+msgid "WooCommerce"
+msgstr ""
+
+#: admin/options-init.php:2902 functions.php:275
+msgid "Shop Sidebar"
+msgstr ""
+
+#: admin/options-init.php:2903
+msgid "Select sidebar position for Shop."
+msgstr ""
+
+#: admin/options-init.php:2920
+msgid "Related Products Columns"
+msgstr ""
+
+#: admin/options-init.php:2921
+msgid "Select the number of columns for the related products"
+msgstr ""
+
+#: admin/options-init.php:2932
+msgid "Related products per page"
+msgstr ""
+
+#: admin/options-init.php:2933
+msgid "Number of products of Related Products."
+msgstr ""
+
+#: admin/options-init.php:2934
+msgid "Change the number of products fore Related Products."
+msgstr ""
+
+#: admin/options-init.php:2942
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/options-init.php:2949
+msgid "CSS Code"
+msgstr ""
+
+#: admin/options-init.php:2950
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: admin/options-init.php:2953
+msgid "Any custom CSS can be added here, it will override the theme CSS."
+msgstr ""
+
+#: admin/options-init.php:2960
+msgid "Import / Export"
+msgstr ""
+
+#: admin/options-init.php:2961
+msgid "Import and Export your theme settings from file, text or URL."
+msgstr ""
+
+#: admin/options-init.php:2977
+msgid "Theme Information"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:393
+#: admin/tgm/class-tgm-plugin-activation.php:912
+#: admin/tgm/class-tgm-plugin-activation.php:2618
+#: admin/tgm/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:394
+#: admin/tgm/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:395
+#: admin/tgm/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1019
+#: admin/tgm/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1206
+#: admin/tgm/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2634 inc/acf-fields.php:446
+#: inc/vc-functions.php:512 inc/vc-functions.php:1229
+msgid "Type"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2639 inc/vc-functions.php:2290
+msgid "Status"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3594
+#: admin/tgm/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s done."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: comments.php:60
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:79
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:80 woocommerce/single-product-reviews.php:74
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:81
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:82
+msgid "Post Your Comment"
+msgstr ""
+
+#: comments.php:86
+msgid "Your Comment"
+msgstr ""
+
+#: comments.php:93
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:101
+msgid "Your Name"
+msgstr ""
+
+#: comments.php:109
+msgid "Email Address"
+msgstr ""
+
+#: functions.php:76 inc/extras.php:350 inc/extras.php:420
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:77 inc/extras.php:351 inc/extras.php:421
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:78 inc/extras.php:352 inc/extras.php:422
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:170
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:172 functions.php:181 functions.php:190 functions.php:199
+#: functions.php:208 functions.php:217
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:179
+msgid "Home - Sidebar 1"
+msgstr ""
+
+#: functions.php:188
+msgid "Home - Sidebar 2"
+msgstr ""
+
+#: functions.php:197
+msgid "Home - Sidebar 3"
+msgstr ""
+
+#: functions.php:206
+msgid "Megamenu Widget Area 1"
+msgstr ""
+
+#: functions.php:215
+msgid "Megamenu Widget Area 2"
+msgstr ""
+
+#: functions.php:226
+msgid "This panel slides from right side and works only on desktop."
+msgstr ""
+
+#: functions.php:233
+msgid "Footer Widget Area 1"
+msgstr ""
+
+#: functions.php:235
+msgid "1st Footer Widget Area."
+msgstr ""
+
+#: functions.php:242
+msgid "Footer Widget Area 2"
+msgstr ""
+
+#: functions.php:244
+msgid "2nd Footer Widget Area"
+msgstr ""
+
+#: functions.php:251
+msgid "Footer Widget Area 3"
+msgstr ""
+
+#: functions.php:253
+msgid "3rd Footer Widget Area"
+msgstr ""
+
+#: functions.php:260
+msgid "Footer Widget Area 4"
+msgstr ""
+
+#: functions.php:262
+msgid "4th Footer Widget Area"
+msgstr ""
+
+#: functions.php:277
+msgid "Shop Sidebar that appears on Shop pages."
+msgstr ""
+
+#: inc/acf-fields.php:18
+msgid "Albums Photos"
+msgstr ""
+
+#: inc/acf-fields.php:22
+msgid "Album Photos"
+msgstr ""
+
+#: inc/acf-fields.php:67
+msgid "Page Options"
+msgstr ""
+
+#: inc/acf-fields.php:74
+msgid "Select Page Heading Type"
+msgstr ""
+
+#: inc/acf-fields.php:86 inc/acf-fields.php:312 inc/acf-fields.php:339
+#: inc/vc-functions.php:407
+msgid "None"
+msgstr ""
+
+#: inc/acf-fields.php:97 inc/acf-fields.php:1673
+msgid "Customize Page Heading?"
+msgstr ""
+
+#: inc/acf-fields.php:100
+msgid "Enables customization options."
+msgstr ""
+
+#: inc/acf-fields.php:124 inc/acf-fields.php:1692
+msgid "Custom Background Image"
+msgstr ""
+
+#: inc/acf-fields.php:156 inc/acf-fields.php:1724
+msgid "Custom Background Color"
+msgstr ""
+
+#: inc/acf-fields.php:179 inc/acf-fields.php:1747
+msgid "Add Overlay?"
+msgstr ""
+
+#: inc/acf-fields.php:206 inc/acf-fields.php:1774
+msgid "Remove Overlay Pattern?"
+msgstr ""
+
+#: inc/acf-fields.php:238 inc/acf-fields.php:1806
+msgid "Custom Overlay Color"
+msgstr ""
+
+#: inc/acf-fields.php:266 inc/acf-fields.php:1834
+msgid "Custom Overlay Opacity"
+msgstr ""
+
+#: inc/acf-fields.php:299
+msgid "Content Top Padding"
+msgstr ""
+
+#: inc/acf-fields.php:311 inc/acf-fields.php:338 inc/vc-functions.php:553
+#: inc/vc-functions.php:1242 inc/vc-functions.php:1516
+#: inc/vc-functions.php:1537 inc/vc-functions.php:2313
+#: inc/vc-functions.php:2439 inc/vc-functions.php:2517
+#: inc/vc-functions.php:2640 inc/vc-functions.php:2658
+#: inc/vc-functions.php:2842 inc/vc-functions.php:2899
+#: inc/vc-functions.php:3194
+#: sportspress/widgets/widget-alc-event-block.php:147
+#: sportspress/widgets/widget-alc-event-block.php:161
+#: sportspress/widgets/widget-alc-event-block.php:185
+#: sportspress/widgets/widget-alc-game-result.php:186
+msgid "Default"
+msgstr ""
+
+#: inc/acf-fields.php:326
+msgid "Content Bottom Padding"
+msgstr ""
+
+#: inc/acf-fields.php:380
+msgid "Player Bio"
+msgstr ""
+
+#: inc/acf-fields.php:384
+msgid "Player Image"
+msgstr ""
+
+#: inc/acf-fields.php:408
+msgid "Player Bio Content"
+msgstr ""
+
+#: inc/acf-fields.php:427
+msgid "Player Bio Events"
+msgstr ""
+
+#: inc/acf-fields.php:442
+msgid "Add Event"
+msgstr ""
+
+#: inc/acf-fields.php:458 inc/vc-functions.php:516
+msgid "Injury"
+msgstr ""
+
+#: inc/acf-fields.php:459 inc/vc-functions.php:517
+msgid "Join"
+msgstr ""
+
+#: inc/acf-fields.php:460 inc/vc-functions.php:519
+msgid "Award"
+msgstr ""
+
+#: inc/acf-fields.php:531
+msgid "Player Heading Photo"
+msgstr ""
+
+#: inc/acf-fields.php:535
+msgid "Alternative Photo"
+msgstr ""
+
+#: inc/acf-fields.php:538
+msgid "This photo displayed in the Page Header and Featured Player widgets."
+msgstr ""
+
+#: inc/acf-fields.php:579
+msgid "Product Options"
+msgstr ""
+
+#: inc/acf-fields.php:583
+msgid "Product Gradient Color 1"
+msgstr ""
+
+#: inc/acf-fields.php:598
+msgid "Product Gradient Color 2"
+msgstr ""
+
+#: inc/acf-fields.php:633
+msgid "Team Gallery"
+msgstr ""
+
+#: inc/acf-fields.php:637
+msgid "Albums"
+msgstr ""
+
+#: inc/acf-fields.php:684 inc/acf-fields.php:925 inc/acf-fields.php:1196
+msgid "Team Roster"
+msgstr ""
+
+#: inc/acf-fields.php:688 inc/acf-fields.php:929 inc/acf-fields.php:1200
+msgid "Featured Gallery Roster"
+msgstr ""
+
+#: inc/acf-fields.php:707 inc/acf-fields.php:948 inc/acf-fields.php:1219
+msgid "Select Gallery Roster"
+msgstr ""
+
+#: inc/acf-fields.php:738 inc/acf-fields.php:979 inc/acf-fields.php:1250
+msgid "Gallery Roster Type"
+msgstr ""
+
+#: inc/acf-fields.php:758 inc/acf-fields.php:999 inc/acf-fields.php:1270
+#: inc/vc-functions.php:554
+msgid "Grid"
+msgstr ""
+
+#: inc/acf-fields.php:759 inc/acf-fields.php:1000
+#: sportspress/single-team/content-roster.php:521
+#: vc_templates/alc_player_stats.php:494
+msgid "Blocks"
+msgstr ""
+
+#: inc/acf-fields.php:760 inc/acf-fields.php:1001 inc/acf-fields.php:1271
+msgid "Slider"
+msgstr ""
+
+#: inc/acf-fields.php:761
+msgid "Cards"
+msgstr ""
+
+#: inc/acf-fields.php:775 inc/acf-fields.php:1015 inc/acf-fields.php:1285
+msgid "Slider Autoplay"
+msgstr ""
+
+#: inc/acf-fields.php:802 inc/acf-fields.php:1074 inc/acf-fields.php:1344
+msgid "List Roster"
+msgstr ""
+
+#: inc/acf-fields.php:821 inc/acf-fields.php:1093 inc/acf-fields.php:1363
+msgid "Select List Roster"
+msgstr ""
+
+#: inc/acf-fields.php:852 inc/acf-fields.php:1124 inc/acf-fields.php:1394
+#: sportspress/single-team/content-roster.php:165
+#: sportspress/single-team/content-roster.php:410
+msgid "Featured Player"
+msgstr ""
+
+#: inc/acf-fields.php:871 inc/acf-fields.php:1143 inc/acf-fields.php:1413
+msgid "Select Featured Player"
+msgstr ""
+
+#: inc/acf-fields.php:1042 inc/acf-fields.php:1312
+msgid "Slider Custom Background Image"
+msgstr ""
+
+#: inc/acf-fields.php:1464
+msgid "Team Standings"
+msgstr ""
+
+#: inc/acf-fields.php:1468
+msgid "Team Leagues"
+msgstr ""
+
+#: inc/acf-fields.php:1471
+msgid "Select Leagues you want to display on Team Standings page."
+msgstr ""
+
+#: inc/acf-fields.php:1511
+msgid "Player Gallery"
+msgstr ""
+
+#: inc/acf-fields.php:1515 inc/vc-functions.php:390
+msgid "Images"
+msgstr ""
+
+#: inc/acf-fields.php:1560
+msgid "Player Related News"
+msgstr ""
+
+#: inc/acf-fields.php:1564
+msgid "Post Tags"
+msgstr ""
+
+#: inc/acf-fields.php:1567
+msgid "Selected Posts tag that are related to the Player."
+msgstr ""
+
+#: inc/acf-fields.php:1589
+msgid "Enter number of displayed Posts."
+msgstr ""
+
+#: inc/acf-fields.php:1627
+msgid "Player Header"
+msgstr ""
+
+#: inc/acf-fields.php:1631
+msgid "Player List"
+msgstr ""
+
+#: inc/acf-fields.php:1634
+msgid "Select Player List for statistics comparing."
+msgstr ""
+
+#: inc/acf-fields.php:1654
+msgid "Show Advanced Stats?"
+msgstr ""
+
+#: inc/acf-fields.php:1657
+msgid "Progress bars, radar charts etc."
+msgstr ""
+
+#: inc/acf-fields.php:1891
+msgid "Post Layout"
+msgstr ""
+
+#: inc/acf-fields.php:1894
+msgid "This option overrides the general post layout."
+msgstr ""
+
+#: inc/acf-fields.php:1903
+msgid "Post Layout 1"
+msgstr ""
+
+#: inc/acf-fields.php:1904
+msgid "Post Layout 2"
+msgstr ""
+
+#: inc/acf-fields.php:1905
+msgid "Post Layout 3"
+msgstr ""
+
+#: inc/extras.php:95
+msgctxt "Montserrat: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/extras.php:101
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/extras.php:285
+msgid "To view this protected post, enter the password below:"
+msgstr ""
+
+#: inc/extras.php:286
+msgid "Password:"
+msgstr ""
+
+#: inc/extras.php:286
+msgid "Submit"
+msgstr ""
+
+#: inc/sp-functions.php:375 inc/vc-functions.php:2958
+msgid "avg"
+msgstr ""
+
+#: inc/sp-functions.php:377
+msgid "per game"
+msgstr ""
+
+#: inc/template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:33
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:261
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: inc/template-tags.php:263
+msgid "(Edit)"
+msgstr ""
+
+#: inc/template-tags.php:271
+msgid "Reply"
+msgstr ""
+
+#: inc/template-tags.php:282
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/vc-functions.php:353 sportspress/widgets/widget-alc-event-block.php:187
+#: template-parts/post-filter.php:78
+msgid "Descending"
+msgstr ""
+
+#: inc/vc-functions.php:354 sportspress/widgets/widget-alc-event-block.php:186
+#: template-parts/post-filter.php:79
+msgid "Ascending"
+msgstr ""
+
+#: inc/vc-functions.php:375
+msgid "ALC: Awards Carousel"
+msgstr ""
+
+#: inc/vc-functions.php:378 inc/vc-functions.php:462 inc/vc-functions.php:504
+#: inc/vc-functions.php:545 inc/vc-functions.php:644 inc/vc-functions.php:792
+#: inc/vc-functions.php:939 inc/vc-functions.php:1056
+#: inc/vc-functions.php:1211 inc/vc-functions.php:1310
+#: inc/vc-functions.php:1602 inc/vc-functions.php:1658
+#: inc/vc-functions.php:1701 inc/vc-functions.php:1778
+#: inc/vc-functions.php:1886 inc/vc-functions.php:2270
+#: inc/vc-functions.php:2338 inc/vc-functions.php:2424
+#: inc/vc-functions.php:2502 inc/vc-functions.php:2625
+#: inc/vc-functions.php:2730 inc/vc-functions.php:2828
+#: inc/vc-functions.php:2884 inc/vc-functions.php:3147
+#: inc/vc-functions.php:3251 inc/vc-functions.php:3289
+#: inc/vc-functions.php:3339
+msgid "ALC"
+msgstr ""
+
+#: inc/vc-functions.php:379
+msgid "Animated carousel with images."
+msgstr ""
+
+#: inc/vc-functions.php:383 inc/vc-functions.php:471 inc/vc-functions.php:649
+#: inc/vc-functions.php:797 inc/vc-functions.php:1667
+#: inc/vc-functions.php:2343 inc/vc-functions.php:2429
+#: inc/vc-functions.php:2507 inc/vc-functions.php:2630
+#: inc/vc-functions.php:2735 inc/vc-functions.php:2833
+#: inc/vc-functions.php:2889 inc/vc-functions.php:3152
+msgid "Widget title"
+msgstr ""
+
+#: inc/vc-functions.php:385 inc/vc-functions.php:473 inc/vc-functions.php:651
+#: inc/vc-functions.php:799 inc/vc-functions.php:1669
+#: inc/vc-functions.php:2345 inc/vc-functions.php:2431
+#: inc/vc-functions.php:2509 inc/vc-functions.php:2632
+#: inc/vc-functions.php:2737 inc/vc-functions.php:2835
+#: inc/vc-functions.php:2891 inc/vc-functions.php:3154
+msgid "Enter text used as widget title (Note: located above content element)."
+msgstr ""
+
+#: inc/vc-functions.php:393
+msgid "Select images from media library."
+msgstr ""
+
+#: inc/vc-functions.php:397
+msgid "Carousel size"
+msgstr ""
+
+#: inc/vc-functions.php:400
+msgid ""
+"Enter image size. Example: thumbnail, medium, large, full or other sizes "
+"defined by current theme. Alternatively enter image size in pixels: 200x100 "
+"(Width x Height). Leave empty to use \"thumbnail\" size. If used slides per "
+"view, this will be used to define carousel wrapper size."
+msgstr ""
+
+#: inc/vc-functions.php:404
+msgid "On click action"
+msgstr ""
+
+#: inc/vc-functions.php:408
+msgid "Open custom links"
+msgstr ""
+
+#: inc/vc-functions.php:410
+msgid "Select action for click event."
+msgstr ""
+
+#: inc/vc-functions.php:414
+msgid "Custom links"
+msgstr ""
+
+#: inc/vc-functions.php:416
+msgid ""
+"Enter links for each slide (Note: divide links with linebreaks (Enter))."
+msgstr ""
+
+#: inc/vc-functions.php:424
+msgid "Custom link target"
+msgstr ""
+
+#: inc/vc-functions.php:426
+msgid "Select how to open custom links."
+msgstr ""
+
+#: inc/vc-functions.php:436 inc/vc-functions.php:479 inc/vc-functions.php:618
+#: inc/vc-functions.php:766 inc/vc-functions.php:913 inc/vc-functions.php:1030
+#: inc/vc-functions.php:1186 inc/vc-functions.php:1290
+#: inc/vc-functions.php:1576 inc/vc-functions.php:1632
+#: inc/vc-functions.php:1675 inc/vc-functions.php:1753
+#: inc/vc-functions.php:1861 inc/vc-functions.php:1944
+#: inc/vc-functions.php:2398 inc/vc-functions.php:2476
+#: inc/vc-functions.php:2600 inc/vc-functions.php:2704
+#: inc/vc-functions.php:2802 inc/vc-functions.php:2856
+#: inc/vc-functions.php:3122 inc/vc-functions.php:3226
+#: inc/vc-functions.php:3264 inc/vc-functions.php:3313
+#: inc/vc-functions.php:3353
+msgid "Element ID"
+msgstr ""
+
+#: inc/vc-functions.php:438 inc/vc-functions.php:481 inc/vc-functions.php:620
+#: inc/vc-functions.php:768 inc/vc-functions.php:915 inc/vc-functions.php:1032
+#: inc/vc-functions.php:1188 inc/vc-functions.php:1292
+#: inc/vc-functions.php:1578 inc/vc-functions.php:1634
+#: inc/vc-functions.php:1677 inc/vc-functions.php:1755
+#: inc/vc-functions.php:1863 inc/vc-functions.php:1946
+#: inc/vc-functions.php:2400 inc/vc-functions.php:2478
+#: inc/vc-functions.php:2602 inc/vc-functions.php:2706
+#: inc/vc-functions.php:2804 inc/vc-functions.php:2858
+#: inc/vc-functions.php:3124 inc/vc-functions.php:3228
+#: inc/vc-functions.php:3266 inc/vc-functions.php:3315
+#: inc/vc-functions.php:3355
+msgid "Enter element ID (Note: make sure it is unique and valid."
+msgstr ""
+
+#: inc/vc-functions.php:442 inc/vc-functions.php:485 inc/vc-functions.php:624
+#: inc/vc-functions.php:772 inc/vc-functions.php:919 inc/vc-functions.php:1036
+#: inc/vc-functions.php:1192 inc/vc-functions.php:1296
+#: inc/vc-functions.php:1582 inc/vc-functions.php:1638
+#: inc/vc-functions.php:1681 inc/vc-functions.php:1759
+#: inc/vc-functions.php:1867 inc/vc-functions.php:1950
+#: inc/vc-functions.php:2404 inc/vc-functions.php:2482
+#: inc/vc-functions.php:2606 inc/vc-functions.php:2710
+#: inc/vc-functions.php:2808 inc/vc-functions.php:2862
+#: inc/vc-functions.php:3128 inc/vc-functions.php:3232
+#: inc/vc-functions.php:3270 inc/vc-functions.php:3319
+#: inc/vc-functions.php:3359
+msgid "Extra class name"
+msgstr ""
+
+#: inc/vc-functions.php:444 inc/vc-functions.php:487 inc/vc-functions.php:626
+#: inc/vc-functions.php:774 inc/vc-functions.php:921 inc/vc-functions.php:1038
+#: inc/vc-functions.php:1194 inc/vc-functions.php:1298
+#: inc/vc-functions.php:1584 inc/vc-functions.php:1640
+#: inc/vc-functions.php:1683 inc/vc-functions.php:1761
+#: inc/vc-functions.php:1869 inc/vc-functions.php:1952
+#: inc/vc-functions.php:2406 inc/vc-functions.php:2484
+#: inc/vc-functions.php:2608 inc/vc-functions.php:2712
+#: inc/vc-functions.php:2810 inc/vc-functions.php:2864
+#: inc/vc-functions.php:3130 inc/vc-functions.php:3234
+#: inc/vc-functions.php:3272 inc/vc-functions.php:3321
+#: inc/vc-functions.php:3361
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: inc/vc-functions.php:448 inc/vc-functions.php:491 inc/vc-functions.php:630
+#: inc/vc-functions.php:778 inc/vc-functions.php:925 inc/vc-functions.php:1042
+#: inc/vc-functions.php:1198 inc/vc-functions.php:1588
+#: inc/vc-functions.php:1644 inc/vc-functions.php:1687
+#: inc/vc-functions.php:1765 inc/vc-functions.php:1873
+#: inc/vc-functions.php:1956 inc/vc-functions.php:2410
+#: inc/vc-functions.php:2488 inc/vc-functions.php:2612
+#: inc/vc-functions.php:2716 inc/vc-functions.php:2814
+#: inc/vc-functions.php:2868 inc/vc-functions.php:3134
+#: inc/vc-functions.php:3238 inc/vc-functions.php:3276
+#: inc/vc-functions.php:3325 inc/vc-functions.php:3365
+msgid "CSS box"
+msgstr ""
+
+#: inc/vc-functions.php:450 inc/vc-functions.php:493 inc/vc-functions.php:632
+#: inc/vc-functions.php:780 inc/vc-functions.php:927 inc/vc-functions.php:1044
+#: inc/vc-functions.php:1200 inc/vc-functions.php:1590
+#: inc/vc-functions.php:1646 inc/vc-functions.php:1689
+#: inc/vc-functions.php:1767 inc/vc-functions.php:1875
+#: inc/vc-functions.php:1958 inc/vc-functions.php:2412
+#: inc/vc-functions.php:2490 inc/vc-functions.php:2614
+#: inc/vc-functions.php:2718 inc/vc-functions.php:2816
+#: inc/vc-functions.php:2870 inc/vc-functions.php:3136
+#: inc/vc-functions.php:3240 inc/vc-functions.php:3278
+#: inc/vc-functions.php:3327 inc/vc-functions.php:3367
+msgid "Design Options"
+msgstr ""
+
+#: inc/vc-functions.php:459
+msgid "ALC: Newslog Static"
+msgstr ""
+
+#: inc/vc-functions.php:467
+msgid "A list of items."
+msgstr ""
+
+#: inc/vc-functions.php:501
+msgid "ALC: Newslog Item"
+msgstr ""
+
+#: inc/vc-functions.php:508
+msgid "An item for log list."
+msgstr ""
+
+#: inc/vc-functions.php:514
+msgid "Select type of item"
+msgstr ""
+
+#: inc/vc-functions.php:518
+msgid "Exit"
+msgstr ""
+
+#: inc/vc-functions.php:526 inc/vc-functions.php:1324
+msgid "Your description goes here"
+msgstr ""
+
+#: inc/vc-functions.php:527
+msgid "Enter a short text about event."
+msgstr ""
+
+#: inc/vc-functions.php:533
+msgid "Enter a date in any format."
+msgstr ""
+
+#: inc/vc-functions.php:542
+msgid "ALC: Social Buttons"
+msgstr ""
+
+#: inc/vc-functions.php:546
+msgid "A block with social buttons."
+msgstr ""
+
+#: inc/vc-functions.php:550
+msgid "Layout Style"
+msgstr ""
+
+#: inc/vc-functions.php:555
+msgid "Columns"
+msgstr ""
+
+#: inc/vc-functions.php:557
+msgid "Select style for social buttons."
+msgstr ""
+
+#: inc/vc-functions.php:562
+msgid "Buttons"
+msgstr ""
+
+#: inc/vc-functions.php:566 inc/vc-functions.php:570 inc/vc-functions.php:2535
+#: inc/vc-functions.php:2539 inc/vc-functions.php:2543
+#: inc/vc-functions.php:2547 inc/vc-functions.php:2753
+#: inc/vc-functions.php:2757 inc/vc-functions.php:2933
+#: inc/vc-functions.php:2937 inc/vc-functions.php:2941
+#: inc/vc-functions.php:3009 inc/vc-functions.php:3013
+#: inc/vc-functions.php:3082 inc/vc-functions.php:3086
+#: inc/vc-functions.php:3090
+msgid "Select Statistic"
+msgstr ""
+
+#: inc/vc-functions.php:580 inc/vc-functions.php:1909
+msgid "Title goes here"
+msgstr ""
+
+#: inc/vc-functions.php:581 inc/vc-functions.php:1910
+msgid "Enter short title."
+msgstr ""
+
+#: inc/vc-functions.php:589
+msgid "Follow Me"
+msgstr ""
+
+#: inc/vc-functions.php:590 inc/vc-functions.php:1919
+msgid "Enter short subtitle."
+msgstr ""
+
+#: inc/vc-functions.php:595 inc/vc-functions.php:1924
+msgid "URL"
+msgstr ""
+
+#: inc/vc-functions.php:598
+msgid "Enter URL to your social account."
+msgstr ""
+
+#: inc/vc-functions.php:602
+msgid "Social Network"
+msgstr ""
+
+#: inc/vc-functions.php:611
+msgid "Select social network"
+msgstr ""
+
+#: inc/vc-functions.php:641
+msgid "ALC: Post Loop"
+msgstr ""
+
+#: inc/vc-functions.php:645
+msgid "Posts in grid, list etc."
+msgstr ""
+
+#: inc/vc-functions.php:656 inc/vc-functions.php:2377
+#: inc/vc-functions.php:2849
+msgid "Button URL (Link)"
+msgstr ""
+
+#: inc/vc-functions.php:658
+msgid "Add button to header."
+msgstr ""
+
+#: inc/vc-functions.php:662 inc/vc-functions.php:1783
+msgid "Layout"
+msgstr ""
+
+#: inc/vc-functions.php:665
+msgid "Cards 2 cols"
+msgstr ""
+
+#: inc/vc-functions.php:666
+msgid "List - Card"
+msgstr ""
+
+#: inc/vc-functions.php:667
+msgid "List - Left Thumb"
+msgstr ""
+
+#: inc/vc-functions.php:668
+msgid "List - Center Thumb"
+msgstr ""
+
+#: inc/vc-functions.php:669
+msgid "List - Simple"
+msgstr ""
+
+#: inc/vc-functions.php:670
+msgid "List - Simple (1st Post Extented)"
+msgstr ""
+
+#: inc/vc-functions.php:671
+msgid "List - Simple Horizontal"
+msgstr ""
+
+#: inc/vc-functions.php:672
+msgid "List - Small Thumb"
+msgstr ""
+
+#: inc/vc-functions.php:673
+msgid "Cards - Masonry"
+msgstr ""
+
+#: inc/vc-functions.php:675 inc/vc-functions.php:810
+msgid "Select Post Layout"
+msgstr ""
+
+#: inc/vc-functions.php:699 inc/vc-functions.php:834 inc/vc-functions.php:971
+#: inc/vc-functions.php:1815
+msgid "Filter posts by categories."
+msgstr ""
+
+#: inc/vc-functions.php:723
+msgid "Filter posts by tags."
+msgstr ""
+
+#: inc/vc-functions.php:727 inc/vc-functions.php:851 inc/vc-functions.php:944
+#: inc/vc-functions.php:1830
+msgid "Items per page"
+msgstr ""
+
+#: inc/vc-functions.php:729 inc/vc-functions.php:853 inc/vc-functions.php:946
+#: inc/vc-functions.php:1834
+msgid "Number of items to show per page."
+msgstr ""
+
+#: inc/vc-functions.php:734 inc/vc-functions.php:858 inc/vc-functions.php:975
+#: inc/vc-functions.php:1838
+msgid "Offset"
+msgstr ""
+
+#: inc/vc-functions.php:736 inc/vc-functions.php:860 inc/vc-functions.php:977
+#: inc/vc-functions.php:1840
+msgid "Number of post to displace or pass over."
+msgstr ""
+
+#: inc/vc-functions.php:743 inc/vc-functions.php:751 inc/vc-functions.php:867
+#: inc/vc-functions.php:875 inc/vc-functions.php:984 inc/vc-functions.php:992
+#: inc/vc-functions.php:1847 inc/vc-functions.php:1855
+msgid "Sort retrieved posts."
+msgstr ""
+
+#: inc/vc-functions.php:756 inc/vc-functions.php:1108
+msgid "Disable Excerpt?"
+msgstr ""
+
+#: inc/vc-functions.php:761 inc/vc-functions.php:1114
+msgid "If checked Excerpt will be hidden."
+msgstr ""
+
+#: inc/vc-functions.php:789
+msgid "ALC: Post Slider"
+msgstr ""
+
+#: inc/vc-functions.php:793
+msgid "Animated filtered posts slider."
+msgstr ""
+
+#: inc/vc-functions.php:804
+msgid "Slides to show"
+msgstr ""
+
+#: inc/vc-functions.php:807
+msgid "1 Slide"
+msgstr ""
+
+#: inc/vc-functions.php:808
+msgid "4 Slides"
+msgstr ""
+
+#: inc/vc-functions.php:841
+msgid "Add Categories Filter?"
+msgstr ""
+
+#: inc/vc-functions.php:847
+msgid "This filter will be shown if categories selected."
+msgstr ""
+
+#: inc/vc-functions.php:880 inc/vc-functions.php:997
+msgid "Autoplay?"
+msgstr ""
+
+#: inc/vc-functions.php:881 inc/vc-functions.php:891 inc/vc-functions.php:903
+#: inc/vc-functions.php:998 inc/vc-functions.php:1008
+#: inc/vc-functions.php:1020
+msgid "Options"
+msgstr ""
+
+#: inc/vc-functions.php:886 inc/vc-functions.php:1003
+msgid "Automatically starts animating."
+msgstr ""
+
+#: inc/vc-functions.php:893 inc/vc-functions.php:1010
+msgid "Autoplay Speed."
+msgstr ""
+
+#: inc/vc-functions.php:902 inc/vc-functions.php:1019
+msgid "Prev/Nav Arrows?"
+msgstr ""
+
+#: inc/vc-functions.php:908 inc/vc-functions.php:1025
+msgid "Show next/prev buttons."
+msgstr ""
+
+#: inc/vc-functions.php:936
+msgid "ALC: Post Carousel"
+msgstr ""
+
+#: inc/vc-functions.php:940
+msgid "Animated filtered posts carousel."
+msgstr ""
+
+#: inc/vc-functions.php:1053
+msgid "ALC: Featured Post"
+msgstr ""
+
+#: inc/vc-functions.php:1057
+msgid "A single post as a banner."
+msgstr ""
+
+#: inc/vc-functions.php:1061 inc/vc-functions.php:1607
+#: inc/vc-functions.php:2905
+msgid "Style"
+msgstr ""
+
+#: inc/vc-functions.php:1064
+#: sportspress/widgets/widget-alc-featured-player.php:152
+msgid "Style 1"
+msgstr ""
+
+#: inc/vc-functions.php:1065
+#: sportspress/widgets/widget-alc-featured-player.php:153
+msgid "Style 2"
+msgstr ""
+
+#: inc/vc-functions.php:1067
+msgid "Select Post Style."
+msgstr ""
+
+#: inc/vc-functions.php:1071
+msgid "Post"
+msgstr ""
+
+#: inc/vc-functions.php:1074
+msgid "Select a post to display."
+msgstr ""
+
+#: inc/vc-functions.php:1079 inc/vc-functions.php:1745
+msgid "Image"
+msgstr ""
+
+#: inc/vc-functions.php:1082 inc/vc-functions.php:1748
+msgid "Select image from media library."
+msgstr ""
+
+#: inc/vc-functions.php:1090
+msgid "Disable Categories?"
+msgstr ""
+
+#: inc/vc-functions.php:1091 inc/vc-functions.php:1101
+#: inc/vc-functions.php:1109 inc/vc-functions.php:1119
+#: inc/vc-functions.php:1131 inc/vc-functions.php:1143
+#: inc/vc-functions.php:1153 inc/vc-functions.php:1164
+#: inc/vc-functions.php:1174
+msgid "Customize"
+msgstr ""
+
+#: inc/vc-functions.php:1096
+msgid "If checked categories label(s) will be hidden."
+msgstr ""
+
+#: inc/vc-functions.php:1100
+msgid "Custom Title"
+msgstr ""
+
+#: inc/vc-functions.php:1103
+msgid "Enter your custom title here."
+msgstr ""
+
+#: inc/vc-functions.php:1118
+msgid "Excerpt Size (in words)"
+msgstr ""
+
+#: inc/vc-functions.php:1121
+msgid "Enter the number of words for Excerpt."
+msgstr ""
+
+#: inc/vc-functions.php:1130
+msgid "Custom Excerpt"
+msgstr ""
+
+#: inc/vc-functions.php:1133
+msgid "Enter your custom excerpt here."
+msgstr ""
+
+#: inc/vc-functions.php:1142
+msgid "Disable Button?"
+msgstr ""
+
+#: inc/vc-functions.php:1148
+msgid "If checked button will be hidden."
+msgstr ""
+
+#: inc/vc-functions.php:1152
+msgid "Custom Button"
+msgstr ""
+
+#: inc/vc-functions.php:1155
+msgid "Custom button link and label."
+msgstr ""
+
+#: inc/vc-functions.php:1163
+msgid "Disable Date?"
+msgstr ""
+
+#: inc/vc-functions.php:1169
+msgid "If checked date will be hidden."
+msgstr ""
+
+#: inc/vc-functions.php:1173
+msgid "Custom Date/Subtitle"
+msgstr ""
+
+#: inc/vc-functions.php:1176
+msgid "Enter your custom date/subtitle here."
+msgstr ""
+
+#: inc/vc-functions.php:1208
+msgid "ALC: Button"
+msgstr ""
+
+#: inc/vc-functions.php:1212
+msgid "Simple button."
+msgstr ""
+
+#: inc/vc-functions.php:1216
+msgid "Text"
+msgstr ""
+
+#: inc/vc-functions.php:1218
+msgid "Text on the button"
+msgstr ""
+
+#: inc/vc-functions.php:1223 inc/vc-functions.php:1329
+msgid "URL (Link)"
+msgstr ""
+
+#: inc/vc-functions.php:1225
+msgid "Add link to button."
+msgstr ""
+
+#: inc/vc-functions.php:1232
+msgid "Fill"
+msgstr ""
+
+#: inc/vc-functions.php:1233
+msgid "Outline"
+msgstr ""
+
+#: inc/vc-functions.php:1235
+msgid "Select button type."
+msgstr ""
+
+#: inc/vc-functions.php:1239
+msgid "Color"
+msgstr ""
+
+#: inc/vc-functions.php:1244
+msgid "Primary Inverse"
+msgstr ""
+
+#: inc/vc-functions.php:1245 inc/vc-functions.php:1610
+msgid "Success"
+msgstr ""
+
+#: inc/vc-functions.php:1246 inc/vc-functions.php:1611
+msgid "Info"
+msgstr ""
+
+#: inc/vc-functions.php:1247 inc/vc-functions.php:1612
+msgid "Warning"
+msgstr ""
+
+#: inc/vc-functions.php:1248 inc/vc-functions.php:1613
+msgid "Danger"
+msgstr ""
+
+#: inc/vc-functions.php:1250
+msgid "Select button color style."
+msgstr ""
+
+#: inc/vc-functions.php:1254
+msgid "Size"
+msgstr ""
+
+#: inc/vc-functions.php:1257 inc/vc-functions.php:1557
+#: inc/widgets/widget-recent-posts.php:263
+msgid "Large"
+msgstr ""
+
+#: inc/vc-functions.php:1258 inc/vc-functions.php:1558
+msgid "Medium"
+msgstr ""
+
+#: inc/vc-functions.php:1259 inc/widgets/widget-recent-posts.php:262
+msgid "Small"
+msgstr ""
+
+#: inc/vc-functions.php:1260
+msgid "Extra Small"
+msgstr ""
+
+#: inc/vc-functions.php:1262
+msgid "Select button size."
+msgstr ""
+
+#: inc/vc-functions.php:1268
+msgid "Select button alignment."
+msgstr ""
+
+#: inc/vc-functions.php:1270
+msgid "Inline"
+msgstr ""
+
+#: inc/vc-functions.php:1280
+msgid "Set full width button?"
+msgstr ""
+
+#: inc/vc-functions.php:1307
+msgid "ALC: Icobox"
+msgstr ""
+
+#: inc/vc-functions.php:1311
+msgid "Block with icon and text."
+msgstr ""
+
+#: inc/vc-functions.php:1317
+msgid "Title of the box"
+msgstr ""
+
+#: inc/vc-functions.php:1325
+msgid "Enter a short text here."
+msgstr ""
+
+#: inc/vc-functions.php:1331
+msgid "Add link to the box."
+msgstr ""
+
+#: inc/vc-functions.php:1337
+msgid "Select box alignment."
+msgstr ""
+
+#: inc/vc-functions.php:1346
+msgid "Icon library"
+msgstr ""
+
+#: inc/vc-functions.php:1348
+msgid "Font Awesome"
+msgstr ""
+
+#: inc/vc-functions.php:1349
+msgid "Open Iconic"
+msgstr ""
+
+#: inc/vc-functions.php:1350
+msgid "Typicons"
+msgstr ""
+
+#: inc/vc-functions.php:1351
+msgid "Entypo"
+msgstr ""
+
+#: inc/vc-functions.php:1352
+msgid "Linecons"
+msgstr ""
+
+#: inc/vc-functions.php:1353
+msgid "Mono Social"
+msgstr ""
+
+#: inc/vc-functions.php:1354
+msgid "Material"
+msgstr ""
+
+#: inc/vc-functions.php:1355
+msgid "SimpleLine"
+msgstr ""
+
+#: inc/vc-functions.php:1359
+msgid "Select icon library."
+msgstr ""
+
+#: inc/vc-functions.php:1363 inc/vc-functions.php:1381
+#: inc/vc-functions.php:1400 inc/vc-functions.php:1419
+#: inc/vc-functions.php:1437 inc/vc-functions.php:1456
+#: inc/vc-functions.php:1475 inc/vc-functions.php:1494
+#: inc/vc-functions.php:2571
+msgid "Icon"
+msgstr ""
+
+#: inc/vc-functions.php:1377 inc/vc-functions.php:1396
+#: inc/vc-functions.php:1415 inc/vc-functions.php:1452
+#: inc/vc-functions.php:1471 inc/vc-functions.php:1490
+#: inc/vc-functions.php:1509
+msgid "Select icon from library."
+msgstr ""
+
+#: inc/vc-functions.php:1513
+msgid "Icon Holder Color"
+msgstr ""
+
+#: inc/vc-functions.php:1518 inc/vc-functions.php:1538
+msgid "Custom"
+msgstr ""
+
+#: inc/vc-functions.php:1520
+msgid "Select icon holder color."
+msgstr ""
+
+#: inc/vc-functions.php:1524
+msgid "Custom Icon Holder Color"
+msgstr ""
+
+#: inc/vc-functions.php:1526
+msgid "Select custom icon holder color."
+msgstr ""
+
+#: inc/vc-functions.php:1534
+msgid "Icon Color"
+msgstr ""
+
+#: inc/vc-functions.php:1540
+msgid "Select icon color."
+msgstr ""
+
+#: inc/vc-functions.php:1544
+msgid "Custom Icon Color"
+msgstr ""
+
+#: inc/vc-functions.php:1546
+msgid "Select custom icon color."
+msgstr ""
+
+#: inc/vc-functions.php:1554
+msgid "Icon Holder Size"
+msgstr ""
+
+#: inc/vc-functions.php:1560
+msgid "Select box size."
+msgstr ""
+
+#: inc/vc-functions.php:1564
+msgid "Icon Holder Shape"
+msgstr ""
+
+#: inc/vc-functions.php:1567
+msgid "Circle"
+msgstr ""
+
+#: inc/vc-functions.php:1568
+msgid "Rounded"
+msgstr ""
+
+#: inc/vc-functions.php:1569
+msgid "Square"
+msgstr ""
+
+#: inc/vc-functions.php:1571
+msgid "Select box shape."
+msgstr ""
+
+#: inc/vc-functions.php:1599
+msgid "ALC: Alert"
+msgstr ""
+
+#: inc/vc-functions.php:1603
+msgid "Simple Alert block."
+msgstr ""
+
+#: inc/vc-functions.php:1615
+msgid "Select style type."
+msgstr ""
+
+#: inc/vc-functions.php:1619
+msgid "Message text"
+msgstr ""
+
+#: inc/vc-functions.php:1621
+msgid "I am message box. Click edit button to change this text."
+msgstr ""
+
+#: inc/vc-functions.php:1626
+msgid "Dismissible?"
+msgstr ""
+
+#: inc/vc-functions.php:1655
+msgid "ALC: Box"
+msgstr ""
+
+#: inc/vc-functions.php:1659
+msgid "A simple box."
+msgstr ""
+
+#: inc/vc-functions.php:1698
+msgid "ALC: Woo Banner"
+msgstr ""
+
+#: inc/vc-functions.php:1702
+msgid "A simple banner."
+msgstr ""
+
+#: inc/vc-functions.php:1708
+msgid "Enter a short title."
+msgstr ""
+
+#: inc/vc-functions.php:1715 inc/vc-functions.php:1721
+msgid "Enter a short subtitle."
+msgstr ""
+
+#: inc/vc-functions.php:1719
+msgid "Subtitle - Secondary"
+msgstr ""
+
+#: inc/vc-functions.php:1725
+msgid "Button"
+msgstr ""
+
+#: inc/vc-functions.php:1727
+msgid "Add link to the button."
+msgstr ""
+
+#: inc/vc-functions.php:1731
+msgid "Discount Text"
+msgstr ""
+
+#: inc/vc-functions.php:1733
+msgid "Enter a short text."
+msgstr ""
+
+#: inc/vc-functions.php:1734
+msgid "Only"
+msgstr ""
+
+#: inc/vc-functions.php:1738
+msgid "Discount Price"
+msgstr ""
+
+#: inc/vc-functions.php:1740
+msgid "Enter your price."
+msgstr ""
+
+#: inc/vc-functions.php:1775
+msgid "ALC: Albums"
+msgstr ""
+
+#: inc/vc-functions.php:1779
+msgid "Albums element."
+msgstr ""
+
+#: inc/vc-functions.php:1786
+msgid "Grid 2 cols"
+msgstr ""
+
+#: inc/vc-functions.php:1787
+msgid "Grid 3 cols"
+msgstr ""
+
+#: inc/vc-functions.php:1788
+msgid "Grid 4 cols"
+msgstr ""
+
+#: inc/vc-functions.php:1790
+msgid "Select Albums Layout"
+msgstr ""
+
+#: inc/vc-functions.php:1819
+msgid "Display Style"
+msgstr ""
+
+#: inc/vc-functions.php:1822
+msgid "Show all"
+msgstr ""
+
+#: inc/vc-functions.php:1823
+msgid "Pagination"
+msgstr ""
+
+#: inc/vc-functions.php:1826
+msgid "Select display style for albums."
+msgstr ""
+
+#: inc/vc-functions.php:1883
+msgid "ALC: Content Nav"
+msgstr ""
+
+#: inc/vc-functions.php:1887
+msgid "A custom content filter."
+msgstr ""
+
+#: inc/vc-functions.php:1891
+msgid "Items"
+msgstr ""
+
+#: inc/vc-functions.php:1895 inc/vc-functions.php:1899
+msgid "Select Item"
+msgstr ""
+
+#: inc/vc-functions.php:1928
+msgid "Enter URL to a page."
+msgstr ""
+
+#: inc/vc-functions.php:1931
+msgid "Active?"
+msgstr ""
+
+#: inc/vc-functions.php:1937
+msgid "Select currently active item."
+msgstr ""
+
+#: inc/vc-functions.php:2225
+msgid "Empty"
+msgstr ""
+
+#: inc/vc-functions.php:2267
+msgid "ALC: Event Blocks - Simple"
+msgstr ""
+
+#: inc/vc-functions.php:2271 inc/vc-functions.php:2339
+#: sportspress/widgets/widget-alc-event-block.php:32
+msgid "A list of events."
+msgstr ""
+
+#: inc/vc-functions.php:2275 inc/vc-functions.php:2948
+#: inc/vc-functions.php:3020 inc/vc-functions.php:3097
+msgid "Heading"
+msgstr ""
+
+#: inc/vc-functions.php:2277
+msgid "Events"
+msgstr ""
+
+#: inc/vc-functions.php:2278
+msgid "Add heading text here."
+msgstr ""
+
+#: inc/vc-functions.php:2283 inc/vc-functions.php:3218
+msgid "Number of events to show"
+msgstr ""
+
+#: inc/vc-functions.php:2286 inc/vc-functions.php:3221
+msgid "Enter a number of events to show."
+msgstr ""
+
+#: inc/vc-functions.php:2293 inc/vc-functions.php:2304
+#: inc/vc-functions.php:2649 inc/vc-functions.php:2659
+#: inc/vc-functions.php:3162 inc/widgets/widget-recent-posts.php:209
+#: inc/widgets/widget-recent-posts.php:238
+#: sportspress/widgets/widget-alc-event-block.php:131
+#: sportspress/widgets/widget-alc-event-block.php:178
+#: sportspress/widgets/widget-alc-featured-player.php:122
+#: sportspress/widgets/widget-alc-game-result.php:169
+#: sportspress/widgets/widget-alc-game-result.php:203
+#: vc_templates/alc_post_slider.php:117
+msgid "All"
+msgstr ""
+
+#: inc/vc-functions.php:2294
+msgid "Published"
+msgstr ""
+
+#: inc/vc-functions.php:2295
+msgid "Scheduled"
+msgstr ""
+
+#: inc/vc-functions.php:2297
+msgid "Select events status to display."
+msgstr ""
+
+#: inc/vc-functions.php:2301 inc/vc-functions.php:2646
+msgid "Select Calendar:"
+msgstr ""
+
+#: inc/vc-functions.php:2306 inc/vc-functions.php:2651
+#: inc/vc-functions.php:3164
+msgid "Pick a calendar to display."
+msgstr ""
+
+#: inc/vc-functions.php:2310
+#: sportspress/widgets/widget-alc-event-block.php:183
+msgid "Sort Order:"
+msgstr ""
+
+#: inc/vc-functions.php:2314 inc/vc-functions.php:3185
+msgid "ASC"
+msgstr ""
+
+#: inc/vc-functions.php:2315 inc/vc-functions.php:3184
+msgid "DESC"
+msgstr ""
+
+#: inc/vc-functions.php:2317 inc/vc-functions.php:3187
+msgid "Select events sorting order."
+msgstr ""
+
+#: inc/vc-functions.php:2320 inc/vc-functions.php:3167
+#: sportspress/widgets/widget-alc-event-block.php:191
+msgid "Display link to view all events"
+msgstr ""
+
+#: inc/vc-functions.php:2326
+msgid ""
+"Adds a button to the header (Note: make sure you selected a calendar to get "
+"it working)."
+msgstr ""
+
+#: inc/vc-functions.php:2335
+msgid "ALC: Event Scoreboard"
+msgstr ""
+
+#: inc/vc-functions.php:2349
+msgid "Select Event"
+msgstr ""
+
+#: inc/vc-functions.php:2352
+msgid "Pick event to display."
+msgstr ""
+
+#: inc/vc-functions.php:2356 sportspress/event-details.php:62
+msgid "Details"
+msgstr ""
+
+#: inc/vc-functions.php:2363 inc/vc-functions.php:2986
+#: inc/vc-functions.php:3058
+msgid "Detailed statistics will be shown if enabled."
+msgstr ""
+
+#: inc/vc-functions.php:2366
+msgid "Advanced Details"
+msgstr ""
+
+#: inc/vc-functions.php:2373
+msgid "Additional statistics will be shown if enabled."
+msgstr ""
+
+#: inc/vc-functions.php:2379 inc/vc-functions.php:2851
+msgid "Add link to header."
+msgstr ""
+
+#: inc/vc-functions.php:2384
+msgid "1st Team Color"
+msgstr ""
+
+#: inc/vc-functions.php:2386
+msgid "Color for progress and circular bars of the 1st Team."
+msgstr ""
+
+#: inc/vc-functions.php:2391
+msgid "2nd Team Color"
+msgstr ""
+
+#: inc/vc-functions.php:2393
+msgid "Color for progress and circular bars of the 2nd Team."
+msgstr ""
+
+#: inc/vc-functions.php:2421
+msgid "ALC: Games History"
+msgstr ""
+
+#: inc/vc-functions.php:2425
+msgid "A chart with games history."
+msgstr ""
+
+#: inc/vc-functions.php:2436 inc/vc-functions.php:2514
+#: inc/vc-functions.php:2637
+msgid "Select Team:"
+msgstr ""
+
+#: inc/vc-functions.php:2441 inc/vc-functions.php:2519
+#: inc/vc-functions.php:2642
+msgid ""
+"Select team to display games history. Can be set Default if you're on Team "
+"Page."
+msgstr ""
+
+#: inc/vc-functions.php:2445
+msgid "WON Label"
+msgstr ""
+
+#: inc/vc-functions.php:2447
+msgid "Won"
+msgstr ""
+
+#: inc/vc-functions.php:2448
+msgid "Enter text for WON label."
+msgstr ""
+
+#: inc/vc-functions.php:2453
+msgid "LOST Label"
+msgstr ""
+
+#: inc/vc-functions.php:2455
+msgid "Lost"
+msgstr ""
+
+#: inc/vc-functions.php:2456
+msgid "Enter text for LOST label."
+msgstr ""
+
+#: inc/vc-functions.php:2462
+msgid "WON Bars Color"
+msgstr ""
+
+#: inc/vc-functions.php:2464
+msgid "Select a custom color for WON bars."
+msgstr ""
+
+#: inc/vc-functions.php:2469
+msgid "LOST Bars Color"
+msgstr ""
+
+#: inc/vc-functions.php:2471
+msgid "Select a custom color for LOST bars."
+msgstr ""
+
+#: inc/vc-functions.php:2499
+msgid "ALC: Team Stats"
+msgstr ""
+
+#: inc/vc-functions.php:2503
+msgid "A block with team stats."
+msgstr ""
+
+#: inc/vc-functions.php:2523
+msgid "Select League Table:"
+msgstr ""
+
+#: inc/vc-functions.php:2526
+msgid "Select league table."
+msgstr ""
+
+#: inc/vc-functions.php:2531
+msgid "Team Stats"
+msgstr ""
+
+#: inc/vc-functions.php:2554 inc/vc-functions.php:2764
+#: inc/vc-functions.php:2949 inc/vc-functions.php:3021
+#: inc/vc-functions.php:3098
+msgid "Label"
+msgstr ""
+
+#: inc/vc-functions.php:2557
+msgid "Enter label for statistic"
+msgstr ""
+
+#: inc/vc-functions.php:2562 inc/vc-functions.php:2772
+#: inc/vc-functions.php:2965 inc/vc-functions.php:3037
+#: inc/vc-functions.php:3106
+msgid "Statistic"
+msgstr ""
+
+#: inc/vc-functions.php:2566 inc/vc-functions.php:2776
+#: inc/vc-functions.php:2969 inc/vc-functions.php:3041
+#: inc/vc-functions.php:3110
+msgid "Select a statistic"
+msgstr ""
+
+#: inc/vc-functions.php:2574
+msgid "Icon 1"
+msgstr ""
+
+#: inc/vc-functions.php:2575
+msgid "Icon 2"
+msgstr ""
+
+#: inc/vc-functions.php:2576
+msgid "Icon 3"
+msgstr ""
+
+#: inc/vc-functions.php:2577
+msgid "Icon Custom"
+msgstr ""
+
+#: inc/vc-functions.php:2580
+msgid "Select an icon"
+msgstr ""
+
+#: inc/vc-functions.php:2584
+msgid "Icon Symbol"
+msgstr ""
+
+#: inc/vc-functions.php:2588
+#, php-format
+msgid "Enter icon symbol, e.g. W, L, % etc."
+msgstr ""
+
+#: inc/vc-functions.php:2622
+msgid "ALC: Team Points History"
+msgstr ""
+
+#: inc/vc-functions.php:2626
+msgid "A chart displayed team points."
+msgstr ""
+
+#: inc/vc-functions.php:2655
+#: sportspress/widgets/widget-alc-event-block.php:158
+#: sportspress/widgets/widget-alc-game-result.php:183
+#: woocommerce/checkout/thankyou.php:54
+msgid "Date:"
+msgstr ""
+
+#: inc/vc-functions.php:2660
+msgid "This Week"
+msgstr ""
+
+#: inc/vc-functions.php:2661
+msgid "Date Range"
+msgstr ""
+
+#: inc/vc-functions.php:2663
+msgid "Select a date to display."
+msgstr ""
+
+#: inc/vc-functions.php:2667
+msgid "Date From:"
+msgstr ""
+
+#: inc/vc-functions.php:2669
+msgid "Date Format yyyy-mm-dd, e.g. 2017-01-30"
+msgstr ""
+
+#: inc/vc-functions.php:2678
+msgid "Date To:"
+msgstr ""
+
+#: inc/vc-functions.php:2680
+msgid "Date Format yyyy-mm-dd, e.g. 2017-03-31"
+msgstr ""
+
+#: inc/vc-functions.php:2690
+msgid "Chart Line Color"
+msgstr ""
+
+#: inc/vc-functions.php:2692
+msgid "Select a custom color for chart line."
+msgstr ""
+
+#: inc/vc-functions.php:2697
+msgid "Chart Point Color"
+msgstr ""
+
+#: inc/vc-functions.php:2699
+msgid "Select a custom color for chart point."
+msgstr ""
+
+#: inc/vc-functions.php:2727
+msgid "ALC: Team Leaders"
+msgstr ""
+
+#: inc/vc-functions.php:2731
+msgid "A block for displaying team leaders."
+msgstr ""
+
+#: inc/vc-functions.php:2742 inc/vc-functions.php:3256
+#: inc/vc-functions.php:3294 inc/vc-functions.php:3344
+msgid "Select Player List:"
+msgstr ""
+
+#: inc/vc-functions.php:2745 inc/vc-functions.php:3259
+#: inc/vc-functions.php:3297 inc/vc-functions.php:3347
+msgid "Select player list."
+msgstr ""
+
+#: inc/vc-functions.php:2749
+msgid "Players Stats"
+msgstr ""
+
+#: inc/vc-functions.php:2767 inc/vc-functions.php:2952
+#: inc/vc-functions.php:3024 inc/vc-functions.php:3101
+msgid "Enter Heading for Statistic"
+msgstr ""
+
+#: inc/vc-functions.php:2781
+msgid "AVG Statistic"
+msgstr ""
+
+#: inc/vc-functions.php:2785
+msgid "Select an AVG statistic"
+msgstr ""
+
+#: inc/vc-functions.php:2790
+msgid "Number of Players"
+msgstr ""
+
+#: inc/vc-functions.php:2794
+msgid "Enter number of players to display"
+msgstr ""
+
+#: inc/vc-functions.php:2825
+msgid "ALC: Staff Bio Card"
+msgstr ""
+
+#: inc/vc-functions.php:2829
+msgid "A staff info card."
+msgstr ""
+
+#: inc/vc-functions.php:2839
+msgid "Staff Member"
+msgstr ""
+
+#: inc/vc-functions.php:2844
+msgid "Select staff member you want to display."
+msgstr ""
+
+#: inc/vc-functions.php:2881
+msgid "ALC: Player Stats"
+msgstr ""
+
+#: inc/vc-functions.php:2885
+msgid "A block shows player stats."
+msgstr ""
+
+#: inc/vc-functions.php:2896 inc/vc-functions.php:3191
+msgid "Select Player"
+msgstr ""
+
+#: inc/vc-functions.php:2901 inc/vc-functions.php:3196
+msgid ""
+"Select player. (Note: Leave it empty if you place this element on Single "
+"Player page)."
+msgstr ""
+
+#: inc/vc-functions.php:2908
+msgid "Banner - Style 1"
+msgstr ""
+
+#: inc/vc-functions.php:2909
+msgid "Banner - Style 2"
+msgstr ""
+
+#: inc/vc-functions.php:2910
+msgid "Hide Banner"
+msgstr ""
+
+#: inc/vc-functions.php:2912
+msgid "Select style or hide player banner."
+msgstr ""
+
+#: inc/vc-functions.php:2915
+msgid "Customize Primary Stats?"
+msgstr ""
+
+#: inc/vc-functions.php:2921
+msgid "Enable to customize primary statistics."
+msgstr ""
+
+#: inc/vc-functions.php:2929
+msgid "Primary Stats"
+msgstr ""
+
+#: inc/vc-functions.php:2957 inc/vc-functions.php:3029
+msgid "Subheading"
+msgstr ""
+
+#: inc/vc-functions.php:2961 inc/vc-functions.php:3033
+msgid "Enter Subheading for Statistic"
+msgstr ""
+
+#: inc/vc-functions.php:2979 inc/vc-functions.php:2989
+#: inc/vc-functions.php:3003 inc/vc-functions.php:3051
+#: inc/vc-functions.php:3061 inc/vc-functions.php:3076
+msgid "Performances"
+msgstr ""
+
+#: inc/vc-functions.php:2980
+msgid "Display Performances?"
+msgstr ""
+
+#: inc/vc-functions.php:2990
+msgid "Customize Performances?"
+msgstr ""
+
+#: inc/vc-functions.php:2996 inc/vc-functions.php:3068
+msgid "Enable to customize detailed statistics."
+msgstr ""
+
+#: inc/vc-functions.php:3005
+msgid "Performance - Number"
+msgstr ""
+
+#: inc/vc-functions.php:3030 sportspress/player-featured.php:214
+#: sportspress/player-featured.php:376
+#: sportspress/single-team/content-roster.php:249
+#: sportspress/single-team/content-roster.php:258
+#: sportspress/single-team/content-roster.php:268
+#: sportspress/single-team/content-roster.php:277
+#: sportspress/single-team/content-roster.php:287
+#: sportspress/single-team/content-roster.php:296
+#: sportspress/single-team/content-roster.php:306
+#: sportspress/single-team/content-roster.php:315
+#: sportspress/single-team/content-roster.php:325
+#: sportspress/single-team/content-roster.php:334
+#: sportspress/single-team/content-roster.php:344
+#: sportspress/single-team/content-roster.php:353
+#: sportspress/single-team/content-roster.php:476
+#: sportspress/single-team/content-roster.php:485
+#: sportspress/single-team/content-roster.php:494
+#: sportspress/single-team/content-roster.php:503
+#: sportspress/single-team/content-roster.php:513
+#: sportspress/single-team/content-roster.php:522
+#: sportspress/single-team/content-roster.php:532
+#: sportspress/single-team/content-roster.php:541
+#: vc_templates/alc_player_stats.php:396 vc_templates/alc_player_stats.php:662
+msgid "In his career"
+msgstr ""
+
+#: inc/vc-functions.php:3039 inc/vc-functions.php:3108
+msgid "- Select -"
+msgstr ""
+
+#: inc/vc-functions.php:3052
+msgid "Display Secondary Performances?"
+msgstr ""
+
+#: inc/vc-functions.php:3062
+msgid "Customize Secondary Performances?"
+msgstr ""
+
+#: inc/vc-functions.php:3078
+msgid "Performance - Equation"
+msgstr ""
+
+#: inc/vc-functions.php:3144
+msgid "ALC: Player Game-by-Game Stats"
+msgstr ""
+
+#: inc/vc-functions.php:3148
+msgid "Game-by-game stat for player."
+msgstr ""
+
+#: inc/vc-functions.php:3159
+msgid "Select Calendar"
+msgstr ""
+
+#: inc/vc-functions.php:3173
+msgid "Adds a button to all events the widget header."
+msgstr ""
+
+#: inc/vc-functions.php:3181
+msgid "Sort Order"
+msgstr ""
+
+#: inc/vc-functions.php:3200
+msgid "Player Statistic"
+msgstr ""
+
+#: inc/vc-functions.php:3214
+msgid ""
+"Type player statistic label. (Note: Order can be changed with drag & drop)."
+msgstr ""
+
+#: inc/vc-functions.php:3248
+msgid "ALC: Roster Slider"
+msgstr ""
+
+#: inc/vc-functions.php:3252
+msgid "A slider for team players."
+msgstr ""
+
+#: inc/vc-functions.php:3286
+msgid "ALC: Roster Blocks"
+msgstr ""
+
+#: inc/vc-functions.php:3290
+msgid "Team players blocks."
+msgstr ""
+
+#: inc/vc-functions.php:3301
+msgid "Number of Columns"
+msgstr ""
+
+#: inc/vc-functions.php:3304
+msgid "3 columns"
+msgstr ""
+
+#: inc/vc-functions.php:3305
+msgid "2 columns"
+msgstr ""
+
+#: inc/vc-functions.php:3307
+msgid "Select a number of columns."
+msgstr ""
+
+#: inc/vc-functions.php:3336
+msgid "ALC: Roster Cards"
+msgstr ""
+
+#: inc/vc-functions.php:3340
+msgid "Team players cards."
+msgstr ""
+
+#: inc/vc-templates.php:35
+msgid "Alchemists Theme"
+msgstr ""
+
+#: inc/wc-functions.php:109
+msgid "Place order"
+msgstr ""
+
+#: inc/wc-functions.php:125
+msgid "View cart"
+msgstr ""
+
+#: inc/wc-functions.php:134
+msgid "Checkout"
+msgstr ""
+
+#: inc/wc-functions.php:156 template-parts/header-secondary.php:101
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/wc-functions.php:169 template-parts/header-secondary.php:116
+msgid "Your Bag"
+msgstr ""
+
+#: inc/wc-functions.php:169 template-parts/header-secondary.php:116
+#, php-format
+msgid "%s item"
+msgid_plural "%s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/wc-functions.php:187
+msgid "Downloads"
+msgstr ""
+
+#: inc/wc-functions.php:190
+msgid "Orders"
+msgstr ""
+
+#: inc/wc-functions.php:193 inc/wc-functions.php:202
+msgid "Account Details"
+msgstr ""
+
+#: inc/wc-functions.php:196
+msgid "Addresses"
+msgstr ""
+
+#: inc/wc-functions.php:199
+msgid "Payment Methods"
+msgstr ""
+
+#: inc/wc-functions.php:347
+msgid "per page"
+msgstr ""
+
+#: inc/wc-functions.php:491 inc/wc-functions.php:510
+msgid "Abbreviation"
+msgstr ""
+
+#: inc/wc-functions.php:493 inc/wc-functions.php:513
+msgid "Used on the Shop Grid layout behind the Product Image"
+msgstr ""
+
+#: inc/wc-functions.php:631
+msgid "Sale!"
+msgstr ""
+
+#: inc/widgets/widget-ad-spot.php:32
+msgid "Display Ad as a widget."
+msgstr ""
+
+#: inc/widgets/widget-ad-spot.php:115 inc/widgets/widget-contact-info.php:197
+#: inc/widgets/widget-instagram-feed.php:147
+#: inc/widgets/widget-recent-comments.php:138
+#: inc/widgets/widget-recent-posts.php:218
+#: inc/widgets/widget-top-posts.php:269
+#: sportspress/widgets/widget-alc-event-block.php:121
+#: sportspress/widgets/widget-alc-featured-player.php:112
+#: sportspress/widgets/widget-alc-game-result.php:162
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/widget-ad-spot.php:120
+msgid "Image URL:"
+msgstr ""
+
+#: inc/widgets/widget-ad-spot.php:122
+msgid "Recommended size 300x250"
+msgstr ""
+
+#: inc/widgets/widget-ad-spot.php:126
+msgid "Link URL:"
+msgstr ""
+
+#: inc/widgets/widget-ad-spot.php:131
+msgid "Alt Text:"
+msgstr ""
+
+#: inc/widgets/widget-contact-info.php:32
+msgid "Display Contact Info as a widget."
+msgstr ""
+
+#: inc/widgets/widget-contact-info.php:202
+msgid "Short Info:"
+msgstr ""
+
+#: inc/widgets/widget-contact-info.php:207
+msgid "1st Label:"
+msgstr ""
+
+#: inc/widgets/widget-contact-info.php:212
+msgid "1st Email:"
+msgstr ""
+
+#: inc/widgets/widget-contact-info.php:217
+msgid "2nd Label:"
+msgstr ""
+
+#: inc/widgets/widget-contact-info.php:222
+msgid "2nd Email:"
+msgstr ""
+
+#: inc/widgets/widget-contact-info.php:227
+msgid "Social - Facebook:"
+msgstr ""
+
+#: inc/widgets/widget-contact-info.php:232
+msgid "Social - Twitter:"
+msgstr ""
+
+#: inc/widgets/widget-contact-info.php:237
+msgid "Social - Google+:"
+msgstr ""
+
+#: inc/widgets/widget-contact-info.php:242
+msgid "Social - Instagram:"
+msgstr ""
+
+#: inc/widgets/widget-instagram-feed.php:32
+msgid "Display Instagram feed as a widget."
+msgstr ""
+
+#: inc/widgets/widget-instagram-feed.php:63
+#: inc/widgets/widget-instagram-feed.php:141
+msgid "Follow Our Instagram"
+msgstr ""
+
+#: inc/widgets/widget-instagram-feed.php:152
+msgid "Username:"
+msgstr ""
+
+#: inc/widgets/widget-instagram-feed.php:157
+msgid "User ID:"
+msgstr ""
+
+#: inc/widgets/widget-instagram-feed.php:162
+msgid "Access Token:"
+msgstr ""
+
+#: inc/widgets/widget-instagram-feed.php:167
+msgid "Number of images:"
+msgstr ""
+
+#: inc/widgets/widget-instagram-feed.php:172
+msgid "Layout:"
+msgstr ""
+
+#: inc/widgets/widget-instagram-feed.php:174
+msgid "3 Columns"
+msgstr ""
+
+#: inc/widgets/widget-instagram-feed.php:175
+msgid "4 Columns"
+msgstr ""
+
+#: inc/widgets/widget-instagram-feed.php:181
+msgid "Show Follow Button"
+msgstr ""
+
+#: inc/widgets/widget-instagram-feed.php:185
+msgid "Follow Button Label:"
+msgstr ""
+
+#: inc/widgets/widget-recent-comments.php:32
+msgid "A widget to show the most recent comments."
+msgstr ""
+
+#: inc/widgets/widget-recent-comments.php:84
+#, php-format
+msgctxt "%s = human-readable time difference"
+msgid "%s ago"
+msgstr ""
+
+#: inc/widgets/widget-recent-comments.php:98
+msgid "No comments."
+msgstr ""
+
+#: inc/widgets/widget-recent-comments.php:143
+msgid "Number of comments:"
+msgstr ""
+
+#: inc/widgets/widget-recent-comments.php:148
+msgid "Comment size (number of words):"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts.php:33
+msgid "Display your posts."
+msgstr ""
+
+#: inc/widgets/widget-recent-posts.php:206
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts.php:223
+msgid "Number of items to show:"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts.php:228
+msgid "Order by:"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts.php:231
+msgid "Popularity"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts.php:236
+msgid "Category:"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts.php:256
+msgid "Show thumbnail"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts.php:260
+#: inc/widgets/widget-social-counters.php:237
+msgid "Layout Style:"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts.php:267
+msgid "Excerpt size (number of words):"
+msgstr ""
+
+#: inc/widgets/widget-social-counters.php:32
+msgid "Display social counters as a widget."
+msgstr ""
+
+#: inc/widgets/widget-social-counters.php:87
+#: inc/widgets/widget-social-counters.php:224
+#: template-parts/social-counters/social-fb.php:18
+msgid "Like Our Facebook Page"
+msgstr ""
+
+#: inc/widgets/widget-social-counters.php:88
+#: inc/widgets/widget-social-counters.php:225
+#: template-parts/social-counters/social-twitter.php:21
+msgid "Follow Us on Twitter"
+msgstr ""
+
+#: inc/widgets/widget-social-counters.php:89
+#: inc/widgets/widget-social-counters.php:226
+msgid "Subscribe to Our Google+"
+msgstr ""
+
+#: inc/widgets/widget-social-counters.php:90
+#: inc/widgets/widget-social-counters.php:227
+msgid "Follow us on Instagram"
+msgstr ""
+
+#: inc/widgets/widget-social-counters.php:115
+#: template-parts/social-counters/social-fb.php:19
+#: template-parts/social-counters/social-gplus.php:19
+msgid "Likes"
+msgstr ""
+
+#: inc/widgets/widget-social-counters.php:130
+#: inc/widgets/widget-social-counters.php:160
+#: template-parts/social-counters/social-instagram.php:19
+#: template-parts/social-counters/social-twitter.php:24
+msgid "Followers"
+msgstr ""
+
+#: inc/widgets/widget-social-counters.php:132
+#: template-parts/social-counters/social-twitter.php:26
+msgid "Follow US"
+msgstr ""
+
+#: inc/widgets/widget-social-counters.php:147
+msgid "Subscribers"
+msgstr ""
+
+#: inc/widgets/widget-social-counters.php:239
+msgid "Full-width Buttons"
+msgstr ""
+
+#: inc/widgets/widget-social-counters.php:240
+msgid "Half-width Buttons"
+msgstr ""
+
+#: inc/widgets/widget-social-counters.php:241
+msgid "Auto width"
+msgstr ""
+
+#: inc/widgets/widget-social-counters.php:266
+msgid "Facebook Text Label:"
+msgstr ""
+
+#: inc/widgets/widget-social-counters.php:271
+msgid "Twitter Text Label:"
+msgstr ""
+
+#: inc/widgets/widget-social-counters.php:276
+msgid "Google+ Text Label:"
+msgstr ""
+
+#: inc/widgets/widget-social-counters.php:281
+msgid "Instagram Text Label:"
+msgstr ""
+
+#: inc/widgets/widget-top-posts.php:34
+msgid "Newest, Most Commented and Popular posts."
+msgstr ""
+
+#: inc/widgets/widget-top-posts.php:75
+msgid "Newest"
+msgstr ""
+
+#: inc/widgets/widget-top-posts.php:78
+msgid "Most Commented"
+msgstr ""
+
+#: inc/widgets/widget-top-posts.php:81
+msgid "Popular"
+msgstr ""
+
+#: inc/widgets/widget-top-posts.php:274
+msgid "Number of newest posts:"
+msgstr ""
+
+#: inc/widgets/widget-top-posts.php:279
+msgid "Number of most commented posts:"
+msgstr ""
+
+#: inc/widgets/widget-top-posts.php:284
+msgid "Number of popular posts:"
+msgstr ""
+
+#: search.php:31
+msgid "Search Results"
+msgstr ""
+
+#: searchform.php:4
+msgid "Search text..."
+msgstr ""
+
+#: searchform.php:6
+msgid "Search"
+msgstr ""
+
+#: single-albums.php:42
+msgid "Go Back to the Albums"
+msgstr ""
+
+#: sportspress/countdown.php:123
+msgid "VS"
+msgstr ""
+
+#: sportspress/countdown.php:175
+msgid "Game Countdown"
+msgstr ""
+
+#: sportspress/countdown.php:181
+msgid "days"
+msgstr ""
+
+#: sportspress/countdown.php:182
+msgid "hrs"
+msgstr ""
+
+#: sportspress/countdown.php:183
+msgid "mins"
+msgstr ""
+
+#: sportspress/countdown.php:184
+msgid "secs"
+msgstr ""
+
+#: sportspress/event-blocks-custom.php:88 sportspress/event-blocks.php:96
+#: sportspress/event-list.php:101
+#: sportspress/player-event-game-by-game.php:108
+msgid "View all events"
+msgstr ""
+
+#: sportspress/event-blocks.php:264 sportspress/event-logos-block.php:155
+#: sportspress/event-logos-block.php:744
+#: sportspress/event-logos-inline.php:134
+#: sportspress/event-logos-inline.php:314 sportspress/game-result.php:242
+#: vc_templates/alc_event_scoreboard.php:266
+#: vc_templates/alc_event_scoreboard.php:824
+msgid "Final Score"
+msgstr ""
+
+#: sportspress/event-details.php:27 sportspress/event-list.php:130
+#: sportspress/event-list.php:144 sportspress/event-list.php:150
+msgid "Time"
+msgstr ""
+
+#: sportspress/event-details.php:44 sportspress/event-list.php:175
+msgid "Match Day"
+msgstr ""
+
+#: sportspress/event-details.php:53 sportspress/event-logos-block.php:610
+#: sportspress/game-result.php:330 vc_templates/alc_event_scoreboard.php:666
+msgid "Full Time"
+msgstr ""
+
+#: sportspress/event-list.php:116
+msgid "Home"
+msgstr ""
+
+#: sportspress/event-list.php:120 sportspress/event-list.php:158
+msgid "Time/Results"
+msgstr ""
+
+#: sportspress/event-list.php:122 sportspress/event-list.php:146
+#: sportspress/event-list.php:154 sportspress/event-results.php:21
+msgid "Results"
+msgstr ""
+
+#: sportspress/event-list.php:126
+msgid "Away"
+msgstr ""
+
+#: sportspress/event-list.php:136
+msgid "Teams"
+msgstr ""
+
+#: sportspress/event-list.php:138
+msgid "Event"
+msgstr ""
+
+#: sportspress/event-list.php:163
+msgid "Competition"
+msgstr ""
+
+#: sportspress/event-list.php:166
+msgid "Season"
+msgstr ""
+
+#: sportspress/event-list.php:169 sportspress/event-venue.php:38
+msgid "Venue"
+msgstr ""
+
+#: sportspress/event-list.php:172
+msgid "Article"
+msgstr ""
+
+#: sportspress/event-list.php:404
+msgid "Recap"
+msgstr ""
+
+#: sportspress/event-list.php:406 sportspress/event-logos-block.php:151
+#: sportspress/event-logos-block.php:740
+#: sportspress/event-logos-inline.php:130
+#: sportspress/event-logos-inline.php:310
+msgid "Preview"
+msgstr ""
+
+#: sportspress/event-logos-block.php:15 sportspress/event-logos-inline.php:12
+msgid "Game Recap"
+msgstr ""
+
+#: sportspress/event-logos-block.php:17 sportspress/event-logos-inline.php:14
+msgid "Game Results"
+msgstr ""
+
+#: sportspress/event-logos-block.php:310 sportspress/event-logos-block.php:991
+#: sportspress/game-result.php:446 sportspress/game-result.php:544
+#: vc_templates/alc_event_scoreboard.php:360
+#: vc_templates/alc_event_scoreboard.php:1029
+msgid "Game Statistics"
+msgstr ""
+
+#: sportspress/event-logos-block.php:500
+#: vc_templates/alc_event_scoreboard.php:556
+msgid "Ball Possession"
+msgstr ""
+
+#: sportspress/event-logos-block.php:555
+#: vc_templates/alc_event_scoreboard.php:611
+msgid "Game Timeline"
+msgstr ""
+
+#: sportspress/event-logos-block.php:575 sportspress/game-result.php:303
+#: vc_templates/alc_event_scoreboard.php:631
+msgid "Kick Off"
+msgstr ""
+
+#: sportspress/event-logos-block.php:584 sportspress/game-result.php:304
+#: vc_templates/alc_event_scoreboard.php:640
+msgid "KO"
+msgstr ""
+
+#: sportspress/event-logos-block.php:611 sportspress/game-result.php:331
+#: vc_templates/alc_event_scoreboard.php:667
+msgid "FT"
+msgstr ""
+
+#: sportspress/event-logos-block.php:827 sportspress/game-result.php:357
+#: vc_templates/alc_event_scoreboard.php:870
+msgid "Scoreboard"
+msgstr ""
+
+#: sportspress/event-logos-block.php:828 sportspress/game-result.php:358
+#: vc_templates/alc_event_scoreboard.php:871
+msgid "1"
+msgstr ""
+
+#: sportspress/event-logos-block.php:829 sportspress/game-result.php:359
+#: vc_templates/alc_event_scoreboard.php:872
+msgid "2"
+msgstr ""
+
+#: sportspress/event-logos-block.php:830 sportspress/game-result.php:360
+#: vc_templates/alc_event_scoreboard.php:873
+msgid "3"
+msgstr ""
+
+#: sportspress/event-logos-block.php:831 sportspress/game-result.php:361
+#: vc_templates/alc_event_scoreboard.php:874
+msgid "4"
+msgstr ""
+
+#: sportspress/event-logos-block.php:833 sportspress/game-result.php:363
+#: vc_templates/alc_event_scoreboard.php:876
+msgid "OT"
+msgstr ""
+
+#: sportspress/event-logos-block.php:835 sportspress/game-result.php:365
+#: vc_templates/alc_event_scoreboard.php:878
+#: vc_templates/alc_team_leaders.php:113
+msgid "T"
+msgstr ""
+
+#: sportspress/event-officials-list.php:16
+#: sportspress/event-officials-table.php:16
+msgid "Officials"
+msgstr ""
+
+#: sportspress/event-performance-table.php:104
+msgid "Player of the Match"
+msgstr ""
+
+#: sportspress/event-performance-table.php:107
+#: sportspress/event-performance-table.php:110
+msgid "Stars"
+msgstr ""
+
+#: sportspress/event-performance-table.php:218
+#: woocommerce/cart/cart-totals.php:130 woocommerce/cart/cart-totals.php:131
+#: woocommerce/cart/cart.php:42 woocommerce/cart/cart.php:124
+#: woocommerce/checkout/review-order.php:31
+#: woocommerce/checkout/review-order.php:110
+#: woocommerce/order/order-details.php:50
+msgid "Total"
+msgstr ""
+
+#: sportspress/event-staff.php:26 sportspress/event-staff.php:50
+msgid "Staff"
+msgstr ""
+
+#: sportspress/event-video.php:20
+msgid "Video"
+msgstr ""
+
+#: sportspress/league-table.php:58
+msgid "View full table"
+msgstr ""
+
+#: sportspress/league-table.php:83
+msgid "Pos"
+msgstr ""
+
+#: sportspress/player-block-thumbnail.php:40
+#: sportspress/player-block-thumbnail.php:41
+#: sportspress/player-block-thumbnail.php:90
+#: sportspress/player-cards__card.php:65 sportspress/player-cards__card.php:66
+#: sportspress/player-cards__card.php:67 sportspress/player-cards__card.php:68
+#: sportspress/player-slider-card__slide.php:68
+#: sportspress/player-slider-card__slide.php:69
+#: sportspress/player-slider-card__slide.php:70
+#: sportspress/player-slider-card__slide.php:71
+#: sportspress/player-statistics-avg.php:51
+#: sportspress/player-statistics-avg.php:52
+#: sportspress/player-statistics-avg.php:53
+#: sportspress/player-statistics-avg.php:137
+#: sportspress/player-statistics-avg.php:162 sportspress/single-player.php:144
+#: sportspress/single-player.php:145 sportspress/single-player.php:322
+#: sportspress/single-player.php:342
+#: sportspress/single-team/content-roster.php:142
+#: sportspress/single-team/content-roster.php:143
+#: sportspress/single-team/content-roster.php:144
+#: sportspress/single-team/content-roster.php:145
+#: sportspress/single-team/content-roster.php:152
+#: sportspress/single-team/content-roster.php:153
+#: sportspress/single-team/content-roster.php:154
+#: sportspress/single-team/content-roster.php:155
+#: sportspress/single-team/content-roster.php:156
+#: sportspress/single-team/content-roster.php:157
+#: sportspress/single-team/content-roster.php:158
+#: sportspress/single-team/content-roster.php:159
+#: sportspress/single-team/content-roster.php:376
+#: sportspress/single-team/content-roster.php:377
+#: sportspress/single-team/content-roster.php:378
+#: sportspress/single-team/content-roster.php:380
+#: sportspress/single-team/content-roster.php:381
+#: sportspress/single-team/content-roster.php:382
+#: sportspress/single-team/content-roster.php:383
+#: sportspress/single-team/content-roster.php:384
+#: sportspress/single-team/content-roster.php:385
+#: sportspress/single-team/content-roster.php:386
+#: sportspress/single-team/content-roster.php:387
+#: sportspress/single-team/content-roster.php:388
+#: sportspress/single-team/content-roster.php:393
+#: sportspress/single-team/content-roster.php:399
+#: vc_templates/alc_player_stats.php:151 vc_templates/alc_player_stats.php:152
+#: vc_templates/alc_player_stats.php:153 vc_templates/alc_player_stats.php:154
+#: vc_templates/alc_player_stats.php:181 vc_templates/alc_player_stats.php:182
+#: vc_templates/alc_player_stats.php:183 vc_templates/alc_player_stats.php:184
+#: vc_templates/alc_player_stats.php:185 vc_templates/alc_player_stats.php:186
+#: vc_templates/alc_player_stats.php:187 vc_templates/alc_player_stats.php:188
+#: vc_templates/alc_player_stats.php:189 vc_templates/alc_player_stats.php:190
+#: vc_templates/alc_player_stats.php:191 vc_templates/alc_player_stats.php:192
+#: vc_templates/alc_player_stats.php:450 vc_templates/alc_player_stats.php:451
+#: vc_templates/alc_player_stats.php:452 vc_templates/alc_player_stats.php:465
+#: vc_templates/alc_player_stats.php:466 vc_templates/alc_player_stats.php:467
+#: vc_templates/alc_player_stats.php:468 vc_templates/alc_player_stats.php:469
+#: vc_templates/alc_player_stats.php:470 vc_templates/alc_player_stats.php:471
+#: vc_templates/alc_player_stats.php:472 vc_templates/alc_player_stats.php:473
+#: vc_templates/alc_player_stats.php:478 vc_templates/alc_player_stats.php:484
+msgid "n/a"
+msgstr ""
+
+#: sportspress/player-block-thumbnail.php:68
+msgid "Height:"
+msgstr ""
+
+#: sportspress/player-block-thumbnail.php:71
+msgid "Weight:"
+msgstr ""
+
+#: sportspress/player-block-thumbnail.php:74
+msgid "Age:"
+msgstr ""
+
+#: sportspress/player-block-thumbnail.php:78
+msgid "Nationality: "
+msgstr ""
+
+#: sportspress/player-blocks.php:169 sportspress/player-gallery.php:168
+#: sportspress/player-list.php:110 sportspress/player-slider-card.php:190
+#: sportspress/player-slider.php:206
+msgid "View all players"
+msgstr ""
+
+#: sportspress/player-details.php:46 woocommerce/single-product-reviews.php:80
+msgid "Name"
+msgstr ""
+
+#: sportspress/player-details.php:57 sportspress/single-player.php:310
+#: vc_templates/alc_staff_bio_card.php:74
+msgid "Nationality"
+msgstr ""
+
+#: sportspress/player-details.php:68 sportspress/single-player.php:332
+msgid "Position"
+msgstr ""
+
+#: sportspress/player-details.php:83 sportspress/single-player.php:234
+#: vc_templates/alc_staff_bio_card.php:85
+msgid "Current Team"
+msgstr ""
+
+#: sportspress/player-details.php:96 sportspress/single-player.php:255
+#: vc_templates/alc_staff_bio_card.php:97
+msgid "Past Teams"
+msgstr ""
+
+#: sportspress/player-details.php:107 sportspress/single-player.php:276
+msgid "Competitions"
+msgstr ""
+
+#: sportspress/player-details.php:118 sportspress/single-player.php:293
+msgid "Seasons"
+msgstr ""
+
+#: sportspress/player-event-game-by-game.php:120
+msgid "Versus"
+msgstr ""
+
+#: sportspress/player-event-game-by-game.php:121
+msgid "Score"
+msgstr ""
+
+#: sportspress/player-event-game-by-game.php:131
+msgid "YC"
+msgstr ""
+
+#: sportspress/player-event-game-by-game.php:133
+msgid "RC"
+msgstr ""
+
+#: sportspress/player-event-game-by-game.php:135
+msgid "A"
+msgstr ""
+
+#: sportspress/player-event-game-by-game.php:137
+msgid "G"
+msgstr ""
+
+#: sportspress/player-event-game-by-game.php:219
+msgid "W"
+msgstr ""
+
+#: sportspress/player-event-game-by-game.php:221
+msgid "L"
+msgstr ""
+
+#: sportspress/player-event-game-by-game.php:223
+msgid "D"
+msgstr ""
+
+#: sportspress/player-featured.php:173
+#: sportspress/single-team/content-roster.php:214
+#: vc_templates/alc_player_stats.php:171
+msgid "SHOT ACC"
+msgstr ""
+
+#: sportspress/player-featured.php:185
+#: sportspress/single-team/content-roster.php:226
+#: vc_templates/alc_player_stats.php:172
+msgid "PASS ACC"
+msgstr ""
+
+#: sportspress/player-featured.php:308 sportspress/single-player.php:158
+#: sportspress/single-team/content-roster.php:420
+#: vc_templates/alc_player_stats.php:533
+msgid "Team Logo"
+msgstr ""
+
+#: sportspress/player-featured.php:341
+#: sportspress/single-team/content-roster.php:444
+#: sportspress/single-team/content-roster.php:449
+#: sportspress/single-team/content-roster.php:454
+#: vc_templates/alc_player_stats.php:590 vc_templates/alc_team_leaders.php:115
+msgid "AVG"
+msgstr ""
+
+#: sportspress/player-featured.php:398
+#: sportspress/single-team/content-roster.php:561
+msgid "Shot<br> Accuracy"
+msgstr ""
+
+#: sportspress/player-featured.php:408
+#: sportspress/single-team/content-roster.php:571
+msgid "Free Throw<br> Accuracy"
+msgstr ""
+
+#: sportspress/player-featured.php:418
+#: sportspress/single-team/content-roster.php:581
+msgid "3 Points<br> Accuracy"
+msgstr ""
+
+#: sportspress/player-list.php:235
+msgid "Rank"
+msgstr ""
+
+#: sportspress/player-slider-thumbnail.php:63
+msgid "Check the<br>Player Profile"
+msgstr ""
+
+#: sportspress/player-statistics-avg.php:42
+#: sportspress/single-team/content-roster.php:194
+#: sportspress/single-team/content-roster.php:248
+#: vc_templates/alc_player_stats.php:157 vc_templates/alc_player_stats.php:197
+msgid "Goals"
+msgstr ""
+
+#: sportspress/player-statistics-avg.php:43
+#: sportspress/player-statistics-avg.php:64
+#: sportspress/single-team/content-roster.php:202
+#: sportspress/single-team/content-roster.php:257
+#: sportspress/single-team/content-roster.php:447
+#: sportspress/single-team/content-roster.php:502
+#: vc_templates/alc_player_stats.php:159 vc_templates/alc_player_stats.php:198
+#: vc_templates/alc_player_stats.php:456 vc_templates/alc_player_stats.php:492
+msgid "Assists"
+msgstr ""
+
+#: sportspress/player-statistics-avg.php:63
+#: sportspress/single-team/content-roster.php:442
+#: vc_templates/alc_player_stats.php:455
+msgid "Points"
+msgstr ""
+
+#: sportspress/player-statistics-avg.php:65
+#: sportspress/single-team/content-roster.php:493
+#: vc_templates/alc_player_stats.php:491
+msgid "Rebounds"
+msgstr ""
+
+#: sportspress/player-statistics-avg.php:86
+msgid "T.Goals"
+msgstr ""
+
+#: sportspress/player-statistics-avg.php:93
+msgid "T.Assists"
+msgstr ""
+
+#: sportspress/player-statistics-avg.php:100
+msgid "T.Games"
+msgstr ""
+
+#: sportspress/player-statistics-bars.php:37
+msgid "Win Ratio"
+msgstr ""
+
+#: sportspress/player-statistics-bars.php:49
+msgid "Shot Accuracy"
+msgstr ""
+
+#: sportspress/player-statistics-bars.php:61
+msgid "Pass Accuracy"
+msgstr ""
+
+#: sportspress/player-statistics-bars.php:73
+msgid "Performance"
+msgstr ""
+
+#: sportspress/player-statistics-bars.php:85
+msgid "P.Kick Accuracy"
+msgstr ""
+
+#: sportspress/player-statistics-radar.php:46
+msgid "OFF"
+msgstr ""
+
+#: sportspress/player-statistics-radar.php:46
+msgid "AST"
+msgstr ""
+
+#: sportspress/player-statistics-radar.php:46
+msgid "3PT"
+msgstr ""
+
+#: sportspress/player-statistics-radar.php:46
+msgid "DEF"
+msgstr ""
+
+#: sportspress/player-statistics.php:33 sportspress/player-statistics.php:35
+msgid "Defense"
+msgstr ""
+
+#: sportspress/player-statistics.php:33 sportspress/player-statistics.php:35
+msgid "Offense"
+msgstr ""
+
+#: sportspress/player-statistics.php:72
+msgid "Career Total"
+msgstr ""
+
+#: sportspress/single-player.php:208
+msgid "Height"
+msgstr ""
+
+#: sportspress/single-player.php:213
+msgid "Weight"
+msgstr ""
+
+#: sportspress/single-player.php:219
+msgid "Age"
+msgstr ""
+
+#: sportspress/single-player.php:226
+msgid "Birthday"
+msgstr ""
+
+#: sportspress/single-player/content-bio.php:49
+msgid "Nothing Found. Please check Player Bio section."
+msgstr ""
+
+#: sportspress/single-player/content-bio.php:63
+msgid "Player Newslog"
+msgstr ""
+
+#: sportspress/single-team.php:148 sportspress/single-team.php:157
+#: sportspress/single-team.php:163 sportspress/single-team.php:169
+#: sportspress/single-team.php:175 sportspress/single-team.php:181
+msgid "The Team"
+msgstr ""
+
+#: sportspress/single-team/content-roster.php:198
+#: sportspress/single-team/content-roster.php:267
+#: vc_templates/alc_player_stats.php:158 vc_templates/alc_player_stats.php:199
+msgid "Shots"
+msgstr ""
+
+#: sportspress/single-team/content-roster.php:206
+#: vc_templates/alc_player_stats.php:160
+msgid "Games"
+msgstr ""
+
+#: sportspress/single-team/content-roster.php:276
+#: vc_templates/alc_player_stats.php:200
+msgid "Shots on Target"
+msgstr ""
+
+#: sportspress/single-team/content-roster.php:286
+#: vc_templates/alc_player_stats.php:201
+msgid "P.Kick Attempts"
+msgstr ""
+
+#: sportspress/single-team/content-roster.php:295
+#: vc_templates/alc_player_stats.php:202
+msgid "P.Kick Goals"
+msgstr ""
+
+#: sportspress/single-team/content-roster.php:305
+#: vc_templates/alc_player_stats.php:203
+msgid "Dribbles"
+msgstr ""
+
+#: sportspress/single-team/content-roster.php:314
+#: sportspress/single-team/content-roster.php:531
+#: vc_templates/alc_player_stats.php:204 vc_templates/alc_player_stats.php:495
+msgid "Fouls"
+msgstr ""
+
+#: sportspress/single-team/content-roster.php:324
+#: vc_templates/alc_player_stats.php:205
+msgid "Offsides"
+msgstr ""
+
+#: sportspress/single-team/content-roster.php:333
+#: sportspress/single-team/content-roster.php:540
+#: vc_templates/alc_player_stats.php:206 vc_templates/alc_player_stats.php:496
+msgid "Games Played"
+msgstr ""
+
+#: sportspress/single-team/content-roster.php:343
+#: vc_templates/alc_player_stats.php:207
+msgid "Yellow Cards"
+msgstr ""
+
+#: sportspress/single-team/content-roster.php:352
+#: vc_templates/alc_player_stats.php:208
+msgid "Red Cards"
+msgstr ""
+
+#: sportspress/single-team/content-roster.php:452
+#: vc_templates/alc_player_stats.php:457
+msgid "Rebs"
+msgstr ""
+
+#: sportspress/single-team/content-roster.php:475
+#: vc_templates/alc_player_stats.php:489
+msgid "2 Points"
+msgstr ""
+
+#: sportspress/single-team/content-roster.php:484
+#: vc_templates/alc_player_stats.php:490
+msgid "3 Points"
+msgstr ""
+
+#: sportspress/single-team/content-roster.php:512
+#: vc_templates/alc_player_stats.php:493
+msgid "Steals"
+msgstr ""
+
+#: sportspress/widgets/widget-alc-event-block.php:124
+msgid "Heading:"
+msgstr ""
+
+#: sportspress/widgets/widget-alc-event-block.php:127
+#: sportspress/widgets/widget-alc-featured-player.php:115
+#: sportspress/widgets/widget-alc-featured-player.php:132
+#: sportspress/widgets/widget-alc-game-result.php:165
+#, php-format
+msgid "Select %s:"
+msgstr ""
+
+#: sportspress/widgets/widget-alc-event-block.php:127
+#: sportspress/widgets/widget-alc-game-result.php:165
+msgid "Calendar"
+msgstr ""
+
+#: sportspress/widgets/widget-alc-event-block.php:139
+#: sportspress/widgets/widget-alc-featured-player.php:127
+#: sportspress/widgets/widget-alc-featured-player.php:144
+#: sportspress/widgets/widget-alc-game-result.php:177
+msgid "Add New"
+msgstr ""
+
+#: sportspress/widgets/widget-alc-event-block.php:144
+msgid "Status:"
+msgstr ""
+
+#: sportspress/widgets/widget-alc-event-block.php:177
+#: sportspress/widgets/widget-alc-game-result.php:202
+msgid "Match Day:"
+msgstr ""
+
+#: sportspress/widgets/widget-alc-event-block.php:180
+#: sportspress/widgets/widget-alc-game-result.php:205
+msgid "Number of events to show:"
+msgstr ""
+
+#: sportspress/widgets/widget-alc-featured-player.php:32
+msgid "A featured player."
+msgstr ""
+
+#: sportspress/widgets/widget-alc-featured-player.php:150
+msgid "Select Style:"
+msgstr ""
+
+#: sportspress/widgets/widget-alc-featured-player.php:158
+msgid "Statistics Type:"
+msgstr ""
+
+#: sportspress/widgets/widget-alc-featured-player.php:160
+msgid "Compact"
+msgstr ""
+
+#: sportspress/widgets/widget-alc-featured-player.php:161
+msgid "Extended"
+msgstr ""
+
+#: sportspress/widgets/widget-alc-featured-player.php:166
+msgid "Statistics:"
+msgstr ""
+
+#: sportspress/widgets/widget-alc-featured-player.php:186
+msgid "Note: Select no more than three items."
+msgstr ""
+
+#: sportspress/widgets/widget-alc-featured-player.php:190
+msgid "Performance:"
+msgstr ""
+
+#: sportspress/widgets/widget-alc-game-result.php:34
+msgid "Display event results."
+msgstr ""
+
+#: sportspress/widgets/widget-alc-game-result.php:211
+msgid "Show Timeline"
+msgstr ""
+
+#: template-parts/content-blog-1-3cols.php:56
+#: template-parts/content-blog-1.php:56 template-parts/content-blog-3.php:52
+#: template-parts/content-page.php:19 template-parts/content.php:55
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-none.php:18
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid "Nothing Found!"
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr ""
+
+#: template-parts/header-searchform.php:3
+msgid "Enter your seach here..."
+msgstr ""
+
+#: template-parts/page-hero-unit.php:57 template-parts/page-hero-unit.php:59
+msgid "Hero Image"
+msgstr ""
+
+#: template-parts/post-filter.php:31
+msgid "Category"
+msgstr ""
+
+#: template-parts/post-filter.php:33
+msgid "All Articles"
+msgstr ""
+
+#: template-parts/post-filter.php:55
+msgid "Article Date"
+msgstr ""
+
+#: template-parts/post-filter.php:56
+msgid "Article Title"
+msgstr ""
+
+#: template-parts/post-filter.php:57
+msgid "Article ID"
+msgstr ""
+
+#: template-parts/post-filter.php:58
+msgid "Comments Count"
+msgstr ""
+
+#: template-parts/post-filter.php:95
+msgid "All Authors"
+msgstr ""
+
+#: template-parts/post-filter.php:123
+msgid "Filter News"
+msgstr ""
+
+#: template-parts/post/post-navigation-2.php:25
+msgid "Other Articles"
+msgstr ""
+
+#: template-parts/social-counters/social-gplus.php:18
+msgid "Friend us on Google+"
+msgstr ""
+
+#: template-parts/social-counters/social-instagram.php:18
+msgid "Follow Us on Instagram"
+msgstr ""
+
+#: vc_templates/alc_images_carousel.php:81
+msgid "Image Title"
+msgstr ""
+
+#: vc_templates/alc_images_carousel.php:82
+msgid "Image Caption"
+msgstr ""
+
+#: vc_templates/alc_player_stats.php:508
+msgid "Field Goal Accuracy"
+msgstr ""
+
+#: vc_templates/alc_player_stats.php:509
+msgid "Free Throw Accuracy"
+msgstr ""
+
+#: vc_templates/alc_player_stats.php:510
+msgid "3 Points Accuracy"
+msgstr ""
+
+#: vc_templates/alc_team_leaders.php:114
+msgid "GP"
+msgstr ""
+
+#: vc_templates/alc_team_points_history.php:166
+msgid "1st Half"
+msgstr ""
+
+#: vc_templates/alc_team_points_history.php:185
+msgid "2nd Half"
+msgstr ""
+
+#: vc_templates/alc_team_points_history.php:290
+msgid "POINTS"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:51
+msgid ""
+"There are no shipping methods available. Please ensure that your address has "
+"been entered correctly, or contact us if you need any help."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:53
+msgid "Enter your full address to see shipping costs."
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:44 woocommerce/cart/cart-totals.php:81
+#: woocommerce/cart/cart-totals.php:82
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:59
+msgid "Cart totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:69 woocommerce/cart/cart-totals.php:70
+#: woocommerce/cart/mini-cart.php:113 woocommerce/checkout/review-order.php:63
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:108
+#, php-format
+msgid "(estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart.php:32
+msgid "Your Shopping Cart"
+msgstr ""
+
+#: woocommerce/cart/cart.php:38
+msgid "Photo"
+msgstr ""
+
+#: woocommerce/cart/cart.php:39 woocommerce/cart/cart.php:80
+#: woocommerce/checkout/review-order.php:30
+#: woocommerce/order/order-details.php:49
+#: woocommerce/single-product/tabs/tabs.php:43
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:40 woocommerce/cart/cart.php:101
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:41 woocommerce/cart/cart.php:107
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:43
+msgid "Remove"
+msgstr ""
+
+#: woocommerce/cart/cart.php:96
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:135 woocommerce/cart/mini-cart.php:56
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:156
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:157 woocommerce/checkout/form-coupon.php:38
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:159 woocommerce/checkout/form-coupon.php:42
+msgid "Apply"
+msgstr ""
+
+#: woocommerce/cart/cart.php:164
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:104
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/cart/proceed-to-checkout-button.php:27
+msgid "Proceed to checkout"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:33
+msgid "Calculate shipping"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:42
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:59
+#: woocommerce/cart/shipping-calculator.php:65
+#: woocommerce/cart/shipping-calculator.php:77
+msgid "State / County"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:66
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:86
+msgid "City"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:94
+msgid "Postcode / ZIP"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:100
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:30
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:34
+msgid "Billing details"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:65
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:29
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:53
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:28
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:28
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:28
+msgid "Shipping Details"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:33
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:73
+#: woocommerce/single-product/tabs/additional-information.php:25
+msgid "Additional information"
+msgstr ""
+
+#: woocommerce/checkout/terms.php:26
+#, php-format
+msgid ""
+"I&rsquo;ve read and accept the <a href=\"%s\" class=\"woocommerce-terms-and-"
+"conditions-link\">terms &amp; conditions</a>"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:41 woocommerce/checkout/thankyou.php:90
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:49
+msgid "Order number:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:60
+msgid "Email:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:66
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:73
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/global/form-login.php:39
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/global/form-login.php:45
+#: woocommerce/myaccount/form-login.php:56
+#: woocommerce/myaccount/form-login.php:118
+msgid "Password"
+msgstr ""
+
+#: woocommerce/global/form-login.php:55
+#: woocommerce/myaccount/form-login.php:65
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/global/form-login.php:59
+#: woocommerce/myaccount/form-login.php:69
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/global/form-login.php:59
+#: woocommerce/myaccount/form-login.php:69
+msgid "Click Here"
+msgstr ""
+
+#: woocommerce/global/form-login.php:65
+#: woocommerce/myaccount/form-login.php:75
+msgid "Login"
+msgstr ""
+
+#: woocommerce/myaccount/downloads.php:41 woocommerce/myaccount/orders.php:101
+msgid "Go shop"
+msgstr ""
+
+#: woocommerce/myaccount/downloads.php:43
+msgid "No downloads available yet."
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:30
+msgid "First name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:34
+msgid "Last name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:40
+#: woocommerce/myaccount/form-login.php:111
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:47
+msgid "Password change"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:50
+msgid "Current password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:54
+msgid "New password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:58
+msgid "Confirm new password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:68
+msgid "Save changes"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:23
+#: woocommerce/order/order-details-customer.php:35
+msgid "Billing address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:23
+#: woocommerce/order/order-details-customer.php:58
+msgid "Shipping address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:52
+msgid "Save address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:44
+msgid "Login to your account"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:52
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:94
+msgid "Register Now"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:104
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:125
+msgid "Anti-spam"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:131
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/navigation.php:29
+msgid "Welcome Back!"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:51
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:63
+#, php-format
+msgid "%1$s for %2$s item"
+msgid_plural "%1$s for %2$s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/orders.php:89
+msgid "Previous"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:93
+msgid "Next"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:103
+msgid "No order has been made yet."
+msgstr ""
+
+#: woocommerce/order/order-again.php:25
+msgid "Order again"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:39
+#: woocommerce/order/order-details-customer.php:62
+#: woocommerce/single-product/meta.php:31
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/order/order-details.php:42
+msgid "Order details"
+msgstr ""
+
+#: woocommerce/order/order-details.php:85
+msgid "Note:"
+msgstr ""
+
+#: woocommerce/order/order-downloads.php:52
+msgid "&infin;"
+msgstr ""
+
+#: woocommerce/order/order-downloads.php:58
+msgid "Never"
+msgstr ""
+
+#: woocommerce/product-searchform.php:25
+msgid "Search for:"
+msgstr ""
+
+#: woocommerce/product-searchform.php:27
+msgid "Search products&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:35
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:37
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:60
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:73
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:73
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:82
+msgid "Email"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:85
+msgid "Submit Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:91
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:95
+msgid "Your rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:96
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:97
+msgid "5 Stars - Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:98
+msgid "4 Stars - Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:99
+msgid "3 Stars - Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:100
+msgid "2 Stars - Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:101
+msgid "1 Star - Very poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:105
+msgid "Your review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:114
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:32
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:44
+msgid "Clear"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:31
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:35
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/product-image.php:56
+msgid "Awaiting product image"
+msgstr ""
+
+#: woocommerce/single-product/related.php:29
+msgid "Related products"
+msgstr ""
+
+#: woocommerce/single-product/review-meta.php:28
+msgid "Your review is awaiting approval"
+msgstr ""
+
+#: woocommerce/single-product/review-meta.php:36
+msgid "Verified Owner"
+msgstr ""

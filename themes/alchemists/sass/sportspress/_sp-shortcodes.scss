@@ -1,0 +1,143 @@
+/* Sportspress Shortcodes */
+
+.sp-template {
+	overflow-x: hidden; //needed for responsive table
+}
+
+// Event Results
+.sp-event-results {
+
+	> thead > tr > th:first-child,
+	> tbody > tr > td:first-child {
+		padding-left: $card-horizontal-padding;
+	}
+
+	> thead > tr > th:last-child,
+	> tbody > tr > td:last-child {
+		padding-right: $card-horizontal-padding;
+	}
+
+	> thead > tr > th:not(.data-name),
+	> tbody > tr > td:not(.data-name) {
+		text-align: center;
+	}
+
+	.data-name > a {
+		color: $headings-color;
+	}
+
+}
+
+// Event Performance (Box Score)
+.sp-event-performance {
+
+	> thead > tr > th,
+	> tbody > tr > td {
+		vertical-align: middle;
+		text-align: center;
+
+		&.data-number {
+			text-align: left;
+			color: $headings-color;
+		}
+
+		&.data-name {
+			text-align: left;
+
+			> a {
+				color: $headings-color;
+			}
+		}
+
+		&.data-position {
+			text-align: left;
+		}
+	}
+
+	> thead > tr > th:first-child,
+	> tbody > tr > td:first-child {
+		padding-left: $card-horizontal-padding;
+	}
+
+	> thead > tr > th:last-child,
+	> tbody > tr > td:last-child {
+		padding-right: $card-horizontal-padding;
+	}
+}
+
+
+// Event Details
+.sp-event-details {
+
+	> thead > tr > th:first-child,
+	> tbody > tr > td:first-child {
+		padding-left: $card-horizontal-padding;
+	}
+
+	> thead > tr > th:last-child,
+	> tbody > tr > td:last-child {
+		padding-right: $card-horizontal-padding;
+	}
+}
+
+
+// Event Calendar
+.sp-template-event-calendar {
+	@include card();
+}
+
+
+// Player Details
+.wpb_text_column,
+.sp-widget-align-none {
+
+	.sp-template-player-photo {
+
+		@media (max-width: 479px) {
+			float: none;
+			text-align: center;
+			max-width: 100%;
+			margin-right: 0;
+		}
+	}
+}
+.sp-template-player-details {
+
+	.card__content {
+		padding: $card-vertical-padding $card-horizontal-padding;
+	}
+
+	.sp-player-details {
+		margin-bottom: 0;
+
+		dt {
+			@include font-accent(12px);
+			line-height: 18px;
+			color: $headings-color;
+			margin-bottom: 10px;
+			overflow: hidden;
+			text-overflow: ellipsis;
+			white-space: nowrap;
+		}
+
+		dd {
+			margin-bottom: 10px;
+			line-height: 18px;
+		}
+
+		@media (min-width: 992px) {
+			display: flex;
+			flex-wrap: wrap;
+
+			dt {
+				width: 34%;
+			}
+
+			dd {
+				margin-left: auto;
+				width: 66%;
+				padding-left: 20px;
+			}
+		}
+	}
+}

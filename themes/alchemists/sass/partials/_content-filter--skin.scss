@@ -1,0 +1,62 @@
+/* Team Filter */
+.content-filter {
+  background-color: $content-filter-bg;
+
+  @media (min-width: 992px) {
+    border-bottom: 1px solid $content-filter-border;
+  }
+}
+
+  .content-filter__toggle {
+
+    &::before {
+      color: $content-filter-color-hover;
+    }
+  }
+
+  .content-filter__toggle--active {
+
+    &::before {
+      content: '\f00d';
+    }
+  }
+
+  .content-filter__list {
+
+    @media (min-width: 992px) {
+      border-left: 1px solid $content-filter-border;
+      border-right: 1px solid $content-filter-border;
+    }
+  }
+    .content-filter__item {
+      border-bottom: 1px solid $content-filter-border;
+
+      @media (min-width: 992px) {
+
+        & + & {
+          border-left: 1px solid $content-filter-border;
+        }
+      }
+    }
+      .content-filter__link {
+        font-family: $font-family-accent;
+        color: $content-filter-color;
+
+        small {
+          color: $content-filter-color;
+        }
+
+        &:hover {
+          color: $content-filter-color-hover;
+        }
+
+        &::before {
+          background-color: $color-primary;
+        }
+      }
+      .content-filter__item--active {
+
+        .content-filter__link {
+          color: $content-filter-color-hover;
+        }
+      }

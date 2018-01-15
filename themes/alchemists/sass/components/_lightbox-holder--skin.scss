@@ -1,0 +1,60 @@
+/* Lightbox Holder
+/* ------------------------- */
+
+.lightbox-holder {
+
+}
+  // Centered Icon
+  .lightbox-holder__link--play {
+
+    &::before {
+      border: 2px solid $color-primary;
+      background-color: rgba($body-bg-color, 0.6);
+    }
+  }
+  .lightbox-holder__overlay {
+
+    time {
+      font-family: $font-family-accent;
+      color: $body-font-color;
+    }
+  }
+
+  .lightbox-holder__overlay--video {
+
+    &::before {
+      border: 2px solid $color-primary;
+    }
+  }
+
+
+// Post Category Styling
+.lightbox-holder {
+
+  &.posts__item--category-1 {
+
+    .lightbox-holder__link--play::before,
+    .lightbox-holder__overlay--video::before {
+      border-color: $post-category-1;
+    }
+    .lightbox-holder__link--play::before {
+
+    }
+  }
+
+  &.posts__item--category-2 {
+
+    .lightbox-holder__link--play::before,
+    .lightbox-holder__overlay--video::before {
+      border-color: $post-category-2;
+    }
+  }
+
+  &.posts__item--category-3 {
+
+    .lightbox-holder__link--play::before,
+    .lightbox-holder__overlay--video::before {
+      border-color: $post-category-3;
+    }
+  }
+}

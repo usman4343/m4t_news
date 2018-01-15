@@ -1,0 +1,74 @@
+#update-nag, .notice-error, .update-nag, .updated, .show-settings, .screen-meta-toggle{
+    display: none !important;
+}
+
+#sq_settings .sq_subtitles p{
+    margin: 5px 45px 40px 45px
+}
+
+#sq_settings_body fieldset{
+    width: 800px;
+}
+
+#sq_helpkeywordresearchcontent {
+    float: left;
+    width: 900px;
+}
+
+.sq_beta {
+    display: none !important;
+}
+
+.sq_limit_exceeded {
+    clear: both !important;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.sq_limit_exceeded a {
+    text-decoration: none;
+    display: block;
+    width: 200px;
+    clear: both;
+    background-color: #1cab09;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    margin: 10px auto 0 auto;
+    padding: 11px;
+    position: relative;
+    text-shadow: 1px 1px #555;
+    cursor: pointer;
+}
+
+#sq_research{
+    margin: 0;
+}
+
+#sq_research ul.sq_research_complexity {
+    right: 195px;
+}
+
+#sq_research ul.sq_research_lang{
+    right: 55px;
+    top: 17px;
+}
+
+@media only screen and (max-width: 1024px){
+    #sq_helpkeywordresearchcontent {
+        width: 800px;
+    }
+}
+
+@media only screen and (max-width: 1320px) {
+    .sq_helpside {
+        clear: both;
+        float: left;
+        width: 808px;
+        height: 275px;
+        margin: 0;
+        padding: 0;
+    }
+
+
+}

@@ -1,0 +1,13 @@
+/* Post Filter
+/* ------------------------- */
+.post-filter {
+  background-color: $filter-bg;
+  border-bottom: 1px solid $filter-border;
+}
+  .post-filter__select {
+
+    .post-filter__label {
+      font-family: $font-family-accent;
+      color: $filter-label-color;
+    }
+  }

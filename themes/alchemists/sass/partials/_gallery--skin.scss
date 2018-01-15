@@ -1,0 +1,44 @@
+/*
+// #Gallery
+// --------------------------------------------------
+*/
+
+.gallery {
+
+}
+  .gallery__item {
+
+  }
+    .gallery__item-inner {
+
+      &:hover {
+
+        @if $template != football {
+          background-color: $color-primary-darken;
+          color: #fff;
+        }
+      }
+    }
+      .gallery__thumb {
+
+        @if $template == football {
+          background-color: $color-dark-2;
+        } @else {
+          background-color: #171d21;
+        }
+      }
+        .gallery__icon {
+          color: $color-primary;
+        }
+          .gallery__date {
+            font-family: $font-family-accent;
+            color: $body-font-color;
+          }
+
+      // Header (before thumb)
+      .gallery__header {
+
+        .gallery__like {
+          color: $body-font-color;
+        }
+      }

@@ -1,0 +1,76 @@
+#setting-error-tgmpa {
+	display: block;
+	clear: both; }
+
+tr[data-slug="slider-revolution"] + .plugin-update-tr,
+.vc_license-activation-notice,
+.rs-update-notice-wrap,
+tr.plugin-update-tr.active#js_composer-update {
+	display: none !important; }
+
+.redux-message.redux-notice,
+[id*="redux_blast_"] {
+	display: none !important; }
+
+#redux-header .rAds {
+	display: none !important;
+	width: 0 !important;
+	height: 0 !important;
+}
+
+/* SP Widgets */
+[id*="sportspress-"] label[for*="-align"],
+[id*="sportspress-"] select[id*="-align"] {
+	display: none; }
+
+/* SP Widget: Event Blocks */
+[id*="sportspress-event-blocks-"] label[for*="-title"],
+[id*="sportspress-event-blocks-"] input[id*="-title"] {
+	display: none; }
+
+/* SP Widget: Event List */
+[id*="sportspress-event-list"] label[for*="-title"],
+[id*="sportspress-event-list"] input[id*="-title"] {
+	display: none; }
+
+/* SP Widget: Player List */
+[id*="sportspress-player-list"] label[for*="-title"],
+[id*="sportspress-player-list"] input[id*="-title"] {
+	display: none; }
+
+/* SP Widget: League Table */
+[id*="sportspress-league-table"] label[for*="-title"],
+[id*="sportspress-league-table"] input[id*="-title"] {
+	display: none; }
+
+/* Redux Theme Options */
+.redux-sidebar .redux-group-menu li a img[src*="sp.png"] {
+	width: 20px;
+	height: auto;
+}
+
+/* Redux Framework */
+#alchemists_data-alchemists__color-preset ul.redux-image-select li {
+	display: block !important; }
+
+
+/* SportsPress SVG image size fix */
+.sp-admin-config-table td.icon img[src$=".svg"] {
+	height: auto !important;
+	width: auto !important;
+}
+
+#posts-filter .wp-list-table .type-sp_team .sp_icon #vc_load-inline-editor{
+	display: none !important;
+}
+
+/* Redux Theme Options */
+.redux-sidebar .redux-group-menu li a img[src*="sp.png"] {
+	width: 20px;
+	height: auto;
+}
+
+/* SportsPress data table width */
+.sp-data-table-container {
+	overflow-x: auto;
+}

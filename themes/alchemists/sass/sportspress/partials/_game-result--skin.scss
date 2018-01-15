@@ -1,0 +1,130 @@
+/* Game Results */
+
+	// Game Result Header - Alt
+	.game-result__header--alt {
+		border-top: 1px solid $card-border-color;
+		border-bottom: 1px solid $card-border-color;
+
+		.game-result__league {
+			font-family: $font-family-accent;
+
+			@if $template == football {
+				color: #fff;
+			} @else {
+				color: $color-2;
+			}
+		}
+		.game-result__title {
+
+			@if $template == football {
+				color: $body-font-color;
+			}
+
+			.highlight {
+				@if $template == football {
+					color: #fff;
+				} @else {
+					color: $color-primary;
+				}
+			}
+		}
+		.game-result__goal {
+			color: $color-2;
+			font-family: $font-family-accent;
+		}
+	}
+				.game-result__team-desc {
+					font-family: $font-family-accent;
+				}
+
+		// Score Result
+			.game-result__score {
+				font-family: $font-family-accent;
+
+				@if $template == football {
+					color: #fff;
+				} @else {
+					color: $color-2;
+				}
+			}
+
+				.game-result__score-result--winner {
+
+					&::before {
+
+						@if $template == football {
+							border-left: 8px solid $color-4;
+						} @else {
+							border-left: 8px solid $color-primary;
+						}
+					}
+
+					.game-result__score-result--loser ~ &::after {
+
+						@if $template == football {
+							border-right: 8px solid $color-4;
+						} @else {
+							border-right: 8px solid $color-primary;
+						}
+
+					}
+				}
+				.game-result__score-result--loser {
+					color: $body-font-color;
+				}
+
+				.game-result__score-label {
+					font-family: $font-family-accent;
+					color: $color-2;
+				}
+
+
+
+	// Game Stats Table
+	.game-result__table-stats--soccer {
+
+		tbody > tr > td:first-child,
+		tbody > tr > td:last-child {
+			color: $color-2;
+		}
+	}
+
+
+// Game Timeline
+.game-timeline {
+
+	&::before {
+		background-color: $card-border-color;
+	}
+
+	&::after {
+
+		@media (max-width: 991px) {
+			background-color: $card-border-color;
+		}
+	}
+}
+		.game-timeline__time {
+			border: 1px solid $card-border-color;
+			background-color: $card-bg;
+			color: $color-2;
+			font-family: $font-family-accent;
+		}
+			.game-timeline__event-name {
+				color: $color-2;
+				font-family: $font-family-accent;
+			}
+			.game-timeline__event-desc {
+				font-family: $font-family-accent;
+			}
+
+/* Vertical Timeline */
+.game-timeline-wrapper--vertical {
+
+	.game-timeline {
+
+		&::after {
+			background-color: $card-border-color;
+		}
+	}
+}

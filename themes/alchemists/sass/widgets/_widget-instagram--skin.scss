@@ -1,0 +1,26 @@
+/*
+// #Widget - Instagram
+// --------------------------------------------------
+*/
+
+.widget-instagram {
+
+}
+
+  // Link wraps image
+  .widget-instagram__link-wrapper {
+
+    &::before {
+      background-color: $color-primary-darken;
+      color: #fff;
+    }
+  }
+
+    // Plus sign appears on hover
+    .widget-instagram__plus-sign {
+
+      &::before,
+      &::after {
+        background-color: #fff;
+      }
+    }
